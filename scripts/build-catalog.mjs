@@ -26,7 +26,7 @@ const args = process.argv.slice(2);
 const refresh = args.includes("--refresh");
 const batchSize = args.includes("--batches") ? Number(args[args.indexOf("--batches") + 1]) || 110 : 0;
 
-const UA = "QuartoCatalogBuilder/1.0 (static book catalog; github.com/eyetanvir-prog/book-summary)";
+const UA = "QuartoCatalogBuilder/1.0 (static book catalog; github.com/eyetanvir-prog/career)";
 const FIELDS = [
   "key",
   "title",

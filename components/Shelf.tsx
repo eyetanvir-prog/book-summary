@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { LHook, LTitle } from "@/components/Language";
 import { sectionBySlug, type Book } from "@/lib/catalog";
 
 export function Shelf({
@@ -17,11 +18,13 @@ export function Shelf({
           <span className="idx">{String(start + index + 1).padStart(2, "0")}</span>
           <div>
             <h3>
-              {book.title}
+              <LTitle slug={book.slug}>{book.title}</LTitle>
               {book.mustRead ? <em className="badge">Essay</em> : null}
             </h3>
             <p className="by">{book.author}</p>
-            <p>{book.hook}</p>
+            <p>
+              <LHook slug={book.slug}>{book.hook}</LHook>
+            </p>
           </div>
           <span className="meta-bit">{book.author}</span>
           <span className="meta-bit">

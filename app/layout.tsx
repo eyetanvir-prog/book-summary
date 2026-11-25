@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Instrument_Sans, Instrument_Serif } from "next/font/google";
+import { Instrument_Sans, Instrument_Serif, Noto_Sans_Bengali, Noto_Serif_Bengali } from "next/font/google";
+import { LanguageProvider } from "@/components/Language";
 import { Footer, Header } from "@/components/SiteChrome";
 import "./globals.css";
 import "./catalog.css";
@@ -15,6 +16,20 @@ const serif = Instrument_Serif({
   variable: "--font-serif",
 });
 
+const bnSans = Noto_Sans_Bengali({
+  subsets: ["bengali"],
+  weight: ["400", "600"],
+  variable: "--font-bn-sans",
+  display: "swap",
+});
+
+const bnSerif = Noto_Serif_Bengali({
+  subsets: ["bengali"],
+  weight: ["400", "600"],
+  variable: "--font-bn-serif",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
   title: "Quarto — four-minute books",
   description:
@@ -23,11 +38,13 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${sans.variable} ${serif.variable}`}>
+    <html lang="en" className={`${sans.variable} ${serif.variable} ${bnSans.variable} ${bnSerif.variable}`}>
       <body>
-        <Header />
-        {children}
-        <Footer />
+        <LanguageProvider>
+          <Header />
+          {children}
+          <Footer />
+        </LanguageProvider>
       </body>
     </html>
   );

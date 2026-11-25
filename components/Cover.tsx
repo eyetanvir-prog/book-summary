@@ -1,9 +1,11 @@
 "use client";
 
 import { useState } from "react";
+import { blurbFor, useLanguage } from "@/components/Language";
 
 export function Cover({
   title,
+  slug,
   coverUrl,
   wash,
   ink,
@@ -11,13 +13,17 @@ export function Cover({
   lazy = false,
 }: {
   title: string;
+  slug?: string;
   coverUrl: string | null;
   wash: string;
   ink: string;
   motif: string;
   lazy?: boolean;
 }) {
+  const { lang } = useLanguage();
   const [failed, setFailed] = useState(!coverUrl);
+  const bangla = lang === "bn" && slug ? blurbFor(slug) : null;
+  const plate = bangla?.title ?? title;
 
   return (
     <div className={failed ? "cover miss" : "cover"} style={{ background: wash, color: ink }}>
@@ -27,7 +33,7 @@ export function Cover({
       ) : null}
       <div className="cover-art" style={{ opacity: failed ? 1 : 0 }}>
         <i className={`motif ${motif}`} aria-hidden />
-        <strong>{title}</strong>
+        <strong className={bangla ? "bn-title" : undefined}>{plate}</strong>
       </div>
     </div>
   );

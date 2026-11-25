@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { TileGrid } from "@/components/BookTile";
 import { Cover } from "@/components/Cover";
+import { LHook, LTitle } from "@/components/Language";
 import { Quiz } from "@/components/Quiz";
 import { featuredMustReads, getBook, getBooks, mustReads, quizPool, sections, topPicks } from "@/lib/catalog";
 
@@ -59,12 +60,16 @@ export default function HomePage() {
       </div>
 
       <article className="feature">
-        <Cover title={lead.title} coverUrl={lead.coverUrl} wash={lead.wash} ink={lead.ink} motif={lead.motif} />
+        <Cover title={lead.title} slug={lead.slug} coverUrl={lead.coverUrl} wash={lead.wash} ink={lead.ink} motif={lead.motif} />
         <Link href={`/books/${lead.slug}`}>
           <div className="feature-copy">
             <span className="tag">Start here</span>
-            <h2>{lead.title}</h2>
-            <p>{lead.hook}</p>
+            <h2>
+              <LTitle slug={lead.slug}>{lead.title}</LTitle>
+            </h2>
+            <p>
+              <LHook slug={lead.slug}>{lead.hook}</LHook>
+            </p>
             <p>
               {lead.author}
               {lead.year ? ` · catalog year ${lead.year}` : ""} · {lead.minutes} min
@@ -101,7 +106,7 @@ export default function HomePage() {
               <ul>
                 {topPicks(section.slug, 3).map((book) => (
                   <li key={book.slug}>
-                    {book.title}
+                    <LTitle slug={book.slug}>{book.title}</LTitle>
                     <small>{book.author}</small>
                   </li>
                 ))}

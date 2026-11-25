@@ -1,18 +1,23 @@
-# Quarto (book-summary)
+# Quarto
 
 Quarto is a Next.js reading room: a catalog of **1,054** widely read books in eleven sections. Every book has an original card (a one-line hook and three key ideas). **47** must-reads also have a full four-minute essay. A five-question quiz on the homepage recommends five books and explains why each fits. Catalog facts and covers come from [Open Library](https://openlibrary.org); there is no database and no login. Quiz answers stay in `localStorage`.
 
 Nothing here reuses text from Four Minute Books or any other summary site.
 
+Each full essay has a calm English reading in `public/audio/` (Piper’s Lessac voice, unhurried). The essay page has play, pause, and a progress bar. A **বাংলা / English** switch, stored in `localStorage`, shows an original Bangla text of those essays — titles, hooks, and key ideas included. Cards without an essay stay in English; the switch says Bangla is on the essays. English is the default.
+
 ## Live site
+
+After merge and a green **Deploy Quarto (GitHub Pages)** workflow run:
 
 **https://eyetanvir-prog.github.io/book-summary/**
 
-GitHub Pages serves this repo as a **project site**, so routes use `basePath` **`/book-summary`** (set when `GITHUB_PAGES=true` at build time).
+The app is a static export with `basePath` `/book-summary`, so all routes live under that prefix on GitHub Pages.
 
 ## Run locally
 
 ```bash
+cd apps/book-summaries
 npm install
 npm run dev
 ```
@@ -23,8 +28,9 @@ Production-style static build:
 
 ```bash
 npm run build
+# output in out/ — for a GitHub Pages dry run:
 GITHUB_PAGES=true npm run build
-npx serve out   # open http://localhost:3000/book-summary/
+npx serve out   # then open http://localhost:3000/book-summary/
 ```
 
 `npm run build` statically generates every book, section page, and paginated shelf (48 books per page).
@@ -50,6 +56,8 @@ After a rebuild, add cards in `lib/cards/batch-NN.json` and import them in `lib/
 | `lib/open-library.json` | Generated catalog |
 | `lib/cards/*.json` | Original short cards |
 | `lib/essays/*.ts` | Original four-minute essays |
+| `lib/bangla/*.json` | Bangla text for those essays |
+| `public/audio/*.mp3` | English readings of the essays |
 | `lib/catalog.ts` | Merge, ranking, search, quiz pool |
 
 ## Routes
@@ -63,8 +71,4 @@ After a rebuild, add cards in `lib/cards/batch-NN.json` and import them in `lib/
 
 ## Deploy
 
-[`.github/workflows/quarto-pages.yml`](.github/workflows/quarto-pages.yml) builds with `GITHUB_PAGES=true` and pushes `out/` to the **`gh-pages`** branch.
-
-One-time: **Settings → Pages → Deploy from a branch → `gh-pages` / `/` → Save**. Each green workflow run on `main` updates the live site.
-
-The same app also lives in the [career](https://github.com/eyetanvir-prog/career) monorepo under `apps/book-summaries`; **this repo** is the public home at `/book-summary` on GitHub Pages.
+GitHub Actions workflow: [`.github/workflows/quarto-pages.yml`](../../.github/workflows/quarto-pages.yml). It sets `GITHUB_PAGES=true`, runs `npm run build` in this folder, and publishes `out/` to GitHub Pages. The workflow pushes the `out/` folder to the **`gh-pages`** branch. In the repo, open **Settings → Pages** and set the source to **Deploy from branch** → **`gh-pages`** → **`/`** (once). After that, each green workflow run updates the live site.

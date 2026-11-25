@@ -1,8 +1,7 @@
-node_modules/
-.next/
-out/
-scripts/.cache/
-scripts/card-batches/
-.env*
-*.log
-tsconfig.tsbuildinfo
+node_modules
+.next
+out
+.DS_Store
+*.tsbuildinfo
+scripts/.cache
+scripts/card-batches

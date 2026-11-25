@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { blurbFor, useLanguage } from "@/components/Language";
 import type { QuizBook } from "@/lib/catalog";
 
 type SectionLite = { slug: string; label: string; fiction: boolean };
@@ -160,6 +161,7 @@ function OptionGrid({
 }
 
 export function Quiz({ pool, sections }: { pool: QuizBook[]; sections: SectionLite[] }) {
+  const { lang } = useLanguage();
   const [answers, setAnswers] = useState<Answers>(EMPTY);
   const [step, setStep] = useState(0);
   const [done, setDone] = useState(false);
@@ -223,6 +225,9 @@ export function Quiz({ pool, sections }: { pool: QuizBook[]; sections: SectionLi
     setDone(false);
   }
 
+  const shownTitle = (book: QuizBook) => (lang === "bn" && blurbFor(book.slug)?.title) || book.title;
+  const shownHook = (book: QuizBook) => (lang === "bn" && blurbFor(book.slug)?.hook) || book.hook;
+
   if (done) {
     const summary = [
       MOODS.find((m) => m.id === answers.mood)?.label,
@@ -258,16 +263,16 @@ export function Quiz({ pool, sections }: { pool: QuizBook[]; sections: SectionLi
               <Link href={`/books/${book.slug}`} className="quiz-result">
                 <span className="quiz-num">{String(i + 1).padStart(2, "0")}</span>
                 <span className="quiz-thumb" style={{ background: book.wash, color: book.ink }}>
-                  {book.thumbUrl ? <img src={book.thumbUrl} alt="" loading="lazy" /> : <b>{book.title}</b>}
+                  {book.thumbUrl ? <img src={book.thumbUrl} alt="" loading="lazy" /> : <b>{shownTitle(book)}</b>}
                 </span>
                 <span className="quiz-result-copy">
                   <span className="quiz-result-meta">
                     {labelFor(book.section)}
                     {book.mustRead ? <em className="badge">Essay</em> : <em className="badge quiet">Card</em>}
                   </span>
-                  <strong>{book.title}</strong>
+                  <strong className={lang === "bn" && blurbFor(book.slug) ? "bn-title" : undefined}>{shownTitle(book)}</strong>
                   <span className="quiz-result-by">{book.author}</span>
-                  <span className="quiz-hook">{book.hook}</span>
+                  <span className={lang === "bn" && blurbFor(book.slug) ? "quiz-hook bn-copy" : "quiz-hook"}>{shownHook(book)}</span>
                   <span className="quiz-why">
                     <b>Why it fits</b>
                     <span>

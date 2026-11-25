@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { LTitle } from "@/components/Language";
 import { getBooks, sections, topPicks } from "@/lib/catalog";
 
 export const metadata = { title: "Sections — Quarto" };
@@ -24,7 +25,7 @@ export default function SectionsPage() {
             <ul>
               {topPicks(section.slug, 3).map((book) => (
                 <li key={book.slug}>
-                  {book.title}
+                  <LTitle slug={book.slug}>{book.title}</LTitle>
                   <small>{book.author}</small>
                 </li>
               ))}

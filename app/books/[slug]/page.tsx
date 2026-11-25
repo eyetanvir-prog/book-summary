@@ -1,6 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { BanglaCardNote, EssayBody, HeroCopy } from "@/components/BookReading";
 import { Cover } from "@/components/Cover";
+import { EssayAudio } from "@/components/EssayAudio";
+import { LTitle, LangToggle } from "@/components/Language";
+import { getBangla } from "@/lib/bangla";
 import { booksInSection, getBook, getBooks, relatedBooks, sectionBySlug, type Book } from "@/lib/catalog";
 
 export const dynamicParams = false;
@@ -52,6 +56,7 @@ export default async function BookPage({ params }: { params: Promise<{ slug: str
   const book = getBook((await params).slug);
   if (!book) notFound();
   const section = sectionBySlug(book.section);
+  const bangla = book.essay ? getBangla(book.slug) : null;
   const related = relatedBooks(book);
   const essaysNearby = booksInSection(book.section)
     .filter((b) => b.mustRead && b.slug !== book.slug)
@@ -60,14 +65,22 @@ export default async function BookPage({ params }: { params: Promise<{ slug: str
   return (
     <main className="shell">
       <article className="book-hero">
-        <Cover title={book.title} coverUrl={book.coverUrl} wash={book.wash} ink={book.ink} motif={book.motif} />
+        <Cover title={book.title} slug={book.slug} coverUrl={book.coverUrl} wash={book.wash} ink={book.ink} motif={book.motif} />
         <div>
           <p className="kicker">
             <Link href={`/sections/${book.section}`}>{section?.label}</Link>
             {book.mustRead ? <span className="tag hero-tag">Must-read · full essay</span> : null}
           </p>
-          <h1>{book.title}</h1>
-          <p className="hook">{book.hook}</p>
+          <LangToggle prominent />
+          {book.essay && bangla ? (
+            <HeroCopy en={{ title: book.title, hook: book.hook }} bn={bangla} />
+          ) : (
+            <>
+              <h1>{book.title}</h1>
+              <p className="hook">{book.hook}</p>
+            </>
+          )}
+          {book.essay ? <EssayAudio slug={book.slug} title={book.title} /> : null}
           <div className="facts">
             <span>
               <strong>{book.author}</strong>
@@ -83,26 +96,19 @@ export default async function BookPage({ params }: { params: Promise<{ slug: str
           {book.essay ? (
             <>
               <CatalogNote book={book} />
-              {book.essay.sections.map((part) => (
-                <section key={part.heading}>
-                  <h2>{part.heading}</h2>
-                  {part.paragraphs.map((paragraph) => (
-                    <p key={paragraph.slice(0, 48)}>{paragraph}</p>
-                  ))}
-                </section>
-              ))}
-              <h2>Keep these</h2>
-              <ol className="takeaways">
-                {book.essay.takeaways.map((item, index) => (
-                  <li key={item}>
-                    <span>{String(index + 1).padStart(2, "0")}</span>
-                    <p>{item}</p>
-                  </li>
-                ))}
-              </ol>
+              <EssayBody
+                en={{
+                  title: book.title,
+                  hook: book.hook,
+                  takeaways: book.essay.takeaways,
+                  sections: book.essay.sections,
+                }}
+                bn={bangla}
+              />
             </>
           ) : (
             <>
+              <BanglaCardNote />
               <Ideas book={book} title="Three ideas to keep" />
               <aside className="coming" aria-label="Essay status">
                 <span className="tag">Full essay · in the queue</span>
@@ -138,7 +144,7 @@ export default async function BookPage({ params }: { params: Promise<{ slug: str
           <h3 style={{ marginTop: "1.6rem" }}>More in {section?.label}</h3>
           {related.map((other) => (
             <Link key={other.slug} href={`/books/${other.slug}`}>
-              {other.title}
+              <LTitle slug={other.slug}>{other.title}</LTitle>
               {other.mustRead ? <em className="badge">Essay</em> : null}
               <br />
               <small>{other.author}</small>

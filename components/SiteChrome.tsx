@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { LangToggle } from "@/components/Language";
 
 export function Header() {
   return (
@@ -7,6 +8,7 @@ export function Header() {
         Quar<span>to</span>
       </Link>
       <nav className="nav-links" aria-label="Primary">
+        <LangToggle />
         <Link href="/sections">Sections</Link>
         <Link href="/must-reads">Must-reads</Link>
         <Link href="/about">About</Link>
