@@ -1,0 +1,770 @@
+{
+  "einstein": {
+    "hook": "A patient life of Einstein that makes the physics legible and shows how stubbornness and imagination did the real work.",
+    "ideas": [
+      "Einstein’s breakthroughs came from thought experiments — riding a light beam, falling in an elevator — more than from lab data, and Isaacson shows how far that habit carried.",
+      "His refusal to defer to authority made special relativity possible, then the same stubbornness kept him fighting quantum mechanics for decades after most colleagues moved on.",
+      "The private man was less saintly than the poster: a distant father and difficult husband, which the book reports plainly without letting it swallow the science."
+    ]
+  },
+  "how-to-live-365-days-a-year": {
+    "hook": "A 1950s country doctor’s argument that worry, irritation, and dread make people physically sick, and what to do about it.",
+    "ideas": [
+      "Schindler claims a large share of the patients he saw had real symptoms driven mainly by emotional strain rather than by any detectable disease.",
+      "His remedy is unglamorous emotional hygiene: simplify your days, stop rehearsing grievances, enjoy small ordinary things, and decide calmly instead of fretting in circles.",
+      "The prose is dated and some medical claims are blunt for their era, but the core link between chronic stress and the body has aged reasonably well."
+    ]
+  },
+  "relativity-the-special-and-the-general-theory": {
+    "hook": "Einstein himself explains relativity to non-physicists with trains, clocks, and embankments, using barely more than school algebra.",
+    "ideas": [
+      "Simultaneity is not absolute: two events that happen “at the same time” for one observer may not for another moving relative to them.",
+      "If the speed of light is the same for everyone, then measured lengths and durations must stretch or shrink depending on how you are moving.",
+      "General relativity recasts gravity as the curvature of space and time, so a falling body is simply following the straightest path available to it."
+    ]
+  },
+  "gifted-hands": {
+    "hook": "How a struggling Detroit schoolboy with a violent temper became a pioneering pediatric neurosurgeon at Johns Hopkins.",
+    "ideas": [
+      "Carson credits his mother’s rules — limited television, two library books a week, written reports — with turning a bottom-of-class student into a voracious learner.",
+      "Controlling his anger, which he frames as a turning point in faith, matters as much in his telling as any academic gift.",
+      "The surgical chapters show high-stakes medicine as preparation, rehearsal, and teamwork rather than lone heroics, even in his celebrated separation of conjoined twins."
+    ]
+  },
+  "six-easy-pieces": {
+    "hook": "Six of Feynman’s introductory lectures, chosen so a curious reader without calculus can see how physicists actually think.",
+    "ideas": [
+      "If you could pass on one sentence of science, Feynman suggests it would be that everything is made of atoms constantly jiggling, attracting, and repelling.",
+      "Conservation of energy is presented as bookkeeping: a number that stays fixed no matter how the world rearranges itself, which makes it fiercely useful.",
+      "Quantum behavior is strange, and Feynman refuses to pretend otherwise; he teaches you to accept what experiments show rather than what intuition prefers."
+    ]
+  },
+  "madame-curie": {
+    "hook": "Marie Curie’s life written by her daughter, from poverty in occupied Warsaw to two Nobel Prizes and radium’s heavy cost.",
+    "ideas": [
+      "Curie’s discoveries rested on brutal physical labor — processing tons of ore in a leaky shed — as much as on brilliance.",
+      "The book shows a scientist who refused to patent radium, treating knowledge as something owed to everyone rather than a personal asset.",
+      "Written by a loving daughter, it leans toward reverence; read it for the texture of a life, not for a critical scientific assessment."
+    ]
+  },
+  "all-creatures-great-and-small": {
+    "hook": "A young vet arrives in 1930s Yorkshire and learns the job from stubborn farmers, eccentric employers, and very large animals.",
+    "ideas": [
+      "Herriot’s comedy comes from being out of his depth — arms deep in a cow at dawn — while trying to keep professional dignity.",
+      "The farmers’ respect is earned slowly through competence and patience, a quiet lesson in how outsiders join tight rural communities.",
+      "Beneath the warmth sits real loss: animals die, money is scarce, and the book is honest about how little a vet could sometimes do."
+    ]
+  },
+  "the-theory-of-everything": {
+    "hook": "Hawking’s short lecture tour from Aristotle to black holes, aimed at readers who want the big picture without equations.",
+    "ideas": [
+      "Each era’s cosmology was a model that fit the evidence until better observations broke it, and Hawking treats today’s physics the same way.",
+      "Black holes are not perfectly black: quantum effects let them radiate slowly, linking gravity, heat, and quantum theory in one surprising result.",
+      "A unified theory joining general relativity and quantum mechanics is the open goal; the book explains why it is hard rather than claiming victory."
+    ]
+  },
+  "a-walk-in-the-woods": {
+    "hook": "Bryson and an out-of-shape old friend attempt the Appalachian Trail, producing a funny book about forests, fear, and middle age.",
+    "ideas": [
+      "Much of the comedy is honest incompetence: two unfit men discovering that wilderness is long, wet, and indifferent to their plans.",
+      "Bryson threads in real history and ecology, including how much of America’s eastern forest has been lost or damaged, which gives the jokes weight.",
+      "The book quietly argues that you do not need to finish something heroic for the attempt to change how you see the world."
+    ]
+  },
+  "musicophilia": {
+    "hook": "Oliver Sacks collects patients whose brains do strange things with music, revealing how deeply sound is wired into us.",
+    "ideas": [
+      "Music survives damage that wipes out other abilities; people with severe amnesia or dementia can often still sing, play, or be steadied by familiar songs.",
+      "Conditions like earworms, musical hallucinations, and sudden musical obsession show that the brain’s music systems can misfire in specific, studyable ways.",
+      "Sacks writes as a clinician who sees people rather than cases, so the book reads as a set of humane portraits, not a textbook."
+    ]
+  },
+  "brief-answers-to-the-big-questions": {
+    "hook": "Hawking’s final book takes on God, time travel, aliens, and AI in short essays meant for any curious reader.",
+    "ideas": [
+      "Hawking argues the laws of physics can account for the universe’s origin without a creator, while acknowledging many readers will disagree.",
+      "He treats artificial intelligence and climate change as real risks that demand planning now rather than after damage is done.",
+      "His case for space exploration is partly insurance: a species confined to one planet is betting everything on that planet staying habitable."
+    ]
+  },
+  "the-brain-that-changes-itself": {
+    "hook": "Case stories arguing the adult brain can rewire itself after injury, illness, or deliberate training far more than once believed.",
+    "ideas": [
+      "Neuroplasticity means repeated use reshapes brain maps, so skills, habits, and even recovery from stroke depend heavily on targeted practice.",
+      "The same flexibility cuts both ways: harmful habits and chronic pain can be learned and reinforced by the brain just like useful skills.",
+      "The stories are inspiring, but some treatments described rest on small studies, so read the more dramatic claims as promising rather than settled."
+    ]
+  },
+  "chaos": {
+    "hook": "How a scattered group of scientists discovered that simple rules can produce wildly unpredictable behavior, from weather to dripping taps.",
+    "ideas": [
+      "Sensitive dependence on initial conditions means tiny measurement errors grow quickly, which puts hard limits on long-range forecasting.",
+      "Chaotic systems are not random; they often hide structure, such as strange attractors and fractal shapes that repeat across scales.",
+      "Gleick also tells a story about science itself: the ideas came from outsiders crossing disciplines, often against the resistance of their own fields."
+    ]
+  },
+  "the-checklist-manifesto": {
+    "hook": "A surgeon argues that skilled professionals fail mostly through ineptitude with complexity, and a humble checklist catches more than ego admits.",
+    "ideas": [
+      "Errors in complex work usually come from missing a known step, not from lacking knowledge, so the fix is discipline rather than more training.",
+      "Good checklists are short, focus on killer items, and include communication checks so teams speak up before trouble starts.",
+      "Resistance is mostly pride; experts dislike feeling scripted, yet surgical pilots showed checklists reducing complications and deaths when teams actually used them."
+    ]
+  },
+  "brain-rules": {
+    "hook": "A molecular biologist turns brain research into practical rules for how you learn, work, sleep, and pay attention.",
+    "ideas": [
+      "Exercise improves thinking, and sitting still all day is a poor design for brains that evolved while walking long distances.",
+      "Attention fades fast, so information sticks better in short chunks tied to emotion, vivid images, and spaced repetition.",
+      "Multitasking is mostly rapid switching with a cost each time; the friendlier rules are sound, though some are simplified beyond what research strictly shows."
+    ]
+  },
+  "the-happiness-hypothesis": {
+    "hook": "Haidt tests ten ancient ideas about happiness against modern psychology and keeps the ones that survive.",
+    "ideas": [
+      "The mind is like a rider on an elephant: reasoning steers a little, but emotion and habit do most of the moving.",
+      "Happiness comes partly from getting the right relationship between yourself and others, work, and something larger, not from circumstances alone.",
+      "Adversity can produce growth, but only under certain conditions, so the book is careful not to romanticize suffering."
+    ]
+  },
+  "the-pleasure-of-finding-things-out": {
+    "hook": "Feynman’s talks and interviews show a mind that valued honest doubt over authority, titles, and comfortable answers.",
+    "ideas": [
+      "Not knowing is fine; Feynman argues that living with uncertainty is more honest and more productive than pretending to answers you lack.",
+      "His Challenger report is a lesson in institutional self-deception: management’s risk estimates drifted far from what engineers actually knew.",
+      "Science, for him, is a method for not fooling yourself, and you are the easiest person to fool."
+    ]
+  },
+  "the-shallows": {
+    "hook": "Carr argues that constant online skimming is retraining our brains for distraction and eroding the capacity for deep reading.",
+    "ideas": [
+      "Every medium shapes how we think, and the internet rewards fast scanning, link-hopping, and partial attention over sustained concentration.",
+      "Because the brain is plastic, habits of distraction can become the default, making long, quiet focus feel harder over time.",
+      "The neuroscience is suggestive rather than conclusive, but the practical point stands: protect regular time for undivided reading and thought."
+    ]
+  },
+  "stiff": {
+    "hook": "Mary Roach finds out what happens to donated bodies, and turns a squeamish subject into curious, respectful comedy.",
+    "ideas": [
+      "Cadavers have quietly made modern life safer, from crash tests to surgical training, and Roach credits that work without sentimentality.",
+      "The history of anatomy includes grave robbing and grim experiments, which explains why consent rules around bodies now matter so much.",
+      "Her humor is a tool for staying in the room; it lets readers think about death practically, including what they want done with their own."
+    ]
+  },
+  "the-golden-bough": {
+    "hook": "A vast Victorian survey of myth, magic, and ritual that shaped how a generation thought about religion and the human mind.",
+    "ideas": [
+      "Frazer proposes that human thought moved from magic to religion to science, an evolutionary scheme later scholars largely rejected.",
+      "Sympathetic magic, he argues, rests on two mistaken principles: like produces like, and things once in contact keep influencing each other.",
+      "Its comparisons are often armchair-built and colonial in tone, but the book influenced modernist writers and anthropology’s early questions."
+    ]
+  },
+  "brain-on-fire": {
+    "hook": "A young reporter loses a month of her life to a rare brain disease that looked like madness, then reconstructs it.",
+    "ideas": [
+      "Cahalan’s autoimmune encephalitis was nearly misdiagnosed as psychiatric illness, a warning about how easily physical brain disease can be mislabeled.",
+      "Because she cannot remember much of her illness, she investigates herself like a story, using records, videos, and interviews with family.",
+      "The book raises an uncomfortable question about how many patients never meet the doctor willing to test one more possibility."
+    ]
+  },
+  "taking-charge-of-adult-adhd": {
+    "hook": "A leading ADHD researcher gives adults a practical, evidence-based manual for understanding the condition and working around it.",
+    "ideas": [
+      "Barkley frames ADHD as a problem of self-regulation and executive function, not laziness or a simple attention shortage.",
+      "Because the problem is doing what you know, he recommends making time, rules, and motivation external: timers, lists, cues, and accountability.",
+      "Medication is presented as often helpful and well studied, but best combined with practical changes in routines and environment."
+    ]
+  },
+  "on-war": {
+    "hook": "Clausewitz’s unfinished treatise on war remains the reference point for anyone thinking seriously about force and politics.",
+    "ideas": [
+      "War is the continuation of politics by other means, so military action only makes sense when tied to a political purpose.",
+      "Friction and the fog of war mean plans meet confusion, fatigue, and chance, which is why judgment matters more than formulas.",
+      "He describes a shifting relationship between passion, chance, and reason — people, army, and government — that every strategy must balance."
+    ]
+  },
+  "the-intelligent-mans-guide-to-science": {
+    "hook": "Asimov surveys physical and biological science for a general reader, from stars and atoms to cells and evolution.",
+    "ideas": [
+      "Asimov explains science as a connected story of how people found things out, not as a list of disconnected facts.",
+      "He writes clearly enough that technical ideas become approachable without dumbing them down, a model for good popular science.",
+      "Dated by its 1960 publication; treat the frontier chapters as history and the explanations of fundamentals as still useful."
+    ]
+  },
+  "what-my-bones-know": {
+    "hook": "A successful radio producer is diagnosed with complex PTSD and investigates how childhood abuse shaped her body and mind.",
+    "ideas": [
+      "Complex PTSD from long-term childhood harm can look different from single-event trauma, showing up as hypervigilance, shame, and unstable relationships.",
+      "Foo tests therapies and research on herself as a reporter, so the book doubles as a guide to what helps and what does not.",
+      "Healing here is not forgiveness on demand; it is slower work of building safety, connection, and a fuller view of her family’s history."
+    ]
+  },
+  "the-great-influenza": {
+    "hook": "The 1918 flu killed tens of millions, and Barry shows how science, war, and political lies shaped the toll.",
+    "ideas": [
+      "Wartime governments downplayed the epidemic to protect morale, and those lies destroyed public trust right when people needed accurate information.",
+      "Barry also tells the story of American medicine becoming scientific, with researchers racing to understand a disease they could not yet see.",
+      "The central lesson for any pandemic is that leaders must tell the truth plainly, even when the truth is frightening."
+    ]
+  },
+  "immune": {
+    "hook": "The creator of Kurzgesagt explains your immune system as a vivid, organized defense force you can actually picture.",
+    "ideas": [
+      "Innate immunity responds fast and broadly, while adaptive immunity learns specific enemies, and the two must coordinate constantly.",
+      "Much of the system is about deciding what not to attack; failures produce allergies and autoimmune disease rather than infection.",
+      "Vaccines work by giving adaptive immunity a safe rehearsal, so the real encounter is met by trained cells instead of beginners."
+    ]
+  },
+  "the-blind-watchmaker": {
+    "hook": "Dawkins argues that natural selection, not design, explains the complexity of living things, and shows how cumulative change does it.",
+    "ideas": [
+      "Small advantages selected over many generations can build complex organs without foresight, which is why the “watchmaker” is blind.",
+      "Single-step chance is hopeless, but cumulative selection keeps improvements and builds on them, making complex outcomes plausible.",
+      "Dawkins is combative toward creationism, which some readers find bracing and others off-putting, but his explanations are unusually clear."
+    ]
+  },
+  "the-blank-slate": {
+    "hook": "Pinker argues that denying human nature distorts politics, science, and parenting, and that evidence for it is not dangerous.",
+    "ideas": [
+      "The mind is not infinitely malleable; genes and evolved tendencies shape temperament, abilities, and behavior alongside culture.",
+      "Admitting innate differences need not justify inequality or fatalism, he argues, because moral equality does not depend on biological sameness.",
+      "Parenting may matter less for adult personality than many assume, a claim that remains debated and deserves a careful reader."
+    ]
+  },
+  "the-order-of-time": {
+    "hook": "Rovelli argues that physics has dismantled our everyday idea of time, then asks why it still feels like it flows.",
+    "ideas": [
+      "There is no single universal now; time passes at different rates depending on gravity and motion, so simultaneity across distance is undefined.",
+      "Rovelli argues the arrow of time is tied to entropy and our blurred, partial view of the world, not built into the basic laws.",
+      "The felt flow of time may come from memory and anticipation, making it as much about us as about the universe."
+    ]
+  },
+  "do-no-harm": {
+    "hook": "A British neurosurgeon writes candidly about his mistakes, uncertainty, and the moral weight of opening someone’s brain.",
+    "ideas": [
+      "In neurosurgery, a tiny error can destroy a person, so Marsh shows surgeons balancing confidence against the constant risk of harm.",
+      "He admits mistakes openly, arguing that honesty about failure is essential to learning, though institutions often discourage it.",
+      "The hardest decisions are often whether to operate at all, because more treatment is not always better care."
+    ]
+  },
+  "desert-solitaire": {
+    "hook": "Abbey’s seasons as a park ranger in Utah become a fierce defense of wild land against roads, crowds, and comfort.",
+    "ideas": [
+      "Wilderness, for Abbey, is valuable because it is not arranged for humans, and that indifference is exactly what sharpens attention.",
+      "He attacks “industrial tourism”: paved access that brings more visitors while destroying the experience they came for.",
+      "Abbey is cranky and sometimes contradictory, which makes the book more honest than a polished nature sermon."
+    ]
+  },
+  "what-do-you-care-what-other-people-think": {
+    "hook": "More Feynman stories, including the love story with his first wife and his investigation into the Challenger disaster.",
+    "ideas": [
+      "His first marriage, to Arline, shows a young physicist learning that intellectual honesty and tenderness can sit together.",
+      "On the Challenger commission, he refused to accept official explanations and found the O-ring problem through simple, public experiments.",
+      "The title is his guiding rule: if you care too much what others think, you lose your ability to judge clearly."
+    ]
+  },
+  "the-fabric-of-the-cosmos": {
+    "hook": "Brian Greene explains space, time, and the shape of reality, from relativity to string theory, without heavy math.",
+    "ideas": [
+      "Space and time are not passive backdrops; relativity and quantum physics show they bend, stretch, and behave in counterintuitive ways.",
+      "The arrow of time likely depends on the universe starting in an extremely low-entropy state, which itself needs explaining.",
+      "Greene presents string theory and the multiverse as ambitious possibilities, but they remain far less tested than relativity or quantum mechanics."
+    ]
+  },
+  "lifespan": {
+    "hook": "Harvard researcher David Sinclair argues aging is a treatable condition and describes how science might slow it.",
+    "ideas": [
+      "Sinclair’s central theory is that aging comes largely from lost epigenetic information, which cells might be coaxed to restore.",
+      "Practical advice includes eating less often, exercising, avoiding smoking, and exposing the body to mild stresses like cold.",
+      "Many molecules he discusses are not proven to extend human life, and critics note his optimism outruns current clinical evidence."
+    ]
+  },
+  "how-to": {
+    "hook": "Randall Munroe answers everyday tasks with absurdly overengineered physics, making scientific thinking funny and useful.",
+    "ideas": [
+      "Treating simple tasks as engineering problems shows how assumptions, scale, and constraints shape every practical solution.",
+      "The ridiculous answers teach real science along the way, from energy and materials to the limits of human bodies.",
+      "The joke contains a serious lesson: before solving a problem, ask whether your elaborate method is actually worth it."
+    ]
+  },
+  "lab-girl": {
+    "hook": "A geobiologist writes about plants, building labs, mental illness, and a lifelong scientific friendship with unusual warmth.",
+    "ideas": [
+      "Jahren’s botany chapters treat trees and seeds as strategic organisms that wait, compete, and adapt over long timescales.",
+      "Science appears as a working life with grants, broken equipment, exhausting field trips, and the joy of discovery.",
+      "The book is frank about being a woman in science and living with mental illness, without turning either into a slogan."
+    ]
+  },
+  "death-by-black-hole": {
+    "hook": "Neil deGrasse Tyson’s essays explain cosmic oddities, scientific method, and why the universe is stranger than intuition.",
+    "ideas": [
+      "Tyson uses familiar language and humor to make astrophysics accessible, from planets and stars to the dangers of black holes.",
+      "He argues science is a method for testing ideas, not a list of facts, which is why evidence must outrank comfort.",
+      "Several essays push back against pseudoscience and against invoking God to fill current gaps in scientific knowledge."
+    ]
+  },
+  "a-heartbreaking-work-of-staggering-genius": {
+    "hook": "After both parents die, a young writer raises his little brother while turning grief into a restless, self-mocking memoir.",
+    "ideas": [
+      "Eggers mixes devastating loss with jokes, footnotes, and self-awareness, showing how irony can protect and expose grief at once.",
+      "The book is also about sudden adulthood: caring for a child while still behaving like a young man in his twenties.",
+      "Its literary tricks can feel exhausting, but they are part of the point — a narrator unable to tell his story plainly."
+    ]
+  },
+  "consciousness-explained": {
+    "hook": "Dennett argues there is no inner theater where consciousness happens, and offers a radical model of the mind instead.",
+    "ideas": [
+      "He rejects the “Cartesian theater,” the idea of one central place in the brain where experience is shown.",
+      "His multiple drafts model says many parallel processes edit and revise content, with no final moment of consciousness.",
+      "Critics argue he explains away experience rather than explaining it, so the book is best read as provocation, not settled answer."
+    ]
+  },
+  "the-undoing-project": {
+    "hook": "Michael Lewis tells the story of Kahneman and Tversky, the partnership that changed how we understand human judgment.",
+    "ideas": [
+      "Kahneman and Tversky showed that people rely on mental shortcuts that create predictable errors, especially with probability and risk.",
+      "Their friendship was intense, productive, and fragile, showing how collaboration can generate ideas neither person would reach alone.",
+      "The book makes behavioral economics human, linking abstract research to medicine, sports, policy, and everyday decisions."
+    ]
+  },
+  "your-inner-fish": {
+    "hook": "Neil Shubin shows how fish ancestors still shape human hands, heads, and bodies through evolutionary history.",
+    "ideas": [
+      "Tiktaalik, a fossil fish with features of land animals, illustrates how anatomy changed during the move from water to land.",
+      "Human bodies contain old evolutionary designs, from limb bones to nerves, that make sense only when you trace their history.",
+      "Some health problems, like hernias, can be partly understood as side effects of adapting older body plans to new uses."
+    ]
+  },
+  "the-uninhabitable-earth": {
+    "hook": "A blunt account of climate change that focuses less on rising seas and more on cascading threats to daily life.",
+    "ideas": [
+      "Wallace-Wells argues warming will affect heat, food, water, disease, conflict, and economics, not just coastlines.",
+      "Climate harms can compound, so one disaster can weaken systems that would otherwise help societies cope with the next.",
+      "Some critics found the worst-case framing too alarming, but his core aim is to make complacency feel impossible."
+    ]
+  },
+  "where-good-ideas-come-from": {
+    "hook": "Steven Johnson explains innovation as the product of connected environments, slow hunches, and mistakes, not lone genius.",
+    "ideas": [
+      "Good ideas often grow from “adjacent possible” steps, combining what already exists into something just beyond reach.",
+      "Slow hunches need time and collisions with other people’s ideas before they become useful breakthroughs.",
+      "Open networks, error, and repurposing old tools drive innovation more reliably than secrecy or isolated brilliance."
+    ]
+  },
+  "the-drunkards-walk": {
+    "hook": "Leonard Mlodinow shows how randomness shapes success, failure, and judgment more than people usually admit.",
+    "ideas": [
+      "People see patterns in random events, crediting skill or blame where chance often plays a large role.",
+      "Probability is counterintuitive, so even educated people misjudge medical tests, streaks, and statistical risk.",
+      "Recognizing luck should make us more humble about success and more patient with failure, while still persisting."
+    ]
+  },
+  "the-diary-of-a-young-girl": {
+    "hook": "A Jewish teenager hiding in an Amsterdam attic records fear, boredom, crushes, and ambition in a diary that outlived her.",
+    "ideas": [
+      "Anne writes as a real adolescent — irritable, funny, vain, searching — which makes the danger around her feel unbearably close.",
+      "Eight people in a few rooms show how confinement magnifies small quarrels, and how decency has to be practiced in cramped daily life.",
+      "She revised her diary hoping to publish it, so read it as the work of a serious young writer, not only a historical document."
+    ]
+  },
+  "wings-of-fire": {
+    "hook": "India’s missile scientist and later president traces his path from a boat owner’s son in Rameswaram to national rocket programs.",
+    "ideas": [
+      "Kalam credits teachers, parents, and mentors for shaping him, presenting achievement as something communities build around a person.",
+      "His account of India’s space and missile programs shows failure as routine in engineering, and recovery as the real skill.",
+      "The tone is earnest and patriotic; readers wanting critical discussion of weapons policy will need to look elsewhere."
+    ]
+  },
+  "steve-jobs": {
+    "hook": "Isaacson’s authorized biography shows how Jobs’s taste, impatience, and cruelty built Apple and burned many people along the way.",
+    "ideas": [
+      "Jobs fused technology with design, insisting products be simple and controlled end to end, even when that meant closed systems.",
+      "His “reality distortion field” could push teams to impossible deadlines, but it also produced bullying and bad personal judgment.",
+      "Being fired from Apple and returning matters most: the later Jobs kept his standards while learning to build durable teams."
+    ]
+  },
+  "i-know-why-the-caged-bird-sings": {
+    "hook": "Maya Angelou’s first memoir follows her Southern childhood through racism, trauma, silence, and the discovery of her voice.",
+    "ideas": [
+      "Angelou shows racism as daily humiliation and threat, shaping how a Black girl learns her place and resists it.",
+      "After trauma she stops speaking, and literature becomes the path back to language, dignity, and self-possession.",
+      "Her grandmother and other strong women model survival, but the book does not soften how much harm children absorb."
+    ]
+  },
+  "when-breath-becomes-air": {
+    "hook": "A neurosurgeon facing terminal lung cancer asks what makes life meaningful when the future suddenly shrinks.",
+    "ideas": [
+      "Kalanithi moves from doctor to patient, learning that statistics cannot tell any individual how much time remains.",
+      "He chose medicine to understand meaning, and illness forces him to decide which work and relationships truly matter.",
+      "The book stays honest about uncertainty, showing that hope can mean living well now, not denying what is coming."
+    ]
+  },
+  "born-a-crime": {
+    "hook": "Trevor Noah’s childhood in apartheid and post-apartheid South Africa, told with sharp comedy and serious stakes.",
+    "ideas": [
+      "Born to a Black mother and white father when their relationship was illegal, Noah grew up officially out of place.",
+      "Language becomes his survival tool: switching languages lets him cross racial and social boundaries that others enforce.",
+      "His mother is the book’s center, a fiercely independent woman whose faith and defiance shaped his sense of freedom."
+    ]
+  },
+  "the-autobiography-of-malcolm-x": {
+    "hook": "Malcolm X’s life story, told with Alex Haley, follows crime, prison conversion, Black nationalism, and a late change of mind.",
+    "ideas": [
+      "Malcolm’s self-education in prison shows reading as a weapon against a system that tried to define him as worthless.",
+      "His critique of American racism is direct, angry, and often prophetic, refusing the polite language many white readers wanted.",
+      "His break with the Nation of Islam and pilgrimage to Mecca show a man willing to revise his beliefs publicly."
+    ]
+  },
+  "night": {
+    "hook": "Elie Wiesel’s brief, stark testimony of surviving Auschwitz and Buchenwald as a teenager with his father.",
+    "ideas": [
+      "Wiesel records how the camps destroyed faith, family bonds, and identity through deliberate dehumanization.",
+      "The silence of God and of the world is central, raising questions about belief after unimaginable suffering.",
+      "Its brevity is part of its power: the book refuses ornament, making each detail carry moral weight."
+    ]
+  },
+  "the-glass-castle": {
+    "hook": "Jeannette Walls describes a chaotic, brilliant, neglectful childhood with parents who loved freedom more than safety.",
+    "ideas": [
+      "Her father is charismatic and imaginative but alcoholic and unreliable, showing how love and harm can coexist.",
+      "The children grow up hungry and unsafe, learning to depend on each other when adults fail them.",
+      "Walls writes without self-pity, which lets readers see both the damage and the strange gifts of her upbringing."
+    ]
+  },
+  "educated": {
+    "hook": "Raised by survivalist parents in Idaho, Tara Westover enters college without formal schooling and rebuilds her sense of self.",
+    "ideas": [
+      "Education changes more than credentials: it gives Westover new ways to question family stories and her own memories.",
+      "Loyalty becomes painful when a family denies violence and demands silence as proof of belonging.",
+      "She shows memory as contested, noting where accounts differ, which makes the book more honest than a simple triumph story."
+    ]
+  },
+  "surely-youre-joking-mr-feynman": {
+    "hook": "Richard Feynman’s anecdotes about safecracking, drumming, physics, and pranks reveal a mind driven by curiosity.",
+    "ideas": [
+      "Feynman treats every problem, from locks to languages, as a puzzle worth investigating with practical experimentation.",
+      "He mocks pretension and rote learning, arguing that understanding means being able to explain something simply.",
+      "The stories are entertaining but self-curated, and some, especially about women, read badly today; enjoy them with that awareness."
+    ]
+  },
+  "an-autobiography-or-the-story-of-my-experiments-with-truth": {
+    "hook": "Gandhi describes his early life, failures, and moral experiments, showing how private discipline shaped public resistance.",
+    "ideas": [
+      "Gandhi frames his life as a series of experiments, testing diet, celibacy, simplicity, and nonviolence on himself.",
+      "Experiences of racism in South Africa pushed him toward organized resistance and the method he called satyagraha.",
+      "His candor about mistakes is striking, though modern readers will also question some views and personal choices he records."
+    ]
+  },
+  "i-am-malala": {
+    "hook": "A Pakistani schoolgirl speaks out for education under Taliban threat, survives an assassination attempt, and keeps speaking.",
+    "ideas": [
+      "Education is the book’s central demand: girls’ schooling is framed as both a personal right and a social necessity.",
+      "Malala’s family and community matter; her father’s activism and school helped shape her public courage.",
+      "The memoir shows how extremism grows through fear, propaganda, and weak institutions, not just through violence."
+    ]
+  },
+  "long-walk-to-freedom": {
+    "hook": "Nelson Mandela tells his life from rural childhood to prison to leading South Africa beyond apartheid.",
+    "ideas": [
+      "Mandela describes how political struggle evolved from nonviolent protest to armed resistance when peaceful options were closed.",
+      "Prison is shown as a place of endurance and strategy, where discipline and negotiation remained possible.",
+      "Freedom, for Mandela, means freeing both oppressed and oppressor, which shaped his commitment to reconciliation."
+    ]
+  },
+  "persepolis": {
+    "hook": "Marjane Satrapi’s graphic memoir of growing up during Iran’s revolution and war, drawn in stark black and white.",
+    "ideas": [
+      "A child’s perspective reveals how politics enters homes, schools, clothing, and friendships under revolutionary rule.",
+      "Satrapi shows contradictions between public restrictions and private family life, where debate and humor persist.",
+      "The simple drawings make violence and repression easier to approach while sharpening their emotional impact."
+    ]
+  },
+  "narrative-of-the-life-of-frederick-douglass": {
+    "hook": "Frederick Douglass’s account of enslavement and escape argues for freedom with clarity, evidence, and moral force.",
+    "ideas": [
+      "Douglass shows literacy as a path to freedom, which is exactly why enslavers worked to keep it from enslaved people.",
+      "He exposes how slavery corrupted enslavers too, using religion and law to justify cruelty.",
+      "The narrative was written as testimony against slavery, so every detail serves both memory and abolitionist argument."
+    ]
+  },
+  "alexander-hamilton": {
+    "hook": "Ron Chernow’s biography follows Hamilton from Caribbean orphan to Washington’s aide and architect of American finance.",
+    "ideas": [
+      "Hamilton’s financial system — national credit, banking, and debt assumption — helped make the new United States governable.",
+      "His brilliance and ambition were matched by impulsiveness, making him both indispensable and politically self-destructive.",
+      "Chernow shows early American politics as bitter and personal, not a calm era of founding consensus."
+    ]
+  },
+  "becoming": {
+    "hook": "Michelle Obama tells her story from Chicago’s South Side to Princeton, Harvard, and the White House.",
+    "ideas": [
+      "Her family and neighborhood shaped her confidence, work ethic, and awareness of how opportunity is unevenly distributed.",
+      "She describes political life as costly, especially for a Black woman whose every move was judged publicly.",
+      "The title suggests identity is a process, not a finish line, even after reaching extraordinary public roles."
+    ]
+  },
+  "open": {
+    "hook": "Andre Agassi reveals that the tennis star who seemed rebellious and gifted secretly hated the game for much of his life.",
+    "ideas": [
+      "Agassi was pushed relentlessly by his father, showing how early pressure can create skill without ownership or joy.",
+      "His career swings through image, drugs, slumps, and comebacks, making clear that talent alone does not secure meaning.",
+      "He finds purpose later through relationships and education work, recasting tennis as a means rather than an identity."
+    ]
+  },
+  "im-glad-my-mom-died": {
+    "hook": "Jennette McCurdy describes child stardom, an eating disorder, and a controlling mother with dark humor and clarity.",
+    "ideas": [
+      "McCurdy shows how a parent’s needs can shape a child’s career, body, and identity in deeply harmful ways.",
+      "Child acting appears less glamorous than lonely, with adults profiting while the young performer bears the cost.",
+      "Recovery begins when she names what happened honestly, even when that honesty violates family myths."
+    ]
+  },
+  "autobiography-of-a-yogi": {
+    "hook": "Paramahansa Yogananda describes his search for a guru and introduces Western readers to yoga and Hindu spirituality.",
+    "ideas": [
+      "Yogananda presents spiritual discipline, meditation, and devotion as practical paths to self-realization.",
+      "His encounters with saints and teachers include miraculous claims; readers can take them as faith, legend, or symbolism.",
+      "The book helped bring Kriya Yoga and Indian spiritual ideas to Western audiences, influencing many later seekers."
+    ]
+  },
+  "maybe-you-should-talk-to-someone": {
+    "hook": "A therapist writes about her patients and her own therapy, showing how change happens in small, human steps.",
+    "ideas": [
+      "Gottlieb shows that therapists struggle too, which makes therapy less about expertise than honest relationship.",
+      "Patients often come for one problem but discover deeper patterns, losses, or fears beneath it.",
+      "Change rarely arrives through dramatic insight; it comes through repeated attention, discomfort, and new choices."
+    ]
+  },
+  "vincent-van-gogh": {
+    "hook": "Van Gogh’s own letters and work catalogued together, showing an artist explaining his intentions in his own words.",
+    "ideas": [
+      "Van Gogh’s letters reveal a painter who thought carefully about color, labor, and meaning, not just a tormented genius.",
+      "Seeing work alongside correspondence helps readers connect his technical experiments with his emotional and spiritual aims.",
+      "This is a reference-style collection, best used for browsing images and letters rather than reading straight through."
+    ]
+  },
+  "the-crucible": {
+    "hook": "Arthur Miller’s play about the Salem witch trials shows how fear and self-interest can turn a community against itself.",
+    "ideas": [
+      "Accusation becomes a weapon for settling grudges, gaining power, and protecting reputations in a frightened town.",
+      "The play asks what integrity costs when telling the truth may destroy your life and confessing may save it.",
+      "Written during McCarthyism, it remains a warning about moral panics, loyalty tests, and institutional cowardice."
+    ]
+  },
+  "fear-no-evil": {
+    "hook": "Natan Sharansky’s prison memoir describes resisting KGB interrogation and Soviet captivity through humor, faith, and refusal.",
+    "ideas": [
+      "Sharansky shows interrogation as psychological pressure, where fear is used to make prisoners betray themselves and others.",
+      "His strategy was to keep his inner freedom by refusing to accept the regime’s terms of reality.",
+      "The memoir connects personal courage with international pressure, showing how outside attention can protect dissidents."
+    ]
+  },
+  "elvis-and-me": {
+    "hook": "Priscilla Presley recalls meeting Elvis as a teenager, entering his world, and the marriage behind the public image.",
+    "ideas": [
+      "Priscilla describes a relationship shaped by fame, control, and an age gap that looks more troubling today.",
+      "Graceland appears as both dream and confinement, a world organized around Elvis’s moods and needs.",
+      "Her departure shows a slow recovery of independence after years of building life around another person’s legend."
+    ]
+  },
+  "the-castle": {
+    "hook": "Kafka’s unfinished novel follows a land surveyor trying to reach an authority that keeps moving out of reach.",
+    "ideas": [
+      "Bureaucracy becomes a maze where rules, officials, and permissions seem real but never become fully understandable.",
+      "K.’s struggle reflects alienation: wanting acceptance from a system that offers no clear reason to grant or deny it.",
+      "Kafka’s dry humor makes the frustration recognizable, especially for anyone who has fought an institution that will not answer."
+    ]
+  },
+  "spare": {
+    "hook": "Prince Harry gives his account of grief, royal life, media pressure, and leaving the institution he was born into.",
+    "ideas": [
+      "Harry frames his mother’s death as a wound that shaped his anger, avoidance, and relationship with the press.",
+      "Being the “spare” meant living with public duty but less control and less protection than the heir.",
+      "The memoir is his side of disputed family events, so it is revealing but not neutral history."
+    ]
+  },
+  "mercury-and-me": {
+    "hook": "Freddie Mercury’s partner Jim Hutton recalls their private life together, far from the stage persona.",
+    "ideas": [
+      "Hutton shows Mercury at home as affectionate, funny, and protective, in contrast to the flamboyant public image.",
+      "Their relationship existed under fame and secrecy, revealing the pressures on gay couples in that era.",
+      "The final years are told through intimate caregiving, a reminder of how AIDS reshaped private lives as well as public culture."
+    ]
+  },
+  "confessions": {
+    "hook": "Augustine looks back on his restless youth and conversion, addressing God in one of the first great autobiographies.",
+    "ideas": [
+      "Augustine treats memory and desire seriously, asking why people seek happiness in things that cannot satisfy them.",
+      "His conversion is gradual and intellectual as well as emotional, involving philosophy, friendship, and inner conflict.",
+      "Later books reflect on time and memory, making the work a philosophical text as well as a spiritual confession."
+    ]
+  },
+  "survival-in-auschwitz": {
+    "hook": "Primo Levi, a young chemist, describes Auschwitz with precise, restrained observation of how people were reduced and survived.",
+    "ideas": [
+      "Levi analyzes the camp as a system designed to strip names, dignity, and moral bonds from prisoners.",
+      "Survival often depended on luck, skill, trade, and small advantages, not on simple virtue or strength.",
+      "His calm style makes the horror clearer, because he examines rather than dramatizes what he witnessed."
+    ]
+  },
+  "crying-in-h-mart": {
+    "hook": "Michelle Zauner writes about losing her Korean mother and finding connection through food, language, and memory.",
+    "ideas": [
+      "Food becomes a language of love and identity, especially when words between mother and daughter feel inadequate.",
+      "Caring for a dying parent forces Zauner to confront old conflicts and the limits of time.",
+      "Grief opens a deeper relationship with her Korean heritage, even as she feels its distance."
+    ]
+  },
+  "the-story-of-philosophy": {
+    "hook": "Will Durant turns major philosophers into readable portraits, linking their ideas to their lives and times.",
+    "ideas": [
+      "Durant introduces thinkers from Plato to Nietzsche through biography, making abstract ideas easier to remember.",
+      "He emphasizes philosophy as a guide to living well, not merely a technical academic discipline.",
+      "The book is selective and dated, but it remains a lively gateway for readers new to philosophy."
+    ]
+  },
+  "the-mamba-mentality": {
+    "hook": "Kobe Bryant explains his preparation, study habits, and competitive mindset through photographs and reflections on basketball.",
+    "ideas": [
+      "Bryant treats preparation as obsessive detail: studying film, opponents, his body, and every possible advantage.",
+      "Confidence came from repetition and work, not just talent, so pressure became something he trained for.",
+      "The mindset is intense and admirable, but it also reflects a level of single-mindedness not every reader should copy."
+    ]
+  },
+  "girl-interrupted": {
+    "hook": "Susanna Kaysen describes her stay in a psychiatric hospital in the 1960s and questions how madness is defined.",
+    "ideas": [
+      "Kaysen challenges psychiatric labels, showing how diagnosis can reflect social expectations as much as illness.",
+      "The hospital is both refuge and trap, where patients form bonds while losing control over their lives.",
+      "Her fragmented style mirrors memory and uncertainty, making the reader experience the instability of identity."
+    ]
+  },
+  "paul-klee": {
+    "hook": "A visual introduction to Paul Klee’s playful, musical, and inventive art across his Expressionist, Bauhaus, and later periods.",
+    "ideas": [
+      "Klee treated painting as close to music and poetry, using rhythm, line, and color to suggest inner worlds.",
+      "His work moves between childlike simplicity and careful theory, which makes it approachable but not simple.",
+      "This catalogue-style book is best for exploring images and context rather than reading as a full biography."
+    ]
+  },
+  "roots": {
+    "hook": "Alex Haley traces a family line from Kunta Kinte in Africa through slavery to freedom in America.",
+    "ideas": [
+      "Roots gives slavery a family history, showing loss of homeland, language, and name across generations.",
+      "Memory and storytelling become acts of resistance, keeping identity alive against a system designed to erase it.",
+      "Haley’s claims about genealogy and sources were later disputed, so read it as powerful historical fiction rather than documentary proof."
+    ]
+  },
+  "why-we-struck": {
+    "hook": "One of the officers behind Nigeria’s January 1966 coup explains, from his side, why they moved against the government.",
+    "ideas": [
+      "Ademoyega presents the coup as a response to corruption, political crisis, and regional injustice in the First Republic.",
+      "The book is a participant’s defense, so it is valuable testimony but must be read alongside other accounts.",
+      "It helps readers understand how military intervention began shaping Nigerian politics and the path toward civil war."
+    ]
+  },
+  "incidents-in-the-life-of-a-slave-girl": {
+    "hook": "Harriet Jacobs describes sexual exploitation under slavery and her long hiding to protect herself and her children.",
+    "ideas": [
+      "Jacobs exposes how slavery made enslaved women vulnerable to sexual abuse with no legal protection.",
+      "Her years hidden in a cramped space show the extreme costs of seeking freedom for herself and her children.",
+      "She writes directly to Northern women, challenging them to see that slavery corrupted family and morality."
+    ]
+  },
+  "just-kids": {
+    "hook": "Patti Smith remembers her friendship with Robert Mapplethorpe and their struggle to become artists in New York.",
+    "ideas": [
+      "Smith shows art-making as devotion, poverty, and daily practice before success arrives, if it ever does.",
+      "Her bond with Mapplethorpe changes but endures, presenting love and friendship as more complex than labels.",
+      "The book captures a lost New York of cheap rooms, artistic risk, and chance encounters with emerging artists."
+    ]
+  },
+  "friends-lovers-and-the-big-terrible-thing": {
+    "hook": "Matthew Perry describes fame, addiction, and repeated recovery with humor and painful honesty.",
+    "ideas": [
+      "Perry shows addiction as relentless, surviving success, wealth, and love that might seem protective.",
+      "His humor is both charm and defense, revealing how comedy can hide deep fear and loneliness.",
+      "Recovery appears as ongoing work, with relapses showing how hard the disease is to escape."
+    ]
+  },
+  "the-last-days-of-hitler": {
+    "hook": "A British intelligence officer reconstructs Hitler’s final days in the Berlin bunker from witnesses and evidence.",
+    "ideas": [
+      "Trevor-Roper investigated conflicting claims after the war, aiming to establish what really happened to Hitler.",
+      "The bunker reveals a regime collapsing into fantasy, loyalty games, and denial as Berlin fell.",
+      "The book is also a study of historical evidence, showing how testimony and records can be tested."
+    ]
+  },
+  "the-warren-buffet-way": {
+    "hook": "Robert Hagstrom distills Warren Buffett’s investing approach into principles for evaluating businesses and managing risk.",
+    "ideas": [
+      "Buffett buys businesses, not just stocks, focusing on durable economics, competent management, and sensible prices.",
+      "Patience and concentration matter: fewer well-understood investments may beat constant trading and diversification for its own sake.",
+      "Applying Buffett’s methods is harder than describing them, since judgment, temperament, and access shape outcomes."
+    ]
+  },
+  "reasons-to-stay-alive": {
+    "hook": "Matt Haig writes about severe depression and anxiety, offering hope through honesty, small steps, and survival.",
+    "ideas": [
+      "Haig describes depression from the inside, helping readers understand that it is not simply sadness or weakness.",
+      "Recovery is uneven; small things like reading, walking, and connection can help without offering instant cure.",
+      "The book’s main message is that pain can lie about the future, so staying alive gives change a chance."
+    ]
+  },
+  "when-rabbit-howls": {
+    "hook": "Truddi Chase’s account of dissociative identity disorder and the many personalities that emerged during therapy.",
+    "ideas": [
+      "The book presents dissociation as a response to severe childhood abuse, protecting a person from overwhelming trauma.",
+      "Multiple voices narrate, making the reader experience fragmentation rather than just hearing it described.",
+      "Dissociative identity disorder remains debated, so the book is best read as one person’s testimony, not a clinical guide."
+    ]
+  },
+  "kitchen-confidential": {
+    "hook": "Anthony Bourdain exposes restaurant kitchens as chaotic, profane, exhausting, and full of people who love the work anyway.",
+    "ideas": [
+      "Bourdain shows professional cooking as discipline under pressure, built on speed, routine, and team loyalty.",
+      "He gives practical advice for diners, but the deeper subject is the culture of people who work behind the line.",
+      "His frankness about drugs and excess is part of the appeal, though it also reveals the industry’s damaging norms."
+    ]
+  },
+  "henry-moore": {
+    "hook": "A reference volume for Henry Moore’s drawings, designed to help readers navigate a vast catalogue of his work.",
+    "ideas": [
+      "This is a scholarly index and guide, useful for locating drawings across volumes rather than reading as narrative.",
+      "Moore’s drawings reveal recurring themes, including mothers, miners, and forms that later shaped his sculpture.",
+      "Best suited to researchers, collectors, and serious admirers who want precise access to his drawing practice."
+    ]
+  },
+  "the-psychopath-test": {
+    "hook": "Jon Ronson investigates psychopathy, diagnosis, and the people who study it, with comic curiosity and uneasy doubt.",
+    "ideas": [
+      "Ronson learns a psychopathy checklist and begins spotting traits everywhere, showing the danger of amateur diagnosis.",
+      "The book questions how much power labels have, especially when diagnosis can affect freedom and reputation.",
+      "It is entertaining journalism, not a clinical guide, and is strongest when it exposes certainty as a problem."
+    ]
+  },
+  "black-like-me": {
+    "hook": "A white journalist darkens his skin and travels the segregated South, recording racism from a changed position.",
+    "ideas": [
+      "Griffin shows how racism shapes ordinary interactions, from finding water to being treated with basic respect.",
+      "His experiment exposed white readers to injustice, though it also centers a white narrator borrowing Black experience.",
+      "The book remains useful for discussing empathy, testimony, and the limits of temporary identity."
+    ]
+  },
+  "moonwalk": {
+    "hook": "Michael Jackson’s only autobiography describes his childhood fame, creative ambitions, and life inside celebrity.",
+    "ideas": [
+      "Jackson presents performance as both joy and pressure, rooted in childhood work with the Jackson 5.",
+      "He describes music, dance, and showmanship as crafts he studied carefully, not just natural gifts.",
+      "The book is selective and image-conscious, so it reveals how he wanted to be seen as much as who he was."
+    ]
+  },
+  "permanent-record": {
+    "hook": "Edward Snowden explains how a government tech worker became the leaker who exposed mass surveillance.",
+    "ideas": [
+      "Snowden argues mass surveillance threatens privacy and democracy because data collection can outgrow law and oversight.",
+      "His technical career shows how ordinary contractors and systems can quietly build enormous surveillance infrastructure.",
+      "The memoir is his defense of whistleblowing, so readers should weigh his account against legal and security critiques."
+    ]
+  }
+}

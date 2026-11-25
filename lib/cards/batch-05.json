@@ -1,0 +1,770 @@
+{
+  "the-art-of-deception": {
+    "hook": "A reformed hacker shows that the weakest point in most security systems is a helpful person answering the phone.",
+    "ideas": [
+      "Social engineers rarely break technology; they borrow trust by sounding busy, senior, or familiar, then ask for one small, reasonable-seeming favor.",
+      "Each attack is built from harmless fragments — an extension number, a jargon term, a manager’s name — that only become dangerous once someone assembles them.",
+      "The fix is procedural, not heroic: verify callers through known channels, classify information, and make it socially safe for staff to say no."
+    ]
+  },
+  "the-road-to-serfdom": {
+    "hook": "A wartime warning that economic planning, however well meant, tends to hand ever more power to whoever writes the plan.",
+    "ideas": [
+      "Central planning requires agreement on a single ranking of goals that a free society does not have, so someone must impose one by force.",
+      "Hayek argues that in planned systems the people most willing to coerce rise to the top, because the job rewards ruthlessness over scruple.",
+      "He is not against all state action; rule of law, safety nets, and general rules are fine — the danger is discretionary control over particular outcomes."
+    ]
+  },
+  "the-paradox-of-choice": {
+    "hook": "A psychologist argues that past a certain point, more options make you less happy and more prone to regret.",
+    "ideas": [
+      "Maximizers, who hunt for the best possible option, tend to end up with better outcomes on paper and feel worse about them than satisficers.",
+      "Every extra option raises the opportunity cost of whatever you pick, because you can now imagine the features of all the alternatives you lost.",
+      "Practical cures include setting “good enough” criteria in advance, making some decisions irreversible, and limiting how much you compare yourself to others."
+    ]
+  },
+  "the-happiness-project": {
+    "hook": "A lawyer turned writer spends a year testing happiness advice on herself, one theme and one resolution list per month.",
+    "ideas": [
+      "Small, concrete resolutions — tidy for one minute, sing in the morning, go to sleep earlier — beat vague goals like “be happier” every time.",
+      "Rubin’s rule “be Gretchen” means building habits around your actual temperament rather than the hobbies and virtues you think you should have.",
+      "The book is privileged and very personal, but its method travels well: track a few behaviors daily and treat your own mood as data."
+    ]
+  },
+  "empire-of-the-summer-moon": {
+    "hook": "A history of the Comanche nation’s long dominance of the southern plains, told through Quanah Parker and his captive-born mother.",
+    "ideas": [
+      "The horse turned the Comanches into the most formidable mounted fighting force in North America, and their power shaped Spanish, Mexican, and Texan frontiers for generations.",
+      "Cynthia Ann Parker’s life, taken as a child and later forcibly returned, shows how identity and belonging were contested on both sides of the frontier.",
+      "Gwynne writes vividly and does not sanitize violence by anyone, though some readers find his framing of Comanche culture too fixated on brutality."
+    ]
+  },
+  "goodbye-things": {
+    "hook": "An ordinary Tokyo editor explains how getting rid of nearly everything he owned made him calmer, lighter, and less envious.",
+    "ideas": [
+      "Possessions quietly demand maintenance, storage, and attention, so each object you keep is a small recurring tax on your time and mind.",
+      "Sasaki argues that much of what we buy is an attempt to display an imagined better self, and letting go starts with admitting that.",
+      "His tips are blunt and usable: discard anything unused in a year, keep one of each tool, and photograph sentimental items instead of storing them."
+    ]
+  },
+  "propaganda": {
+    "hook": "The founder of modern public relations explains, with unsettling candor, why he thinks democracies need professionals to manage public opinion.",
+    "ideas": [
+      "Bernays argues that an “invisible government” of opinion shapers inevitably steers mass society, and that this is efficient rather than sinister.",
+      "His method works through groups and leaders: change what a community’s trusted figures endorse and individual buyers or voters follow without being told directly.",
+      "Read today, it is most useful as a field guide to persuasion techniques still in use, and as a warning about who benefits from them."
+    ]
+  },
+  "the-color-of-law": {
+    "hook": "A historian shows that American residential segregation was built deliberately by federal, state, and local governments, not by accident.",
+    "ideas": [
+      "Public housing, federal mortgage underwriting, zoning, and highway placement were used explicitly to separate Black and white neighborhoods throughout the twentieth century.",
+      "Rothstein argues that because segregation was government policy, it violates the Constitution, which means remedies are an obligation rather than an act of charity.",
+      "Locked-out home ownership compounded across generations, which helps explain today’s racial wealth gap even where explicit discrimination has formally ended."
+    ]
+  },
+  "the-conquest-of-bread-by-p-kropotkin": {
+    "hook": "Kropotkin’s practical case for an anarchist society where food, housing, and comfort are shared by right rather than earned by wages.",
+    "ideas": [
+      "All wealth is a collective inheritance of past and present labor, so Kropotkin argues no individual can justly claim exclusive ownership of its fruits.",
+      "He proposes starting with needs: secure everyone’s bread and shelter first, then organize production through voluntary cooperation rather than markets or the state.",
+      "His faith in spontaneous mutual aid is generous and arguably optimistic, but his critique of the wage system still sharpens debates about work."
+    ]
+  },
+  "men-explain-things-to-me": {
+    "hook": "Short, sharp essays that start with a man lecturing Solnit on her own book and widen into a study of silencing.",
+    "ideas": [
+      "Being routinely talked over trains women to doubt their own knowledge, which is a small harm that connects to much larger patterns of credibility.",
+      "Solnit links everyday condescension to violence against women, arguing that both rest on a belief that some people’s testimony counts for less.",
+      "The collection is uneven but quotable, and its value is in naming things readers already recognized and then refusing to call them trivial."
+    ]
+  },
+  "think-like-a-freak": {
+    "hook": "The Freakonomics duo turn their quirky case studies into a toolkit for solving problems without the usual assumptions.",
+    "ideas": [
+      "Saying “I don’t know” is the starting point for good thinking, because pretending to know blocks the experiments that would reveal the answer.",
+      "Redefine the problem and look for root causes; the obvious question is often the wrong one, and small, cheap tests beat grand theories.",
+      "Quitting is underrated: sunk costs and fear of looking like a failure keep people stuck in projects that a clear-eyed look would end."
+    ]
+  },
+  "liars-poker": {
+    "hook": "Michael Lewis’s funny, appalled memoir of selling bonds at Salomon Brothers during the greed-fueled boom of the 1980s.",
+    "ideas": [
+      "The trading floor rewarded aggression and gamesmanship, and Lewis shows how a young salesman could be praised for unloading bad bonds on trusting clients.",
+      "Mortgage-backed securities, invented in this era, turned home loans into tradable products — a detail that reads very differently after 2008.",
+      "Lewis meant the book as a warning to young graduates, and is wry that many read it as a recruitment brochure instead."
+    ]
+  },
+  "the-ascent-of-money": {
+    "hook": "A brisk financial history arguing that credit, bonds, insurance, and markets are as central to human progress as any invention.",
+    "ideas": [
+      "Finance grew out of the basic need to move resources through time, and every innovation, from bonds to insurance, extended that ability.",
+      "Bubbles and crashes recur because markets amplify human overconfidence and fear, so each generation tends to believe its boom is different.",
+      "Ferguson is sweeping and confident; specialists quibble with his shortcuts, but the book gives a clear map for reading financial news."
+    ]
+  },
+  "the-true-believer": {
+    "hook": "A longshoreman-philosopher dissects why frustrated people join mass movements, and why the movements’ content matters less than you think.",
+    "ideas": [
+      "Hoffer argues that movements attract people who want to escape a spoiled self, offering them a new identity in exchange for individual judgment.",
+      "Religious, nationalist, and revolutionary movements are largely interchangeable in their psychology, which is why converts can jump between seemingly opposed causes.",
+      "Hatred of a common enemy, faith in the future, and contempt for the present are the glue; recognizing them helps you spot fanaticism early."
+    ]
+  },
+  "annihilation-of-caste": {
+    "hook": "Ambedkar’s undelivered speech argues that caste cannot be reformed from within Hinduism and must be destroyed at its scriptural root.",
+    "ideas": [
+      "Caste is not a division of labor but a division of laborers, Ambedkar argues, fixing people by birth and blocking solidarity among the poor.",
+      "He insists that political and economic reform will fail unless social reform comes first, because caste poisons every institution it touches.",
+      "Rejecting reformers who wanted to preserve the system’s sacred texts, he calls for repudiating the scriptures that sanction caste, which made the speech explosive."
+    ]
+  },
+  "superfreakonomics": {
+    "hook": "The Freakonomics sequel applies incentives and data to prostitution, drunk walking, hospital care, and climate change.",
+    "ideas": [
+      "People respond to incentives, often in unexpected ways, so good policy starts by asking what behavior a rule actually rewards rather than intends.",
+      "Cheap, simple fixes — like handwashing reminders or car seats — can matter more than expensive, high-profile solutions, though the evidence varies case to case.",
+      "Its climate chapter, which favored geoengineering over emissions cuts, drew strong criticism from scientists, so read that section with skepticism."
+    ]
+  },
+  "seeing-like-a-state": {
+    "hook": "An anthropologist explains why grand state schemes to reorder farms, cities, and people so often fail the very people they target.",
+    "ideas": [
+      "States simplify the world to govern it — surnames, maps, grids, monocultures — and those simplifications erase the messy local detail that actually makes things work.",
+      "Disasters follow when high-modernist confidence, an authoritarian state, and a weakened civil society combine, as in Soviet collectivization or planned cities.",
+      "Scott defends mētis, practical knowledge gained by experience, and urges planners to prefer small, reversible steps that leave room for local adaptation."
+    ]
+  },
+  "why-im-no-longer-talking-to-white-people-about-race": {
+    "hook": "A British journalist expands a viral blog post into a clear-eyed account of structural racism in the United Kingdom.",
+    "ideas": [
+      "Britain has its own long history of race, slavery, and empire, and treating racism as an American import lets institutions avoid examining themselves.",
+      "Eddo-Lodge argues that structural racism lives in outcomes — schooling, policing, hiring — not just in individual malice, so good intentions are not enough.",
+      "White privilege, she writes, is often the absence of a burden, which is why it can feel invisible to those who hold it."
+    ]
+  },
+  "the-road-ahead": {
+    "hook": "Bill Gates’s 1995 forecast of the internet age, now worth reading for what he got right and what he missed.",
+    "ideas": [
+      "Gates predicted networked devices, digital media on demand, and online shopping years before they became ordinary, showing how far planning horizons could reach.",
+      "He underestimated the open web’s speed and initially framed the future around proprietary networks, a miss he partly corrected in later editions.",
+      "The real lesson is about forecasting: trends are easier to spot than the business models and timing that determine who actually wins."
+    ]
+  },
+  "creativity-inc": {
+    "hook": "Pixar’s co-founder explains how the studio built habits that kept creative people honest and kept bad ideas from going unchallenged.",
+    "ideas": [
+      "Early versions of every film are bad, Catmull says, and a culture’s job is to protect fragile ideas while they improve rather than to demand brilliance immediately.",
+      "The Braintrust works because peers give candid notes without authority to impose them, so directors stay responsible for their own decisions.",
+      "Managers should hunt for hidden problems, since success breeds blind spots and the people at the top are usually the last to hear bad news."
+    ]
+  },
+  "switch": {
+    "hook": "The Heath brothers explain how to make changes stick when your rational plans keep losing to your emotional habits.",
+    "ideas": [
+      "Change requires three things at once: direct the rational Rider with clear steps, motivate the emotional Elephant with feeling, and shape the Path to make action easy.",
+      "Look for bright spots — what is already working somewhere — and copy that, instead of obsessing over the root causes of failure.",
+      "What looks like resistance is often lack of clarity, and what looks like laziness is often exhaustion, so diagnose before you blame people."
+    ]
+  },
+  "first-they-killed-my-father": {
+    "hook": "A memoir of surviving the Khmer Rouge as a young child, told in the present tense as she lived it.",
+    "ideas": [
+      "Telling the story through a child’s eyes makes the regime’s logic — the forced marches, the labor camps, the suspicion of education — feel immediate and senseless.",
+      "Ung shows how terror reshapes a family: silence becomes survival, and love is expressed through dangerous acts of sharing scarce food.",
+      "The book is also about rage and the cost of surviving it, giving voice to emotions that official histories of genocide rarely record."
+    ]
+  },
+  "lean-in": {
+    "hook": "Facebook’s former COO argues that women should push harder for leadership while organizations remove the barriers holding them back.",
+    "ideas": [
+      "Women often hold themselves back by underestimating their abilities, declining to negotiate, or easing off at work long before having children.",
+      "Choosing a supportive partner who shares housework and childcare is, Sandberg argues, among the most important career decisions a woman makes.",
+      "Critics say the book underplays structural barriers and speaks mainly to professional women with resources; both the advice and the critique are worth reading."
+    ]
+  },
+  "neither-trumpets-nor-drums": {
+    "hook": "A former Philippine vice president’s insider account of the alliance that toppled Marcos and the strains that followed.",
+    "ideas": [
+      "Laurel describes the backroom negotiations that united opposition forces behind Corazon Aquino, showing how coalitions are built through compromise rather than spontaneous unity.",
+      "The memoir chronicles his growing break with the Aquino government, offering his side of a political rift that shaped post-EDSA politics.",
+      "Read it as one participant’s testimony, valuable for its access and detail, and balance it against other accounts of the same events."
+    ]
+  },
+  "the-man-who-solved-the-market": {
+    "hook": "The story of mathematician Jim Simons and Renaissance Technologies, the most profitable quant fund in history.",
+    "ideas": [
+      "Renaissance won by hiring scientists rather than finance people and letting data-driven models find small, repeatable patterns that human traders would ignore.",
+      "The edge came from relentless collection and cleaning of data, combined with discipline to trust the models even when they felt wrong.",
+      "Zuckerman shows that even a firm this rigorous was shaped by personalities and politics, including tensions over its leaders’ public activities."
+    ]
+  },
+  "no-rules-rules": {
+    "hook": "Netflix’s co-founder and a business professor explain the company’s culture of candor, high talent, and few controls.",
+    "ideas": [
+      "Netflix first raises talent density, then increases candor, and only then removes controls like vacation and expense policies — the order matters.",
+      "The keeper test asks managers whether they would fight to keep someone; if not, generous severance replaces slow performance management.",
+      "Meyer adds that the model needs adaptation across cultures and industries, and its demanding pace will not suit every organization or person."
+    ]
+  },
+  "secrets-of-divine-love": {
+    "hook": "A warm, accessible guide to Islamic spirituality that frames faith as a relationship of love rather than fear.",
+    "ideas": [
+      "Helwa presents God’s mercy as the starting point of faith, inviting readers who feel distant or anxious to approach worship as an expression of love.",
+      "Drawing on the Qur’an, prophetic tradition, and Sufi poetry, she treats doubt, pain, and failure as part of the spiritual path rather than disqualifications.",
+      "Each chapter pairs reflection with practical prompts, so the book works best read slowly, with time to pray, journal, and return to passages."
+    ]
+  },
+  "the-essential-rumi": {
+    "hook": "Coleman Barks’s free-verse renderings that made the thirteenth-century Persian poet a bestseller in English.",
+    "ideas": [
+      "The poems treat longing itself as a sign of the divine, turning separation, desire, and even heartbreak into ways of approaching God.",
+      "Rumi’s images are domestic and earthy — guests, taverns, reed flutes, bread — which makes mystical ideas feel close to ordinary experience.",
+      "Barks works from others’ literal translations and softens much of the Islamic context, so pair these versions with more scholarly ones for balance."
+    ]
+  },
+  "reclaim-your-heart": {
+    "hook": "Short reflective essays on attachment, heartbreak, and finding steadiness by anchoring the heart in God rather than people or things.",
+    "ideas": [
+      "Mogahed argues that much suffering comes from expecting created things — relationships, status, approval — to give a permanence only God can provide.",
+      "Hardship is reframed as a teacher that loosens unhealthy attachments and redirects the heart, rather than as proof that you have been abandoned.",
+      "The essays are brief and repetitive by design, which makes them useful as a daily reminder rather than a sustained argument."
+    ]
+  },
+  "muhammad": {
+    "hook": "Karen Armstrong’s compact biography presents the Prophet as a reformer responding to violence and inequality in seventh-century Arabia.",
+    "ideas": [
+      "Armstrong situates Muhammad in a tribal society shaken by new wealth, showing his message as a demand for compassion and justice toward the vulnerable.",
+      "She argues he was a pragmatic peacemaker as much as a leader in war, citing his willingness to accept humbling treaties to end conflict.",
+      "Written for Western readers, the book counters stereotypes; some find it too sympathetic, others welcome its corrective tone."
+    ]
+  },
+  "muhammad-his-life": {
+    "hook": "Martin Lings retells the Prophet’s life from the earliest Arabic sources in calm, elegant prose that many readers treasure.",
+    "ideas": [
+      "Lings follows the classical sira tradition closely, letting early narrators’ accounts carry the story rather than modern speculation or argument.",
+      "The writing has a quiet, almost scriptural cadence, which makes it a favorite for devotional reading as well as introductory study.",
+      "Because it stays within traditional sources, it offers less historical-critical analysis; readers wanting academic debate should pair it with other studies."
+    ]
+  },
+  "islam": {
+    "hook": "A brisk survey of fourteen centuries of Islamic history, from the first community in Medina to modern political movements.",
+    "ideas": [
+      "Armstrong argues that Muslims have long measured politics against religious ideals, so struggles over just government are central to Islamic history.",
+      "She traces how empires, schools of law, and mystical movements developed, showing the tradition as diverse rather than a single unchanging bloc.",
+      "The final chapters address modern fundamentalism as a reaction to rapid, often coercive modernization, not an expression of the faith’s essence."
+    ]
+  },
+  "the-sealed-nectar": {
+    "hook": "An award-winning traditional biography of the Prophet, widely used in mosques and study circles for its clear chronological structure.",
+    "ideas": [
+      "Mubarakpuri begins with pre-Islamic Arabia’s tribes and religions, giving readers the context needed to understand the Prophet’s mission.",
+      "The narrative proceeds year by year through Mecca and Medina, making it a practical reference for events, expeditions, and treaties.",
+      "It reflects a traditional Muslim perspective and was written for a competition on the sira; readers use it for learning and devotion alike."
+    ]
+  },
+  "the-masnavi": {
+    "hook": "Rumi’s vast teaching poem of stories within stories, often called a Persian commentary on the Qur’an.",
+    "ideas": [
+      "The Masnavi teaches through tales — merchants, animals, kings, fools — that open into reflections on the soul’s longing for God.",
+      "Its digressive structure is deliberate: a story breaks off to explain itself, mirroring how insight arrives in pieces rather than neat lessons.",
+      "Readers usually move through it slowly over years, often with a guide or commentary, because each tale holds several layers of meaning."
+    ]
+  },
+  "the-holy-quran": {
+    "hook": "Abdullah Yusuf Ali’s influential English translation, known for its elevated style and extensive explanatory notes.",
+    "ideas": [
+      "The translation uses a formal, somewhat archaic English that many readers find dignified, though newer readers may prefer a plainer rendering.",
+      "Thousands of footnotes explain historical context, linguistic choices, and spiritual reflections, making it a study edition as well as a translation.",
+      "Different editions have revised the commentary over time, so check which edition you are reading when comparing notes or citing passages."
+    ]
+  },
+  "the-travels-of-ibn-battuta": {
+    "hook": "The fourteenth-century Moroccan scholar’s account of nearly three decades of travel across the Muslim world and beyond.",
+    "ideas": [
+      "Ibn Battuta’s travels from North Africa to India, China, and West Africa show how a shared faith and law linked a vast, diverse world.",
+      "As a trained jurist, he found work and hospitality wherever Islamic courts existed, revealing how scholarly networks functioned like a passport.",
+      "The narrative was dictated years later and includes borrowed or embellished passages, so historians read it as a valuable but imperfect source."
+    ]
+  },
+  "lost-islamic-history": {
+    "hook": "A readable overview of Islamic civilization’s political and intellectual history for readers who never learned it in school.",
+    "ideas": [
+      "Alkhateeb covers the caliphates, Andalusia, the Mongol invasions, and Ottoman rule, emphasizing the breadth of Muslim contributions to world history.",
+      "He highlights scholars, scientists, and lesser-known regions often left out of Western curricula, broadening a narrow picture of the past.",
+      "It is an introduction rather than a critical history, so readers wanting depth or debate should use it as a starting map."
+    ]
+  },
+  "no-god-but-god": {
+    "hook": "Reza Aslan’s lively history of Islam argues that the faith is in the midst of its own reformation struggle.",
+    "ideas": [
+      "Aslan presents the Prophet’s message as socially radical for its time, focused on economic justice and care for the marginalized.",
+      "He traces how law, theology, and Sufism developed through debate, showing Islam as a tradition continually interpreted by its communities.",
+      "His argument that today’s conflicts are an internal contest over interpretation is persuasive to many and contested by some scholars."
+    ]
+  },
+  "destiny-disrupted": {
+    "hook": "World history told from the perspective of the Islamic world, with the West entering late as a disruptive outsider.",
+    "ideas": [
+      "Ansary argues that Muslims long had their own coherent world-historical narrative, centered on the community’s mission rather than Greece, Rome, and Europe.",
+      "Viewed from this center, the Crusades look minor and the Mongol invasions catastrophic, reversing familiar Western priorities.",
+      "His conversational, humorous style makes complex history accessible, though specialists note that some simplification is the price."
+    ]
+  },
+  "the-bible-the-quran-and-science": {
+    "hook": "A French physician compares scriptures with modern science and claims the Qur’an contains nothing contradicting established findings.",
+    "ideas": [
+      "Bucaille contrasts what he sees as scientific errors in some biblical narratives with Qur’anic passages he reads as consistent with modern knowledge.",
+      "The book became hugely influential in popular Muslim apologetics, inspiring a genre that searches scripture for scientific foreshadowing.",
+      "Scholars of religion and science have widely criticized its readings as selective, and many Muslim thinkers prefer not to tie scripture to changing theories."
+    ]
+  },
+  "islam-esposito": {
+    "hook": "A standard university introduction to Islamic belief, practice, history, and modern movements, written by a leading scholar.",
+    "ideas": [
+      "Esposito explains the core beliefs and five pillars, then traces how law, theology, and mysticism developed into a diverse tradition.",
+      "Later chapters examine colonialism, reform, and revivalism, showing modern Islamic movements as responses to specific historical pressures.",
+      "Its balanced, textbook tone makes it reliable for students, though general readers may find it more informative than engaging."
+    ]
+  },
+  "stories-of-the-prophets": {
+    "hook": "A classical retelling of the lives of the prophets from Adam to Jesus, drawn from the Qur’an and hadith literature.",
+    "ideas": [
+      "Ibn Kathir arranges the prophets chronologically, presenting them as a single line of messengers calling people to worship one God.",
+      "Each story highlights qualities — patience, trust, repentance, courage — that readers are meant to take as models for their own lives.",
+      "Translations vary widely in quality and abridgment, and some include narrations scholars consider weak, so choose an edition with care."
+    ]
+  },
+  "the-clear-quran": {
+    "hook": "A modern English translation designed for clarity, aiming to be faithful to the Arabic and easy for today’s readers.",
+    "ideas": [
+      "Khattab uses contemporary, fluent English, avoiding archaic phrasing so that the meaning comes through directly for first-time readers.",
+      "Brief footnotes and introductions to each sura provide context without overwhelming the text with commentary.",
+      "It has become popular with students and converts, and pairs well with a more literal translation when studying specific wording."
+    ]
+  },
+  "the-road-to-mecca": {
+    "hook": "The autobiography of Leopold Weiss, an Austrian Jewish journalist who traveled the Middle East and became Muhammad Asad.",
+    "ideas": [
+      "Asad’s account interweaves desert travel in Arabia with flashbacks to his European past, showing conversion as a long intellectual and emotional search.",
+      "He contrasts the spiritual restlessness of postwar Europe with the coherence he found in Islam’s vision of life, without romanticizing every encounter.",
+      "The book is beautifully written travel literature as well as a spiritual memoir, valued by Muslims and non-Muslims alike."
+    ]
+  },
+  "the-ideal-muslimah": {
+    "hook": "A traditional guide to a Muslim woman’s character and conduct in her relationships with God, family, and society.",
+    "ideas": [
+      "The book organizes its guidance by relationship — with God, oneself, parents, spouse, children, relatives, neighbors, and the wider community.",
+      "Each section draws on Qur’anic verses and hadith to describe virtues the author presents as the ideal of Islamic womanhood.",
+      "Readers use it as a devotional handbook; its perspective is conservative, and some prefer to read it alongside other contemporary voices."
+    ]
+  },
+  "fihi-ma-fihi": {
+    "hook": "Rumi’s prose discourses, recorded conversations that show the poet as a teacher speaking plainly to his circle.",
+    "ideas": [
+      "Unlike the poetry, these talks address visitors and students directly, offering a more conversational window into Rumi’s spiritual teaching.",
+      "Recurring themes include the inner meaning behind outward forms, the role of a spiritual guide, and the heart’s capacity for divine presence.",
+      "Its title, often rendered “In It What Is in It,” fits its loose structure; readers dip in rather than reading straight through."
+    ]
+  },
+  "a-history-of-the-arab-peoples": {
+    "hook": "Albert Hourani’s authoritative history of the Arabic-speaking world from the rise of Islam to the late twentieth century.",
+    "ideas": [
+      "Hourani emphasizes continuity in cities, scholarship, and law, showing a shared Arab-Islamic culture that persisted across changing dynasties.",
+      "He gives as much attention to social life — trade, family, learning — as to rulers and wars, making the history feel inhabited.",
+      "Dense but measured, it remains a benchmark survey, though the final chapters reflect the period before more recent upheavals."
+    ]
+  },
+  "islam-nasr": {
+    "hook": "A concise introduction by Seyyed Hossein Nasr to Islamic belief, law, spirituality, and civilization from a traditional perspective.",
+    "ideas": [
+      "Nasr presents Islam as an integrated whole, where doctrine, law, spirituality, art, and science grow from the same understanding of God’s unity.",
+      "He explains major branches and schools — Sunni, Shia, Sufi — as dimensions of one tradition rather than competing religions.",
+      "Written by a believing scholar, it offers an insider’s view that complements more historical or sociological introductions."
+    ]
+  },
+  "towards-understanding-islam": {
+    "hook": "Maududi’s widely translated primer explains Islamic faith and practice as a complete system for individual and social life.",
+    "ideas": [
+      "Maududi defines Islam as submission to God and argues that this principle should shape law, politics, and economics as well as personal worship.",
+      "He explains faith, prophethood, the afterlife, and core practices in simple, systematic chapters aimed at young educated readers.",
+      "Its clarity made it influential, and its political vision of Islam has been both embraced and debated by later thinkers."
+    ]
+  },
+  "the-bezels-of-wisdom": {
+    "hook": "Ibn Arabi’s profound and difficult Sufi masterwork, reading each prophet as a setting for a facet of divine wisdom.",
+    "ideas": [
+      "Each chapter pairs a prophet with a particular kind of wisdom, like gems set in rings, exploring how God’s names manifest through them.",
+      "Ibn Arabi’s ideas about divine self-disclosure and the perfect human shaped centuries of Sufi thought and also provoked sharp controversy.",
+      "Most readers need a translator’s introduction and commentary; the text rewards slow, guided study rather than casual reading."
+    ]
+  },
+  "the-house-of-wisdom": {
+    "hook": "Jonathan Lyons tells how Arab scholarship in astronomy, medicine, and philosophy flowed into medieval Europe and shaped the West.",
+    "ideas": [
+      "Baghdad’s translation movement preserved and expanded Greek and Persian learning, producing original advances in mathematics, astronomy, and medicine.",
+      "European scholars like Adelard of Bath traveled to learn Arabic science, carrying knowledge that fed the later scientific revolution.",
+      "Lyons argues the West has downplayed this debt, a corrective that is valuable even when his narrative leans toward advocacy."
+    ]
+  },
+  "tafsir-ibn-kathir": {
+    "hook": "One of the most widely read classical Qur’an commentaries, explaining verses through other verses, hadith, and early authorities.",
+    "ideas": [
+      "Ibn Kathir’s method interprets the Qur’an first by the Qur’an itself, then by prophetic reports and the views of the Companions and their students.",
+      "He comments on the reliability of narrations and cautions against certain stories from earlier scriptures, valuing sound transmission.",
+      "English abridgments make it accessible, and many readers use it verse by verse alongside a translation as a study companion."
+    ]
+  },
+  "the-alchemy-of-happiness": {
+    "hook": "Al-Ghazali’s Persian guide to transforming the soul, arguing that true happiness comes from knowing oneself and God.",
+    "ideas": [
+      "Al-Ghazali begins with self-knowledge, describing the heart as a ruler that must govern appetite and anger rather than be governed by them.",
+      "Knowledge of the world and the afterlife helps reorder priorities, so worldly goods become tools rather than ends in themselves.",
+      "Written for a wider audience than his larger works, it offers a compact entry point into his spiritual and ethical thought."
+    ]
+  },
+  "in-the-footsteps-of-the-prophet": {
+    "hook": "Tariq Ramadan reads the Prophet’s life for its spiritual and ethical lessons rather than as a simple chronology.",
+    "ideas": [
+      "Ramadan pauses on key episodes to draw out values like humility, patience, and justice that readers can apply in modern life.",
+      "He emphasizes the Prophet’s relationships — with family, companions, and opponents — as models for ethical conduct in plural societies.",
+      "Aimed at both Muslims and non-Muslims, it is reflective rather than scholarly, and works well as a companion to a traditional sira."
+    ]
+  },
+  "when-the-moon-split": {
+    "hook": "An abridged, accessible English biography of the Prophet based on the author’s prize-winning sira work.",
+    "ideas": [
+      "The book follows the Prophet’s life chronologically, from pre-Islamic Arabia through the Meccan and Medinan periods.",
+      "Its simplified narrative and illustrations make the traditional account accessible to younger readers and newcomers.",
+      "Written from a traditional perspective, it serves as an introduction for readers who may later move to fuller biographies."
+    ]
+  },
+  "islam-ruthven": {
+    "hook": "A compact, critical introduction to Islam’s beliefs, history, and modern debates in about a hundred and fifty pages.",
+    "ideas": [
+      "Ruthven explains core doctrines and practices while showing how they have been interpreted differently across time and place.",
+      "He gives significant space to modern questions — gender, law, politics, and fundamentalism — and to tensions within Muslim societies.",
+      "His outsider, analytical tone suits readers wanting a quick academic overview rather than a devotional or insider account."
+    ]
+  },
+  "the-sufis": {
+    "hook": "Idries Shah presents Sufism as a living psychological tradition whose influence runs through Western literature and thought.",
+    "ideas": [
+      "Shah argues that Sufi ideas shaped figures and movements in the West, from poets to philosophers, often without acknowledgment.",
+      "He emphasizes teaching stories as tools that work on the reader’s mind indirectly, rather than as moral lessons.",
+      "Scholars have questioned many of his historical claims and his separation of Sufism from Islam, so read it as interpretation."
+    ]
+  },
+  "fortress-of-the-muslim": {
+    "hook": "A pocket collection of supplications from the Qur’an and Sunnah for daily moments, from waking to travel to grief.",
+    "ideas": [
+      "The book is organized by situation — sleeping, eating, entering the home, illness, distress — so readers can quickly find a fitting supplication.",
+      "Most editions include Arabic text, transliteration, and translation, making it usable for readers at different stages of learning.",
+      "Its small size and practical layout explain its popularity; many keep it in a bag or by the bed for daily use."
+    ]
+  },
+  "mystical-dimensions-of-islam": {
+    "hook": "Annemarie Schimmel’s classic scholarly survey of Sufism’s history, practices, poetry, and key figures.",
+    "ideas": [
+      "Schimmel traces Sufism from early ascetics through major orders, showing how love, remembrance, and the spiritual path developed.",
+      "She gives special attention to poetry in Arabic, Persian, Turkish, and Urdu, treating it as central to Sufi experience.",
+      "Dense with names and detail, it is best used as a reference and guide for further reading rather than a quick introduction."
+    ]
+  },
+  "misquoting-muhammad": {
+    "hook": "Jonathan Brown explains how Muslim scholars have interpreted scripture over centuries, and why “literal” readings are rarely simple.",
+    "ideas": [
+      "Brown shows that classical scholars developed sophisticated methods to interpret texts, including attention to context, language, and competing evidence.",
+      "Controversial issues — jihad, punishment, gender — are explored through the tradition’s actual debates rather than modern caricatures from any side.",
+      "He argues that both reformers and literalists often misunderstand how authority and interpretation worked, making the book a useful corrective."
+    ]
+  },
+  "the-conference-of-the-birds": {
+    "hook": "Attar’s allegorical poem in which birds set out on a perilous quest to find their king, the Simorgh.",
+    "ideas": [
+      "Each bird’s excuse for staying home represents a human attachment — comfort, wealth, love, fear — that keeps the soul from seeking God.",
+      "The hoopoe guides the birds through seven valleys, describing stages of the spiritual path from longing to annihilation of the self.",
+      "Its stories within stories make the poem both entertaining and instructive, and its resolution rewards readers who reach it unspoiled."
+    ]
+  },
+  "purification-of-the-heart": {
+    "hook": "Hamza Yusuf translates and explains a classical West African poem cataloging the heart’s diseases and their cures.",
+    "ideas": [
+      "The text names spiritual illnesses such as envy, arrogance, ostentation, and love of the world, then describes their causes and signs.",
+      "For each disease it offers remedies grounded in Islamic teaching, treating inner character as something that can be diagnosed and treated.",
+      "Yusuf’s commentary connects these classical ideas to modern life, making it a practical manual for self-examination."
+    ]
+  },
+  "ideals-and-realities-of-islam": {
+    "hook": "Seyyed Hossein Nasr’s early essays explaining Islam’s core teachings and tradition for Western readers.",
+    "ideas": [
+      "Nasr covers the Qur’an, the Prophet, law, Sufism, and Sunni and Shia Islam as interconnected parts of one traditional worldview.",
+      "He emphasizes Islam’s balance of outward law and inward spirituality, arguing both are needed for a complete religious life.",
+      "Its tone is explanatory and traditionalist, offering an insider perspective that complements historical or critical surveys."
+    ]
+  },
+  "the-life-of-muhammad-guillaume": {
+    "hook": "Alfred Guillaume’s English translation of the earliest surviving biography of the Prophet, from Ibn Ishaq via Ibn Hisham.",
+    "ideas": [
+      "Ibn Ishaq’s eighth-century work is a foundational source, gathering reports, poetry, and genealogies about the Prophet’s life and times.",
+      "Guillaume reconstructs the text largely from Ibn Hisham’s edition, adding material from other transmissions, so readers encounter a layered source.",
+      "Scholars value it as primary material while noting that its reports vary in reliability, which the classical tradition itself recognized."
+    ]
+  },
+  "islam-and-the-destiny-of-man": {
+    "hook": "Gai Eaton, a British convert and diplomat, explains the Islamic view of human purpose to a skeptical modern West.",
+    "ideas": [
+      "Eaton presents Islam as a reminder of humanity’s role as God’s representative on earth, contrasting it with modern secular assumptions.",
+      "He explains doctrine, practice, and history in elegant prose, aiming to make the tradition intelligible to readers raised outside it.",
+      "His critique of modernity is sharp, and readers will find it either clarifying or one-sided depending on their starting point."
+    ]
+  },
+  "the-venture-of-islam": {
+    "hook": "Marshall Hodgson’s monumental three-volume history treats Islamic civilization as a central thread of world history.",
+    "ideas": [
+      "Hodgson places Islamic history within a broad Afro-Eurasian context, rejecting narratives that treat Europe as the center of world history.",
+      "He coined useful terms like “Islamicate” to distinguish religious matters from the wider culture shaped by Muslim societies.",
+      "Demanding and densely written, it rewards serious readers and remains influential in the academic study of Islam."
+    ]
+  },
+  "islam-and-secularism": {
+    "hook": "Syed Muhammad Naquib al-Attas argues that secularization is a philosophical challenge Muslims must answer from their own tradition.",
+    "ideas": [
+      "Al-Attas contends that Western secularism separates knowledge from spiritual meaning, producing confusion about values and purpose.",
+      "He identifies a crisis of knowledge and a loss of proper scholarly authority, which he calls a loss of adab, among Muslims.",
+      "His proposed remedy, the Islamization of knowledge, has been highly influential in Muslim education and also widely debated."
+    ]
+  },
+  "the-heart-of-islam": {
+    "hook": "Nasr explains Islam’s enduring values — peace, justice, compassion — to readers troubled by its association with violence.",
+    "ideas": [
+      "Nasr presents the central themes of God’s unity, human dignity, and justice as the foundation of Islamic ethics and law.",
+      "He addresses misconceptions about jihad, women, and politics, distinguishing the tradition’s teachings from extremist distortions.",
+      "Written after 9/11, the book aims at dialogue, and its sympathetic presentation will suit readers seeking an inside view."
+    ]
+  },
+  "major-themes-of-the-quran": {
+    "hook": "Fazlur Rahman distills the Qur’an’s central concerns — God, humanity, nature, prophecy, and society — into a coherent vision.",
+    "ideas": [
+      "Rahman reads the Qur’an thematically, showing how its teachings form a unified moral worldview rather than scattered rules.",
+      "He emphasizes justice and moral responsibility as central to the Qur’anic message, especially in its concern for social reform.",
+      "A key modernist work, it invites readers to engage the text directly while appreciating its historical context."
+    ]
+  },
+  "on-disciplining-the-soul-and-on-breaking-the-two-desires": {
+    "hook": "Two books from al-Ghazali’s Revival, translated by T. J. Winter, on training the self and taming appetite and lust.",
+    "ideas": [
+      "Al-Ghazali explains that good character can be acquired through practice, like a skill, rather than being fixed at birth.",
+      "He describes the dangers of excessive appetite and sexual desire, presenting moderation as the path to spiritual health.",
+      "Winter’s introduction and notes help modern readers place the text in its scholarly and spiritual context."
+    ]
+  },
+  "sahih-al-bukhari": {
+    "hook": "The most respected collection of hadith in Sunni Islam, compiled with rigorous standards for authenticating reports.",
+    "ideas": [
+      "Al-Bukhari selected reports from a vast body of narrations, applying strict criteria about the reliability and continuity of narrators.",
+      "The collection is organized by topic — faith, prayer, trade, marriage, and more — making it a key reference for law and practice.",
+      "Readers usually approach it with guidance from scholars or commentaries, since understanding hadith requires context and interpretive method."
+    ]
+  },
+  "the-message-of-the-quran": {
+    "hook": "Muhammad Asad’s translation and commentary, known for its rationalist interpretation and extensive explanatory notes.",
+    "ideas": [
+      "Asad translates with attention to classical Arabic and the Qur’an’s historical context, aiming to convey meaning rather than word-for-word equivalence.",
+      "His notes often favor rational or metaphorical readings of miracles and eschatology, which some readers find illuminating and others controversial.",
+      "It remains a favorite among those seeking a thoughtful, reflective translation for study alongside more traditional commentaries."
+    ]
+  },
+  "hayy-ibn-yaqzan": {
+    "hook": "Ibn Tufayl’s philosophical tale of a child raised alone on an island who reasons his way to knowledge of God.",
+    "ideas": [
+      "The story explores whether human reason, unaided by society or revelation, can discover truth about nature and the divine.",
+      "Hayy’s stages of discovery — from observation to philosophy to mystical experience — map a medieval theory of knowledge.",
+      "Its later encounter with organized religion raises questions about how philosophy and popular faith relate, still debated today."
+    ]
+  },
+  "mecca": {
+    "hook": "Ziauddin Sardar’s history of Mecca, from barren valley and trading town to the contested heart of the Muslim world.",
+    "ideas": [
+      "Sardar traces Mecca’s political history, showing how rulers and dynasties shaped the city and the pilgrimage over centuries.",
+      "He is critical of modern developments that have demolished historic sites and commercialized the sacred city.",
+      "Part history, part personal reflection, the book connects the city’s past to debates about religion and modernity today."
+    ]
+  },
+  "the-muqaddimah": {
+    "hook": "Ibn Khaldun’s fourteenth-century introduction to history, which lays out a theory of how societies rise and decline.",
+    "ideas": [
+      "Ibn Khaldun argues that group solidarity, which he calls asabiyya, drives the rise of dynasties and weakens as rulers grow comfortable.",
+      "He insists history must be tested against knowledge of society and nature, rejecting reports that are implausible or politically convenient.",
+      "His insights into economics, urbanization, and politics have led many to call him a forerunner of sociology and economics."
+    ]
+  },
+  "pathfinders": {
+    "hook": "Physicist Jim Al-Khalili celebrates the scientists of the Islamic golden age and their lasting influence on modern science.",
+    "ideas": [
+      "Al-Khalili introduces figures like al-Khwarizmi, Ibn al-Haytham, and al-Biruni, explaining their contributions in mathematics, optics, and astronomy.",
+      "He argues that Arabic-language science was not merely preservation of Greek learning but involved original experiment and theory.",
+      "The book also asks why scientific leadership shifted away from the Muslim world, offering a nuanced answer rather than a simple villain."
+    ]
+  },
+  "the-reconstruction-of-religious-thought-in-islam": {
+    "hook": "Muhammad Iqbal’s lectures argue for renewing Islamic thought through philosophy, experience, and dynamic interpretation.",
+    "ideas": [
+      "Iqbal argues that religious experience is a form of knowledge, and that Islam encourages engagement with the changing world.",
+      "He calls for reviving ijtihad, independent reasoning, so Muslim societies can adapt law and thought to new circumstances.",
+      "Dense and philosophical, it draws on Western and Islamic thinkers alike, and remains central to modern Muslim intellectual debates."
+    ]
+  },
+  "the-quest-for-meaning": {
+    "hook": "Tariq Ramadan reflects on how people of different faiths and philosophies can share values while keeping their differences.",
+    "ideas": [
+      "Ramadan argues that pluralism requires humility, recognizing that one’s own truth claims coexist with others’ sincere convictions.",
+      "He explores themes like freedom, reason, and love across traditions, seeking common ground for ethical life in diverse societies.",
+      "The book is more philosophical meditation than argument, best read slowly as an invitation to reflect."
+    ]
+  },
+  "radical-reform": {
+    "hook": "Tariq Ramadan calls for transforming Islamic ethics by bringing scholars of texts and scholars of context together.",
+    "ideas": [
+      "Ramadan distinguishes adaptation reform, which adjusts to circumstances, from transformation reform, which reshapes society toward ethical goals.",
+      "He argues that experts in science, economics, and social issues should share authority with religious scholars in formulating ethics.",
+      "Applied to medicine, ecology, and economics, his approach is ambitious, and readers debate how practical it is."
+    ]
+  },
+  "the-remembrance-of-death-and-the-afterlife": {
+    "hook": "The final book of al-Ghazali’s Revival meditates on mortality, the grave, and the life to come.",
+    "ideas": [
+      "Al-Ghazali argues that remembering death loosens worldly attachments and motivates repentance and good deeds.",
+      "He describes the stages of death and the afterlife drawn from the Islamic tradition, presenting them as realities that should shape conduct.",
+      "Winter’s translation and introduction help modern readers approach this sobering text with context and care."
+    ]
+  },
+  "the-life-of-muhammad": {
+    "hook": "Muhammad Husayn Haykal’s modern biography of the Prophet, written to present his life to rational, educated readers.",
+    "ideas": [
+      "Haykal relies on the Qur’an and selected historical sources, emphasizing rational analysis and avoiding legendary material.",
+      "He responds directly to Orientalist critiques, presenting a portrait of the Prophet that engages Western scholarship.",
+      "It was influential in the Arab world and remains a respected example of modern Muslim biography."
+    ]
+  },
+  "approaching-the-quran": {
+    "hook": "Michael Sells offers poetic translations of early Meccan suras, with essays on their sound, structure, and meaning.",
+    "ideas": [
+      "Sells focuses on short early suras, conveying their rhythm and imagery to show why recitation moves listeners so deeply.",
+      "His essays explain themes like the day of reckoning, the divine names, and the Qur’an’s use of sound and repetition.",
+      "The included recordings help readers experience recitation, making the book a strong introduction for non-Arabic speakers."
+    ]
+  },
+  "the-garden-of-truth": {
+    "hook": "Seyyed Hossein Nasr introduces Sufism as the inner dimension of Islam, focusing on love, knowledge, and the spiritual path.",
+    "ideas": [
+      "Nasr describes Sufism as the heart of Islam, emphasizing that it is rooted in the Qur’an and prophetic practice rather than separate from them.",
+      "He explains how love, knowledge, and virtue work together in the Sufi path toward realizing God’s presence.",
+      "Written for general readers, it is both an introduction and an invitation, offering a believer’s perspective on mystical Islam."
+    ]
+  },
+  "the-vision-of-islam": {
+    "hook": "A comprehensive introduction structured around the hadith of Gabriel: practice, faith, and spiritual excellence.",
+    "ideas": [
+      "Murata and Chittick organize Islam into three dimensions — islam, iman, and ihsan — following the famous hadith in which Gabriel questions the Prophet.",
+      "They draw on Qur’an, theology, philosophy, and Sufism to show how these dimensions form a unified worldview.",
+      "Widely used in university courses, it is clear and thorough, though demanding for readers seeking a quick overview."
+    ]
+  },
+  "the-meaning-of-the-glorious-koran": {
+    "hook": "Marmaduke Pickthall’s 1930 translation, the first by an English Muslim convert, known for its literal, dignified style.",
+    "ideas": [
+      "Pickthall aims to render the meaning closely while acknowledging that the Arabic Qur’an itself cannot be translated.",
+      "His English is formal and archaic, which many readers find reverent and others find hard to follow.",
+      "It remains widely used and respected, and is often compared with Yusuf Ali’s translation from the same era."
+    ]
+  },
+  "forty-hadith": {
+    "hook": "Imam al-Nawawi’s concise collection of forty-two foundational hadith summarizing the core principles of Islam.",
+    "ideas": [
+      "Each hadith was chosen because it captures a key principle of faith, worship, ethics, or law, making the collection a compact curriculum.",
+      "Many Muslims memorize the collection, and scholars have written extensive commentaries explaining its depth.",
+      "It is an ideal starting point for studying hadith, especially with a commentary that explains context and implications."
+    ]
+  },
+  "being-muslim": {
+    "hook": "A clear, practical guide to Muslim beliefs and practices, written for new Muslims and those relearning the basics.",
+    "ideas": [
+      "Tarsin covers belief, prayer, fasting, charity, and pilgrimage in accessible language, explaining both the how and the why.",
+      "The book introduces spiritual character alongside ritual practice, emphasizing that outward acts and inner states belong together.",
+      "Designed as a primer, it points readers to qualified teachers for deeper study rather than replacing them."
+    ]
+  },
+  "the-risala": {
+    "hook": "Al-Shafi’i’s foundational treatise on the principles of Islamic jurisprudence and how law is derived from sources.",
+    "ideas": [
+      "Al-Shafi’i systematized the sources of law — Qur’an, Sunnah, consensus, and analogy — establishing a method for legal reasoning.",
+      "He argued for the authority of the Prophet’s Sunnah alongside the Qur’an, which shaped later Sunni legal thought.",
+      "Technical but historically pivotal, it is essential for understanding how Islamic law developed as a disciplined field."
+    ]
+  },
+  "islam-between-east-and-west": {
+    "hook": "Bosnian statesman Alija Izetbegović argues that Islam uniquely unites spiritual and material life, avoiding both extremes.",
+    "ideas": [
+      "Izetbegović contrasts religion focused only on the spirit with ideologies focused only on material progress, arguing each is incomplete.",
+      "He presents Islam as a bipolar unity that integrates prayer and social action, inner faith and outward responsibility.",
+      "Drawing widely on European philosophy and art, the book is an ambitious, original work of Muslim thought."
+    ]
+  },
+  "the-spirit-of-islam": {
+    "hook": "Syed Ameer Ali’s influential modernist account of Islam’s history and ideals, written for a Victorian audience.",
+    "ideas": [
+      "Ameer Ali presents the Prophet’s life and message as rational, humane, and progressive, countering colonial-era prejudices.",
+      "He emphasizes Islam’s contributions to civilization and its compatibility with liberal values like reason and tolerance.",
+      "A product of its time, the book is valued as an important modernist text and also critiqued for its apologetic tone."
+    ]
+  },
+  "the-book-of-contemplation": {
+    "hook": "The memoir of a twelfth-century Syrian warrior-poet, offering a Muslim view of the Crusades and Crusaders.",
+    "ideas": [
+      "Usama ibn Munqidh recounts battles, hunts, and court life, giving vivid glimpses of daily life in the medieval Levant.",
+      "His observations of the Franks mix contempt, curiosity, and occasional friendship, complicating simple narratives of the Crusades.",
+      "Written in old age, the memoir reflects on fate and divine will, giving it a contemplative tone beyond its anecdotes."
+    ]
+  },
+  "riyad-as-salihin": {
+    "hook": "Imam al-Nawawi’s widely read collection of hadith and verses organized around ethics, worship, and good character.",
+    "ideas": [
+      "Each chapter begins with Qur’anic verses and follows with hadith on a theme like sincerity, patience, kindness, or repentance.",
+      "Its focus on daily conduct makes it a practical guide for personal development and community study circles.",
+      "Many readers use it with a commentary or teacher, reading a chapter at a time to reflect and apply it."
+    ]
+  },
+  "the-book-of-assistance": {
+    "hook": "Imam al-Haddad’s concise manual on the spiritual path, covering worship, character, and preparing for the afterlife.",
+    "ideas": [
+      "Al-Haddad emphasizes certainty, sincerity, and consistent devotion, presenting the spiritual life as rooted in daily practice.",
+      "He offers practical guidance on prayer, remembrance, and managing worldly affairs without losing focus on God.",
+      "Short and direct, it is often studied in traditional circles as a foundational text for spiritual discipline."
+    ]
+  },
+  "what-everyone-needs-to-know-about-islam": {
+    "hook": "John Esposito answers common questions about Islam in a clear question-and-answer format for general readers.",
+    "ideas": [
+      "Esposito addresses beliefs, practices, women, violence, and politics directly, offering concise, accessible answers.",
+      "He distinguishes mainstream Islamic teachings from extremist interpretations, aiming to reduce misunderstanding.",
+      "The format makes it easy to consult on specific topics, though it inevitably simplifies complex debates."
+    ]
+  },
+  "islam-in-focus": {
+    "hook": "Hammudah Abdalati’s classic primer explaining Islamic beliefs, practices, and social teachings in plain, systematic language.",
+    "ideas": [
+      "Abdalati covers faith, worship, family, and economic life, presenting Islam as a comprehensive way of life.",
+      "His explanations are clear and concise, making the book popular in introductory courses and for new Muslims.",
+      "Written from a traditional perspective, it serves as an accessible foundation for further study."
+    ]
+  },
+  "reading-the-quran": {
+    "hook": "Ziauddin Sardar offers a personal, thematic reading of the Qur’an that emphasizes reason, justice, and contemporary relevance.",
+    "ideas": [
+      "Sardar reflects on the Qur’an’s opening chapters and recurring themes, drawing out their ethical meaning for modern readers.",
+      "He argues that each generation must engage the text afresh, rather than relying solely on historical interpretations.",
+      "His reformist readings on topics like gender and law will interest readers seeking a thoughtful, engaged approach."
+    ]
+  }
+}

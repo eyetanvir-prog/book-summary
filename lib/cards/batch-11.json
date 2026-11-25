@@ -1,0 +1,754 @@
+{
+  "think-big": {
+    "hook": "A neurosurgeon who grew up poor in Detroit explains the habits and faith he credits for getting him out.",
+    "ideas": [
+      "Carson builds his advice around an acronym for thinking big, treating talent, honesty, reading, and knowledge as things you practise rather than inherit.",
+      "Reading widely, not just schooling, is presented as the real engine of his turnaround, starting with his mother’s rule about library books and written reports.",
+      "Religious faith runs through every chapter, so readers looking for a purely secular success manual should expect sermon as much as strategy."
+    ]
+  },
+  "the-last-lecture": {
+    "hook": "A computer scientist with terminal cancer writes down what he wants his young children to know about living well.",
+    "ideas": [
+      "Pausch frames childhood dreams as a practical guide: chasing them teaches persistence, and helping other people reach theirs turns out to be the bigger reward.",
+      "Brick walls, in his telling, exist to show how badly you want something; they keep out the people who don’t want it enough.",
+      "The book’s force comes from its restraint: it is cheerful, specific, and unsentimental, which makes the underlying grief land harder than any lament would."
+    ]
+  },
+  "the-art-of-learning": {
+    "hook": "A chess prodigy turned martial-arts champion explains how he learned to learn, twice, in two very different fields.",
+    "ideas": [
+      "Waitzkin argues for depth over breadth: master a small set of fundamentals so thoroughly that they become intuition, then build complexity on top.",
+      "He treats losses and setbacks as raw material, urging you to study your mistakes closely instead of protecting a fragile image of natural talent.",
+      "Performance under pressure is trainable; he describes building personal routines that let you summon calm focus on demand rather than waiting for inspiration."
+    ]
+  },
+  "finding-me": {
+    "hook": "Viola Davis traces the line from childhood poverty and fear in Rhode Island to the confidence of her stage work.",
+    "ideas": [
+      "Davis is unsparing about hunger, violence, and shame at home, and shows how those experiences shaped both her wounds and her sense of what acting is for.",
+      "The memoir treats success as incomplete healing: awards and roles did not erase the frightened girl, and she had to do that work separately.",
+      "Her account of a Black, dark-skinned woman in a narrow industry is pointed about who gets cast as beautiful, central, or worth a full story."
+    ]
+  },
+  "leonardo-da-vinci": {
+    "hook": "Walter Isaacson reads Leonardo’s notebooks to show how relentless curiosity, not magic genius, drove his art and science.",
+    "ideas": [
+      "Isaacson presents Leonardo’s genius as a set of habits, chiefly observing obsessively, asking odd questions, and connecting anatomy, optics, engineering, and painting.",
+      "Leonardo left many projects unfinished, and the book treats that as both a real flaw and a side effect of a mind that valued the problem more than delivery.",
+      "The practical takeaway is modest but usable: write down what you notice, chase questions for their own sake, and let fields cross-pollinate."
+    ]
+  },
+  "papillon": {
+    "hook": "A convict’s account of repeated escape attempts from French Guiana’s penal colonies, told with swagger and stubborn hope.",
+    "ideas": [
+      "The book is about the refusal to accept a sentence as final, with escape functioning as much as a state of mind as a plan.",
+      "Charrière’s portrait of the penal system shows cruelty made routine, where solitary confinement and disease are tools of policy rather than accidents.",
+      "Historians have questioned how much of the story happened to Charrière himself, so read it as a vivid adventure narrative more than a reliable record."
+    ]
+  },
+  "my-inventions": {
+    "hook": "Nikola Tesla’s own short account of his childhood, visions, and inventions, written in his strange, confident voice.",
+    "ideas": [
+      "Tesla describes building and testing machines entirely in his imagination before touching materials, offering a rare first-person view of his working method.",
+      "The memoir shows how intense, sometimes painful sensory experiences and obsessions were woven into his creativity rather than separate from it.",
+      "It is self-mythologising in places, so pair it with a sober biography if you want the disputes and business failures in full."
+    ]
+  },
+  "the-anthropocene-reviewed": {
+    "hook": "John Green rates pieces of human life on a five-star scale, turning odd subjects into essays about attention and hope.",
+    "ideas": [
+      "The star-rating gimmick is a way to take small things seriously, from a song to a sunset, and to notice what they say about us.",
+      "Green writes openly about anxiety, depression, and the pandemic, and the essays argue that joy and dread can share the same afternoon.",
+      "The book models a habit worth copying: pay close attention to ordinary things, then ask what they reveal about the people who made them."
+    ]
+  },
+  "greenlights": {
+    "hook": "Matthew McConaughey assembles diaries, stories, and bumper-sticker wisdom into a loose guide to catching life’s greenlights.",
+    "ideas": [
+      "His central idea is that yellow and red lights eventually turn green, and that hardships often look like advantages once enough time passes.",
+      "The book is built from decades of journals, which gives it energy and odd detail but also a scattershot, slogan-heavy structure.",
+      "Read it for the stories and attitude rather than a method; the advice is upbeat and personal, not a tested framework."
+    ]
+  },
+  "black-boy": {
+    "hook": "Richard Wright’s memoir of hunger, fear, and reading his way toward freedom in the Jim Crow South.",
+    "ideas": [
+      "Wright shows how segregation worked on the inside, demanding constant performance of deference and punishing any sign of a mind of one’s own.",
+      "Hunger is both literal and figurative: he starves for food and for books, and reading becomes his first real form of escape.",
+      "The memoir refuses easy comfort, criticising pressures inside his own family and community as well as the white world that confined them."
+    ]
+  },
+  "dreams-from-my-father": {
+    "hook": "Before politics, Barack Obama wrote this searching memoir about race, family, and an absent Kenyan father.",
+    "ideas": [
+      "The book is an identity investigation: Obama tries to understand a father he barely knew, and finds the real man more complicated than the legend.",
+      "His years as a community organiser in Chicago show how slow, unglamorous local work shaped his sense of what politics could do.",
+      "It reads as literature rather than campaign material, with doubt and self-questioning that later political memoirs rarely allow."
+    ]
+  },
+  "how-to-be-an-antiracist": {
+    "hook": "Ibram X. Kendi mixes memoir and argument to claim that ideas and policies are either racist or antiracist, never neutral.",
+    "ideas": [
+      "Kendi defines racism by outcomes: policies that produce or sustain racial inequity are racist, whatever the intentions of the people who wrote them.",
+      "He uses his own past beliefs as evidence, showing how anyone, including people of colour, can absorb and repeat racist ideas.",
+      "Critics argue his binary framework leaves little room for disagreement about causes or remedies, and readers should weigh that as they read."
+    ]
+  },
+  "wild": {
+    "hook": "After her mother’s death and a collapsing marriage, Cheryl Strayed hikes the Pacific Crest Trail alone with no experience.",
+    "ideas": [
+      "Strayed treats grief as something you walk through physically, one painful mile at a time, rather than something you think your way out of.",
+      "Her honesty about bad choices, from drugs to a ridiculously overloaded pack, keeps the book from becoming a tidy redemption story.",
+      "The trail strips life down to food, water, and blisters, and that simplicity gives her room to rebuild a self she can live with."
+    ]
+  },
+  "to-selena-with-love": {
+    "hook": "Selena’s widower and former guitarist remembers their secret romance, marriage, and the life cut short in 1995.",
+    "ideas": [
+      "Perez offers an insider view of Selena as a working musician and partner, not just a star, including the friction their relationship caused in her family band.",
+      "The book is a love letter first, so it is warm and protective of her memory rather than critical or investigative.",
+      "His account of grief after her killing is plain and personal, showing how public mourning can make private loss harder to carry."
+    ]
+  },
+  "rizal-without-the-overcoat": {
+    "hook": "Ambeth Ocampo strips the monument off José Rizal to show the Philippine national hero as a real, fallible man.",
+    "ideas": [
+      "Ocampo argues that turning Rizal into a stiff statue makes him less useful; seeing his doubts, debts, and quirks makes his commitment more impressive.",
+      "The short, newspaper-column format makes history approachable, mixing archival curiosities with sharp questions about how nations choose their heroes.",
+      "Underneath the wit is a serious point: hero worship can replace actually reading what Rizal wrote and thinking about it."
+    ]
+  },
+  "assata": {
+    "hook": "Assata Shakur tells her own story of growing up Black in America, joining the Black Panthers, and her imprisonment.",
+    "ideas": [
+      "Shakur connects her radicalisation to everyday experiences of racism, schooling, and policing, presenting politics as a response rather than an abstraction.",
+      "The book gives her account of the 1973 New Jersey Turnpike shooting and her trials, which remain sharply disputed by law enforcement.",
+      "Read it as a political autobiography with a clear point of view, valuable for understanding the movement from inside, not as a neutral history."
+    ]
+  },
+  "zoo-station": {
+    "hook": "Based on interviews, this book tells how a Berlin girl slid into heroin addiction and street prostitution at thirteen.",
+    "ideas": [
+      "The book shows addiction as a social process, driven by boredom, bleak housing, peer belonging, and adults who looked away.",
+      "Its flat, first-person voice refuses glamour; the routine of getting money and drugs is more frightening than any single dramatic scene.",
+      "It became a warning text in Germany, and its power still comes from treating a child’s story with documentary seriousness rather than moralising."
+    ]
+  },
+  "moralia": {
+    "hook": "Plutarch’s sprawling essay collection covers anger, friendship, flattery, and animals with the curiosity of an ancient polymath.",
+    "ideas": [
+      "Many essays are practical ethics: how to tell a flatterer from a friend, how to control anger, how to benefit from your enemies.",
+      "Plutarch mixes philosophy with anecdotes and customs, so the collection doubles as a window on everyday Greek and Roman thinking.",
+      "It is uneven by design, so dip into individual essays that match your questions rather than reading straight through."
+    ]
+  },
+  "confessions-of-an-economic-hit-man": {
+    "hook": "John Perkins claims he helped load developing countries with debt to serve American corporate and political power.",
+    "ideas": [
+      "Perkins describes inflated growth forecasts used to justify huge infrastructure loans, which left poor countries indebted and dependent on lenders and contractors.",
+      "The book’s broader argument is that economic leverage can do the work of empire more quietly than armies.",
+      "Many of his specific claims about secret recruitment and plots are unverified and disputed, so treat it as a provocative memoir rather than established history."
+    ]
+  },
+  "extreme-ownership": {
+    "hook": "Two Navy SEAL officers argue that leaders own every outcome, and show how that works in combat and business.",
+    "ideas": [
+      "Extreme ownership means accepting responsibility for everything in your world, including failures caused by others, then fixing the cause rather than assigning blame.",
+      "Their practical rules include prioritising one problem at a time, keeping plans simple, and decentralising command so frontline people can act on clear intent.",
+      "The military stories are vivid, but the business parallels can feel neat; the useful core is a habit of self-scrutiny, not the bravado."
+    ]
+  },
+  "the-minds-of-billy-milligan": {
+    "hook": "Daniel Keyes reconstructs the case of a man whose defence rested on having many separate personalities.",
+    "ideas": [
+      "The book presents dissociation as a survival response to severe childhood abuse, with each identity holding a different job or emotion.",
+      "Keyes raises hard legal questions about responsibility when the person who committed a crime may not experience himself as the one who did it.",
+      "Multiple personality diagnoses remain debated, and the book takes Milligan’s account largely at face value, so read it with that caution in mind."
+    ]
+  },
+  "a-promised-land": {
+    "hook": "Barack Obama’s first presidential memoir covers his rise and first term with unusual detail about how decisions were made.",
+    "ideas": [
+      "Obama walks through policy fights like the financial crisis and healthcare reform, showing the compromises behind outcomes that looked simple from outside.",
+      "He is reflective about race, partisanship, and the limits of presidential power, often second-guessing his own choices on the page.",
+      "It is long and carefully lawyered, so expect thoughtful explanation more than revelation or score-settling."
+    ]
+  },
+  "a-beautiful-mind": {
+    "hook": "Sylvia Nasar’s biography of John Nash follows a mathematician from brilliance through schizophrenia to an unlikely recovery.",
+    "ideas": [
+      "Nasar explains why Nash’s work on game theory mattered, making equilibrium ideas understandable without heavy maths.",
+      "The book shows mental illness destroying a career and family life slowly, and refuses the romantic link between madness and genius.",
+      "It is a fuller and less sentimental story than the film, including the unflattering parts of Nash’s personal life."
+    ]
+  },
+  "down-and-out-in-paris-and-london": {
+    "hook": "Orwell lives among dishwashers and tramps in two cities and reports what poverty does to time, food, and dignity.",
+    "ideas": [
+      "Orwell shows that poverty is mostly boredom and humiliation, not drama, with whole days organised around finding the next meal.",
+      "His description of Paris hotel kitchens reveals the exhausting, invisible labour behind comfortable dining.",
+      "The London sections attack laws and charity practices that kept homeless people moving and degraded, arguing that the system manufactures the vagrant it condemns."
+    ]
+  },
+  "the-art-of-war": {
+    "hook": "An ancient Chinese manual on strategy that prizes winning without fighting, knowledge of the enemy, and timing.",
+    "ideas": [
+      "The best victory, Sun Tzu argues, is one achieved without battle, through positioning, deception, and undermining the enemy’s plans and alliances.",
+      "Knowing yourself and your opponent is the foundation of strategy; ignorance of either makes each engagement a gamble.",
+      "Business readers love its aphorisms, but they work best as prompts for thinking about competition, not as literal tactics."
+    ]
+  },
+  "meditations": {
+    "hook": "An emperor’s private notebook of reminders for staying calm, decent, and useful when the day goes badly.",
+    "ideas": [
+      "Separate what you control, your judgments and actions, from what you don’t, and stop letting the second category run your mood.",
+      "Expect rude, greedy, and difficult people each day, and decide in advance not to answer them in kind.",
+      "Remembering your own impermanence is a tool for shrinking grudges and vanity, not a reason for gloom."
+    ]
+  },
+  "the-prince": {
+    "hook": "Machiavelli’s blunt handbook for gaining and keeping power, written for rulers living in dangerous times.",
+    "ideas": [
+      "Machiavelli separates politics from conventional morality, arguing that a ruler must sometimes act ruthlessly to preserve the state.",
+      "He weighs whether it is better to be loved or feared, concluding that fear is more reliable but hatred must be avoided.",
+      "Fortune governs much of life, yet bold action and adaptability can shape the rest; prudence alone is not enough."
+    ]
+  },
+  "sophies-world": {
+    "hook": "A novel that teaches the history of Western philosophy through letters sent to a curious Norwegian teenager.",
+    "ideas": [
+      "Gaarder uses a mystery frame to keep readers moving through ideas from the ancient Greeks to modern thinkers in order.",
+      "The book’s real subject is wonder: philosophy begins when you stop taking the world for granted and ask why anything exists.",
+      "As a novel it is sometimes stiff, but as a gentle introduction to big questions it works for teenagers and adults alike."
+    ]
+  },
+  "the-communist-manifesto": {
+    "hook": "Marx and Engels’s short, combative pamphlet on class struggle that shaped revolutions and political movements for over a century.",
+    "ideas": [
+      "History, the authors argue, is driven by struggles between classes, and capitalism has simplified society into owners and workers.",
+      "The pamphlet is surprisingly admiring of capitalism’s power to transform technology and trade, even as it predicts the system’s collapse.",
+      "Its predictions about revolution and the withering of the state did not play out as written, but its critique of economic power remains influential."
+    ]
+  },
+  "the-republic": {
+    "hook": "Plato’s dialogue asks what justice is, then designs an entire city to find the answer.",
+    "ideas": [
+      "Socrates argues that justice in a person mirrors justice in a city, where each part does its proper job in harmony.",
+      "The allegory of the cave suggests most people mistake shadows for reality, and education is the painful process of turning toward truth.",
+      "Plato’s ideal state includes censorship and rule by philosopher kings, ideas that many readers find troubling rather than inspiring."
+    ]
+  },
+  "beyond-good-and-evil": {
+    "hook": "Nietzsche attacks philosophers’ hidden assumptions and asks what values look like without inherited ideas of good and evil.",
+    "ideas": [
+      "Nietzsche argues that philosophical systems often disguise personal temperament and prejudice as objective truth.",
+      "He contrasts master morality, which celebrates strength and nobility, with slave morality, which values humility and pity.",
+      "The book’s aphoristic style and some notorious passages, including on women, mean readers must separate provocative insight from prejudice."
+    ]
+  },
+  "the-second-sex": {
+    "hook": "Simone de Beauvoir’s landmark study of how women have been defined as the Other in a man-centred world.",
+    "ideas": [
+      "Beauvoir argues that one is not born but becomes a woman, through upbringing, culture, and expectation rather than biology alone.",
+      "Women have been cast as the Other to men, defined by difference and lack rather than as full subjects in their own right.",
+      "Freedom requires economic independence and meaningful work, not just legal rights, which makes the book’s argument practical as well as theoretical."
+    ]
+  },
+  "nicomachean-ethics": {
+    "hook": "Aristotle’s account of the good life argues that happiness comes from practising virtue over a whole lifetime.",
+    "ideas": [
+      "Happiness, for Aristotle, is flourishing through virtuous activity, not a passing feeling or the accumulation of pleasure.",
+      "Virtue lies in a mean between extremes, so courage sits between cowardice and recklessness, and finding it requires judgement.",
+      "Character is built by habit; you become just by doing just acts repeatedly, much as you learn a craft."
+    ]
+  },
+  "the-myth-of-sisyphus": {
+    "hook": "Camus asks whether life is worth living without ultimate meaning, and answers with defiance rather than despair.",
+    "ideas": [
+      "The absurd, Camus argues, arises from the clash between our hunger for meaning and a universe that offers none.",
+      "He rejects both suicide and leaps of faith as evasions, recommending that we live fully while knowing the absurd remains.",
+      "Sisyphus pushing his rock becomes a model of lucid revolt: we must imagine him happy because he owns his fate."
+    ]
+  },
+  "zen-and-the-art-of-motorcycle-maintenance": {
+    "hook": "A father and son ride across America while the narrator works through a long argument about the meaning of Quality.",
+    "ideas": [
+      "Pirsig contrasts romantic thinking, which sees surfaces and feelings, with classical thinking, which sees structure and parts, and argues we need both.",
+      "Caring about the work in front of you, even a motorcycle repair, is presented as a practical route to peace of mind.",
+      "The road trip carries a painful personal story about mental illness and fatherhood, which gives the philosophy real emotional weight."
+    ]
+  },
+  "walden": {
+    "hook": "Thoreau moves to a cabin by a pond to test how little a person needs to live deliberately.",
+    "ideas": [
+      "Thoreau argues that most people trade their lives for possessions and status, living in quiet desperation they never examine.",
+      "Simplicity is his experiment: reduce needs, and you gain time to read, think, observe nature, and decide what matters.",
+      "He was never fully isolated, and critics note the comforts nearby, but the book’s questions about work and enough still bite."
+    ]
+  },
+  "thus-spoke-zarathustra": {
+    "hook": "Nietzsche’s prophetic, poetic book where a wandering sage announces the death of God and the overman.",
+    "ideas": [
+      "With traditional religion losing its authority, Nietzsche asks how humans can create values rather than inherit them.",
+      "The overman stands for a self-overcoming ideal, someone who affirms life and shapes meaning instead of seeking comfort.",
+      "Eternal recurrence works as a test: could you embrace living your life again exactly as it was, endlessly?"
+    ]
+  },
+  "leviathan": {
+    "hook": "Hobbes argues that without a strong sovereign, human life would be a war of all against all.",
+    "ideas": [
+      "In a state of nature, Hobbes argues, fear and competition make life solitary, poor, nasty, brutish, and short.",
+      "People rationally agree to surrender some freedom to a powerful authority in exchange for security and peace.",
+      "His case for near-absolute sovereignty sits uneasily with modern democracy, but the social contract idea shaped everything that followed."
+    ]
+  },
+  "letters-from-a-stoic": {
+    "hook": "Seneca’s letters to a friend turn Stoic philosophy into practical advice on time, fear, and friendship.",
+    "ideas": [
+      "Seneca urges you to guard your time jealously, because it is the one resource you can never recover.",
+      "Rehearse misfortune in advance, he says, so loss and hardship lose some of their power to shock you.",
+      "His great wealth under Nero complicates his praise of simplicity, and the tension makes him more human than hypocritical."
+    ]
+  },
+  "the-social-contract": {
+    "hook": "Rousseau asks how people can live under laws and still remain free, and answers with the general will.",
+    "ideas": [
+      "Legitimate authority comes only from an agreement in which citizens collectively make the laws they obey.",
+      "The general will aims at the common good, which Rousseau distinguishes from the mere sum of private interests.",
+      "His claim that people may be forced to be free has worried readers for centuries, and deserves scrutiny."
+    ]
+  },
+  "critique-of-pure-reason": {
+    "hook": "Kant’s demanding work asks what we can know at all, and argues the mind shapes experience itself.",
+    "ideas": [
+      "Kant argues that space, time, and categories like causation are structures the mind brings to experience, not things learned from it.",
+      "We can know appearances, but things as they are in themselves remain beyond our reach.",
+      "Reason overreaches when it tries to prove claims about God, freedom, or the soul through pure argument, producing contradictions."
+    ]
+  },
+  "on-liberty": {
+    "hook": "Mill defends individual freedom of thought and action against both governments and the pressure of public opinion.",
+    "ideas": [
+      "The harm principle holds that society may restrict a person’s freedom only to prevent harm to others, not to protect them from themselves.",
+      "Free expression matters even for false opinions, because truth sharpens when tested against challenge.",
+      "Mill warns that social conformity can be more tyrannical than law, quietly crushing eccentricity and originality."
+    ]
+  },
+  "the-analects": {
+    "hook": "Short sayings attributed to Confucius on virtue, learning, ritual, and how good government begins with good character.",
+    "ideas": [
+      "Confucius stresses ren, humane goodness, as the core virtue, expressed through respect and care in everyday relationships.",
+      "Ritual and propriety are not empty forms; they train character and hold families and societies together.",
+      "Learning is lifelong, and a ruler leads best by moral example rather than by punishment or force."
+    ]
+  },
+  "existentialism-is-a-humanism": {
+    "hook": "Sartre’s short public lecture defends existentialism and explains why we are condemned to be free.",
+    "ideas": [
+      "Existence precedes essence: humans are not born with a fixed nature but define themselves through their choices.",
+      "Because we choose, we are fully responsible, and every choice implicitly suggests what all people should do.",
+      "Anguish and abandonment are not reasons for despair but conditions of freedom, which Sartre presents as optimistic."
+    ]
+  },
+  "the-consolation-of-philosophy": {
+    "hook": "Awaiting execution, Boethius imagines Lady Philosophy visiting his cell to reason him out of despair.",
+    "ideas": [
+      "Fortune’s wheel always turns, so happiness built on wealth, fame, or power is fragile by design.",
+      "True good lies in something stable, which Boethius identifies with God and virtue rather than external success.",
+      "The book wrestles honestly with why good people suffer and how free will fits with divine foreknowledge."
+    ]
+  },
+  "enchiridion": {
+    "hook": "Epictetus’s short handbook of Stoic practice, distilled for daily use by a former slave turned teacher.",
+    "ideas": [
+      "Some things are up to us, our judgments and choices, and others are not; peace comes from focusing on the first.",
+      "We are disturbed not by events but by our opinions about them, so change the opinion first.",
+      "Its brevity makes it a practical tool to reread often, more training manual than philosophical treatise."
+    ]
+  },
+  "tao-te-ching": {
+    "hook": "Lao Tzu’s brief, paradoxical verses on the Tao, the way of things, and leading by yielding.",
+    "ideas": [
+      "The Tao cannot be fully named or grasped; wisdom begins by accepting the limits of words and concepts.",
+      "Wu wei, effortless action, suggests working with the grain of things rather than forcing outcomes.",
+      "Softness, humility, and emptiness are presented as strengths, like water wearing away stone over time."
+    ]
+  },
+  "the-art-of-loving": {
+    "hook": "Erich Fromm argues that love is a skill you practise, not a feeling you fall into by luck.",
+    "ideas": [
+      "Most people focus on being lovable or finding the right person, Fromm says, rather than developing the capacity to love.",
+      "Mature love involves care, responsibility, respect, and knowledge, and preserves the individuality of both people.",
+      "Consumer culture, which treats people as packages to trade, makes real love harder and rarer."
+    ]
+  },
+  "mere-christianity": {
+    "hook": "C. S. Lewis’s radio talks turned into a reasoned case for core Christian belief shared across denominations.",
+    "ideas": [
+      "Lewis begins with the moral law, arguing that our shared sense of right and wrong points beyond nature.",
+      "He focuses on what most Christians hold in common, leaving denominational disputes aside.",
+      "His trilemma about Jesus is famous but contested; sceptics argue it leaves out several possibilities."
+    ]
+  },
+  "the-daily-stoic": {
+    "hook": "A year of short daily readings that pair Stoic quotations with practical commentary for modern life.",
+    "ideas": [
+      "Each day offers a brief Stoic passage and reflection, making the philosophy a daily practice rather than a theory.",
+      "The year is organised around clarity of perception, right action, and acceptance of what you cannot control.",
+      "It works best as a habit-forming companion; readers wanting depth should go on to the original Stoic texts."
+    ]
+  },
+  "why-i-am-an-atheist": {
+    "hook": "Written in prison before his execution, Bhagat Singh explains why he rejected belief in God.",
+    "ideas": [
+      "Singh argues that suffering and injustice in the world are hard to square with an all-powerful, benevolent creator.",
+      "He rejects the charge that his atheism comes from vanity, presenting it instead as the result of study and reasoning.",
+      "The essay shows a revolutionary facing death without the comfort of faith, which makes its stance especially striking."
+    ]
+  },
+  "the-wisdom-of-insecurity": {
+    "hook": "Alan Watts argues that chasing security makes us anxious, and peace comes from accepting change.",
+    "ideas": [
+      "Our hunger for certainty about the future robs us of the present, the only moment we actually live.",
+      "Watts suggests the separate, controlling self is partly an illusion, and loosening it eases anxiety.",
+      "His blend of Eastern ideas and Western psychology is accessible, though sometimes more poetic than precise."
+    ]
+  },
+  "being-and-nothingness": {
+    "hook": "Sartre’s dense major work on consciousness, freedom, and how we lie to ourselves about both.",
+    "ideas": [
+      "Consciousness, Sartre argues, is a kind of nothingness that can step back from the world and imagine what is not yet.",
+      "Bad faith is self-deception: pretending we are fixed objects so we can escape responsibility for our choices.",
+      "The look of another person makes us aware of ourselves as objects, a source of shame and of conflict in relationships."
+    ]
+  },
+  "superintelligence": {
+    "hook": "Nick Bostrom examines what happens if machines surpass human intelligence, and why controlling them could be very hard.",
+    "ideas": [
+      "Once AI reaches human-level general intelligence, Bostrom argues, it might improve itself rapidly, leaving little time to react.",
+      "A superintelligent system pursuing even a harmless-sounding goal could cause disaster if its values are not aligned with ours.",
+      "The control problem should be solved before such systems are built, though critics debate both timelines and how realistic his scenarios are."
+    ]
+  },
+  "ways-of-seeing": {
+    "hook": "John Berger’s short, sharp essays show how art, advertising, and power shape what and how we see.",
+    "ideas": [
+      "Reproduction through photography and print strips paintings of their original context and lets them be reused for new purposes.",
+      "Berger argues that in European art men act and women appear, so women learn to see themselves through a watcher’s eyes.",
+      "Advertising borrows the language of oil painting to sell envy, promising a future self you can buy."
+    ]
+  },
+  "the-banquet-of-plato": {
+    "hook": "At a drinking party, Plato’s guests take turns praising love, and Socrates offers the strangest answer.",
+    "ideas": [
+      "Each speaker gives a different account of love, from comic myth to medical theory, showing how varied our ideas about desire are.",
+      "Socrates relays a teaching in which love climbs from attraction to one body toward the love of beauty and wisdom itself.",
+      "The dialogue is also a lively piece of drama, with jokes, rivalry, and a drunk late arrival that complicates the philosophy."
+    ]
+  },
+  "summa-theologica": {
+    "hook": "Thomas Aquinas’s vast systematic theology joins Aristotle’s philosophy with Christian doctrine, question by question.",
+    "ideas": [
+      "Each article poses a question, lists objections, answers them, and replies to each, a method that models fair argument.",
+      "Aquinas argues that faith and reason do not conflict, since both come from the same source of truth.",
+      "Its five ways of arguing for God’s existence remain widely studied, even by readers who reject the conclusions."
+    ]
+  },
+  "its-all-love": {
+    "hook": "Jenna Ortega shares short reflections and personal notes on self-worth, kindness, and growing up in public.",
+    "ideas": [
+      "The book offers encouragement aimed mainly at young readers dealing with insecurity, comparison, and pressure to fit in.",
+      "Ortega frames self-love and love for others as connected, suggesting that caring for yourself makes kindness easier.",
+      "It is a light, personal collection rather than a structured argument, best read in small pieces when you need reassurance."
+    ]
+  },
+  "common-sense": {
+    "hook": "Thomas Paine’s fiery 1776 pamphlet convinced many colonists that independence from Britain was simply sensible.",
+    "ideas": [
+      "Paine attacks hereditary monarchy as absurd, arguing that no family has a natural right to rule over others.",
+      "He makes a practical case that a small island should not govern a whole continent across an ocean.",
+      "Its plain, forceful style shows how persuasive writing aimed at ordinary readers can change political history."
+    ]
+  },
+  "justice": {
+    "hook": "Michael Sandel walks through real moral dilemmas to show how different theories of justice give different answers.",
+    "ideas": [
+      "Sandel compares utilitarian, libertarian, and Kantian views, testing each against hard cases like price gouging and military service.",
+      "He argues that debates about justice cannot avoid questions about virtue and the good life, despite liberal attempts at neutrality.",
+      "The book models how to argue about morality in public with respect, using examples that make abstract ideas concrete."
+    ]
+  },
+  "the-dawn-of-everything": {
+    "hook": "Graeber and Wengrow challenge the standard story that farming inevitably led to kings, states, and inequality.",
+    "ideas": [
+      "Archaeological evidence, the authors argue, shows early societies experimenting with many political forms, including large egalitarian cities.",
+      "They reject the idea of a single progression from bands to states, insisting history was more open and reversible.",
+      "Some specialists dispute their readings of the evidence, but the book effectively reopens questions about how fixed our arrangements are."
+    ]
+  },
+  "weapons-of-math-destruction": {
+    "hook": "A former quant shows how opaque algorithms used in hiring, policing, and lending can quietly deepen inequality.",
+    "ideas": [
+      "O’Neil defines harmful models by three traits: they are opaque, operate at large scale, and cause damage that is hard to contest.",
+      "Feedback loops can make predictions self-fulfilling, such as policing models that send officers back to the same neighbourhoods.",
+      "She calls for audits, transparency, and accountability so that data-driven decisions can be questioned like any human decision."
+    ]
+  },
+  "wherever-you-go-there-you-are": {
+    "hook": "Jon Kabat-Zinn’s gentle introduction to mindfulness as a way of paying attention to ordinary life.",
+    "ideas": [
+      "Mindfulness means paying attention on purpose, in the present moment, without judging what you notice.",
+      "Meditation is not about emptying the mind but about seeing your thoughts and moods clearly as they come and go.",
+      "Short chapters give simple practices you can fit into daily life, from sitting quietly to walking with attention."
+    ]
+  },
+  "a-vindication-of-rights-of-woman": {
+    "hook": "Mary Wollstonecraft argues in 1792 that women seem lesser only because they are denied real education.",
+    "ideas": [
+      "Wollstonecraft argues that women are rational beings whose apparent weakness comes from an upbringing focused on charm.",
+      "Education that develops reason would make women better citizens, partners, and mothers, which benefits society as a whole.",
+      "The book’s appeal to reason and equality laid groundwork for later feminist movements, even where its assumptions now feel dated."
+    ]
+  },
+  "fear-and-trembling": {
+    "hook": "Kierkegaard returns to Abraham’s willingness to sacrifice Isaac to ask what faith really demands.",
+    "ideas": [
+      "Kierkegaard argues that true faith is not comfortable belief but a terrifying leap beyond reason and ethics.",
+      "He asks whether there can be a teleological suspension of the ethical, where duty to God outranks universal moral rules.",
+      "Written under a pseudonym, the book insists that faith is far harder than most believers assume."
+    ]
+  },
+  "orthodoxy": {
+    "hook": "G. K. Chesterton explains, with paradox and humour, how he came to accept traditional Christian belief.",
+    "ideas": [
+      "Chesterton argues that the madman is not someone who has lost reason but someone who has lost everything except reason.",
+      "He found that Christianity matched his intuitions about wonder, gratitude, and the strangeness of the world.",
+      "The book is more personal testimony than systematic argument, persuasive through wit and imagery rather than proofs."
+    ]
+  },
+  "think": {
+    "hook": "Simon Blackburn introduces philosophy by working through the big questions, not by listing famous thinkers.",
+    "ideas": [
+      "Blackburn covers knowledge, mind, free will, God, and morality, showing how arguments work rather than simply reporting conclusions.",
+      "He treats philosophy as a practical skill of thinking clearly about questions that ordinary life raises.",
+      "It suits curious beginners willing to slow down, since some chapters require careful reading."
+    ]
+  },
+  "a-theory-of-justice": {
+    "hook": "John Rawls asks what rules you would pick for society if you didn’t know where you’d end up in it.",
+    "ideas": [
+      "The veil of ignorance asks people to choose principles of justice without knowing their own wealth, talents, or status.",
+      "Rawls argues they would guarantee equal basic liberties and allow inequalities only when they benefit the least advantaged.",
+      "His work reshaped political philosophy, though critics from libertarian and communitarian sides challenge its assumptions."
+    ]
+  },
+  "the-human-condition": {
+    "hook": "Hannah Arendt distinguishes labour, work, and action to explain what modern life has done to public life.",
+    "ideas": [
+      "Arendt separates labour for survival, work that makes lasting things, and action, the political activity of speaking and acting together.",
+      "Modern society, she argues, has elevated labour and consumption, shrinking the space for meaningful public action.",
+      "Her analysis invites readers to ask whether their daily activity builds anything shared or only keeps the cycle going."
+    ]
+  },
+  "god-is-not-great": {
+    "hook": "Christopher Hitchens delivers a combative case against religion, arguing it does more harm than good.",
+    "ideas": [
+      "Hitchens argues that religion distorts morality, promotes violence, and obstructs scientific understanding of the world.",
+      "He draws on history and current events to catalogue harms committed in religion’s name.",
+      "Critics say he flattens religious variety and ignores its benefits, but his prose remains sharp and entertaining."
+    ]
+  },
+  "enlightenment-now": {
+    "hook": "Steven Pinker uses data to argue that reason, science, and humanism have made life dramatically better.",
+    "ideas": [
+      "By most measures, including health, wealth, safety, and literacy, Pinker argues the world has improved enormously over centuries.",
+      "He credits Enlightenment values and institutions, urging readers to defend them against pessimism and populism.",
+      "Critics dispute his reading of some data and his dismissal of certain risks, so treat his optimism as an argument, not a verdict."
+    ]
+  },
+  "history-its-theory-and-method": {
+    "hook": "A textbook introduction to how historians think, gather evidence, and write about the past.",
+    "ideas": [
+      "The book surveys what history is and how ideas about historical change have developed across different traditions.",
+      "It explains method, including how to find, criticise, and interpret sources before drawing conclusions.",
+      "Students use it as a practical guide to research and writing, especially in South Asian university courses."
+    ]
+  },
+  "how-to-do-nothing": {
+    "hook": "Jenny Odell argues that refusing the attention economy is a form of resistance and reconnection.",
+    "ideas": [
+      "Doing nothing, for Odell, means redirecting attention away from platforms designed to capture it and toward local places and people.",
+      "Close observation of the natural world, like birdwatching, can rebuild a sense of context that social media erodes.",
+      "She is not calling for total withdrawal but for strategic refusal that keeps you engaged with community."
+    ]
+  },
+  "the-better-angels-of-our-nature": {
+    "hook": "Steven Pinker argues, with charts and history, that human violence has declined over long periods of time.",
+    "ideas": [
+      "Pinker claims rates of war, murder, and cruelty have fallen dramatically, even if our news suggests otherwise.",
+      "He credits forces like state power, commerce, literacy, and expanding empathy for taming our inner demons.",
+      "Statisticians and historians challenge some of his data and conclusions, especially about recent wars and future risks."
+    ]
+  },
+  "i-am-a-strange-loop": {
+    "hook": "Douglas Hofstadter argues that the self emerges from patterns that refer back to themselves.",
+    "ideas": [
+      "Hofstadter suggests that the sense of being an I arises from self-referential loops in the brain, not a hidden inner essence.",
+      "Because selves are patterns, parts of a person can live on in others who deeply internalise them.",
+      "He blends maths, philosophy, and personal grief over his late wife, making abstract ideas emotionally concrete."
+    ]
+  },
+  "skin-in-the-game": {
+    "hook": "Nassim Taleb argues that people who make decisions should share the risks and consequences of those decisions.",
+    "ideas": [
+      "Taleb argues that systems break when people can profit from risks while others bear the downside.",
+      "Trust advice from those who have something to lose, since that exposure filters out empty talk and theory.",
+      "His combative style and sweeping dismissals can grate, but the central principle is useful in finance, policy, and everyday life."
+    ]
+  },
+  "metaphors-we-live-by": {
+    "hook": "Lakoff and Johnson show that metaphors are not decoration but the basic structure of everyday thought.",
+    "ideas": [
+      "Common phrases reveal deep metaphors, such as arguments understood as war or time understood as money.",
+      "These metaphors shape how we act, so changing the metaphor can change how we approach problems.",
+      "The authors argue that meaning grows out of bodily experience, challenging purely abstract theories of language."
+    ]
+  },
+  "the-genealogy-of-morals": {
+    "hook": "Nietzsche traces the history of moral values and suggests our ideas of good and guilt have violent origins.",
+    "ideas": [
+      "Nietzsche argues that slave morality grew from resentment, recasting weakness as virtue and strength as evil.",
+      "Guilt and conscience, he claims, developed from debt and punishment, turning cruelty inward on the self.",
+      "The ascetic ideal, valuing self-denial, gives suffering meaning but also turns life against itself."
+    ]
+  },
+  "daily-rituals": {
+    "hook": "Mason Currey collects the working routines of famous artists and writers, from strict schedules to strange habits.",
+    "ideas": [
+      "There is no single right routine; creative people succeed with wildly different schedules, from early mornings to late nights.",
+      "Consistency matters more than perfection, since most of them protected regular time for work despite obstacles.",
+      "The book is best as reassurance and inspiration rather than a method to copy, since it shows quirks more than rules."
+    ]
+  },
+  "society-of-the-spectacle": {
+    "hook": "Guy Debord argues that modern life has turned into images, with social relationships mediated by spectacle.",
+    "ideas": [
+      "The spectacle, Debord says, is not just media but a social relationship among people mediated by images.",
+      "Consumer capitalism, in his account, turns living into watching, replacing direct experience with its representation.",
+      "Written as short numbered theses, the book is cryptic but influential for anyone thinking about media and politics."
+    ]
+  },
+  "david-and-goliath": {
+    "hook": "Malcolm Gladwell argues that apparent disadvantages can be strengths, and that underdogs often win more than expected.",
+    "ideas": [
+      "Gladwell argues that powerful advantages can become weaknesses at the extremes, and apparent weaknesses can force useful adaptations.",
+      "He uses stories from education, sports, and civil rights to suggest that difficulty can sometimes build resilience.",
+      "Critics argue his anecdotes overreach the research, so treat his conclusions as interesting hypotheses rather than settled findings."
+    ]
+  },
+  "freedom-from-the-known": {
+    "hook": "Krishnamurti urges readers to see through inherited beliefs and find freedom through direct, honest observation.",
+    "ideas": [
+      "Krishnamurti argues that dependence on authority, tradition, or teachers prevents real understanding of ourselves.",
+      "Fear arises from thought projecting into the future, and seeing this process clearly can dissolve it.",
+      "He offers no method, insisting that freedom comes from attention rather than following a system."
+    ]
+  },
+  "what-i-know-for-sure": {
+    "hook": "Oprah Winfrey gathers her magazine columns into short reflections on joy, resilience, gratitude, and purpose.",
+    "ideas": [
+      "Oprah emphasises gratitude as a daily practice that changes how you experience ordinary life.",
+      "She draws lessons from her own setbacks to argue that difficulty can lead to clarity about what matters.",
+      "The pieces are brief and uplifting, better suited to dipping into than to sustained reading."
+    ]
+  },
+  "the-greatest-show-on-earth": {
+    "hook": "Richard Dawkins lays out the evidence for evolution, from fossils to DNA, in a single readable case.",
+    "ideas": [
+      "Dawkins compiles evidence from fossils, molecular biology, and observed change to show evolution is as solid as any scientific fact.",
+      "He explains how natural selection can produce complex structures without design, step by step.",
+      "The tone sometimes turns combative toward creationists, which may help or hinder persuading sceptical readers."
+    ]
+  },
+  "simulacra-and-simulation": {
+    "hook": "Baudrillard argues that copies and signs have replaced reality, leaving us in a world of simulations.",
+    "ideas": [
+      "Simulacra are copies without an original, signs that no longer refer to anything real behind them.",
+      "Baudrillard describes a hyperreality where media representations feel more real than lived experience.",
+      "His prose is dense and deliberately provocative, so read it as a lens on media culture rather than a precise theory."
+    ]
+  },
+  "on-the-shortness-of-life": {
+    "hook": "Seneca argues that life is long enough if you stop wasting it on things that don’t matter.",
+    "ideas": [
+      "Seneca argues that we squander time on busyness, ambition, and others’ demands, then complain that life is short.",
+      "Guard your hours as carefully as your money, because time spent cannot be recovered.",
+      "Studying philosophy and the wisdom of the past, he says, is the best way to make time truly your own."
+    ]
+  },
+  "this-is-your-brain-on-music": {
+    "hook": "Daniel Levitin explains how the brain processes music, and why songs move us so deeply.",
+    "ideas": [
+      "Levitin breaks music into pitch, rhythm, timbre, and other elements, showing how the brain interprets each.",
+      "Musical pleasure comes partly from expectation, as the brain predicts what comes next and enjoys being surprised.",
+      "Expertise comes largely from practice, and he discusses research suggesting many hours of focused work are needed for mastery."
+    ]
+  },
+  "10-happier": {
+    "hook": "A sceptical TV anchor tells how a panic attack on air led him to meditation and modest happiness.",
+    "ideas": [
+      "Harris presents meditation as a practical tool for noticing your thoughts, not a mystical or spiritual cure.",
+      "His candour about ambition, drugs, and ego makes the case for mindfulness to readers who distrust self-help.",
+      "The title sets a realistic bar: meditation will not transform your life, but it can make it measurably better."
+    ]
+  },
+  "after-babel": {
+    "hook": "George Steiner’s ambitious study of translation argues that all understanding involves an act of translation.",
+    "ideas": [
+      "Steiner argues that every act of communication, even within one language, requires interpretation.",
+      "He describes translation as a process of trust, aggression, incorporation, and restitution toward the original text.",
+      "The book is learned and demanding, best suited to readers interested in language, literature, and philosophy."
+    ]
+  },
+  "a-guide-to-the-good-life": {
+    "hook": "William Irvine translates Stoic philosophy into a modern program for tranquillity and contentment.",
+    "ideas": [
+      "Irvine recommends negative visualisation, imagining loss, so you appreciate what you have and handle setbacks better.",
+      "He refines the dichotomy of control into a trichotomy, adding things you partly control, like the outcome of a game.",
+      "The book is practical and accessible, though purists argue it simplifies the ancient Stoics."
+    ]
+  },
+  "utopia-for-realists": {
+    "hook": "Rutger Bregman makes the case for universal basic income, shorter workweeks, and open borders.",
+    "ideas": [
+      "Bregman argues that giving people money directly, without conditions, often reduces poverty more effectively than complicated welfare programs.",
+      "Shorter workweeks could improve wellbeing and productivity, he says, challenging the assumption that more work is always better.",
+      "His evidence is selective, and critics question the costs, but the book usefully stretches what seems politically possible."
+    ]
+  },
+  "the-buddha-and-his-dhamma": {
+    "hook": "B. R. Ambedkar reinterprets the Buddha’s teaching as a rational, ethical guide for social equality.",
+    "ideas": [
+      "Ambedkar presents the Buddha’s teaching as focused on ending suffering through ethics, reason, and social justice.",
+      "He reinterprets or sets aside traditional elements like rebirth and karma that he considered incompatible with equality.",
+      "The book became the foundational text for the Navayana Buddhist movement among Dalits in India."
+    ]
+  },
+  "the-magic-of-reality": {
+    "hook": "Richard Dawkins contrasts myths with scientific explanations for questions about the sun, rainbows, and life.",
+    "ideas": [
+      "Each chapter sets out myths from different cultures, then explains what science has discovered about the same question.",
+      "Dawkins argues that the real explanations are more wondrous than the myths, offering a magic grounded in evidence.",
+      "It is aimed at younger readers but works for adults wanting a clear refresher on basic science."
+    ]
+  },
+  "mythologies": {
+    "hook": "Roland Barthes decodes everyday French culture, from wrestling to soap ads, to reveal hidden ideological messages.",
+    "ideas": [
+      "Barthes argues that myths turn culture into nature, making historical and political choices seem obvious and inevitable.",
+      "Short essays on wrestling, wine, and toys show how ordinary objects carry ideological meaning.",
+      "The closing theoretical essay offers a method for reading signs that remains useful for analysing media and advertising."
+    ]
+  }
+}

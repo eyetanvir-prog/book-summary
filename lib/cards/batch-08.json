@@ -1,0 +1,770 @@
+{
+ "1491": {
+  "hook": "Charles Mann shows that the Americas before Columbus were more populous, sophisticated, and shaped by humans than once believed.",
+  "ideas": [
+   "Pre-Columbian populations were likely much larger than older estimates, with complex cities and societies across the hemisphere.",
+   "Indigenous peoples actively managed landscapes, including the Amazon, rather than living lightly in untouched wilderness.",
+   "European diseases spread ahead of settlers and devastated populations, creating the empty land later colonists assumed was natural."
+  ]
+ },
+ "zero-to-one": {
+  "hook": "A contrarian investor’s case that the best businesses escape competition entirely by building something nobody else has figured out yet.",
+  "ideas": [
+   "Copying what works takes the world from one to n; real progress means going from zero to one by creating something genuinely new.",
+   "Competition destroys profits, so the goal is a durable monopoly built on proprietary technology, network effects, economies of scale, and a strong brand.",
+   "Start by dominating a small, specific market, then expand outward; the essay-style book is sharper on provocations than on evidence, so test each claim yourself."
+  ]
+ },
+ "influence": {
+  "hook": "The field guide to the mental shortcuts that make you say yes, written by a psychologist who went undercover among salespeople.",
+  "ideas": [
+   "Six levers — reciprocity, commitment and consistency, social proof, liking, authority, and scarcity — trigger automatic compliance because they usually serve us well as shortcuts.",
+   "Small initial commitments, especially written or public ones, pull people toward larger later ones because we hate looking inconsistent to ourselves.",
+   "The defense is not avoiding shortcuts but noticing when someone has manufactured the cue, such as fake scarcity or a gift designed to create debt."
+  ]
+ },
+ "never-split-the-difference": {
+  "hook": "An FBI hostage negotiator’s playbook for getting what you want by listening harder than the other side expects.",
+  "ideas": [
+   "Tactical empathy — labeling the other person’s emotions out loud and mirroring their last few words — lowers defenses and gets them talking.",
+   "Aim for a “that’s right” from the other side rather than a “yes”; agreement extracted too early is often hollow and gets reversed later.",
+   "Calibrated questions starting with how or what make the other side solve your problem, while compromise often leaves both parties with an outcome neither wanted."
+  ]
+ },
+ "the-lean-startup": {
+  "hook": "A method for building new products under uncertainty that treats every launch as an experiment rather than a bet.",
+  "ideas": [
+   "Run the build-measure-learn loop as fast as possible, shipping a minimum viable product to test your riskiest assumption with real customers.",
+   "Track actionable metrics tied to cause and effect, not vanity numbers like total signups that rise no matter what you change.",
+   "At regular intervals decide to persevere or pivot; a pivot keeps what you learned while changing the hypothesis that the evidence has broken."
+  ]
+ },
+ "the-personal-mba": {
+  "hook": "A compact tour of the core business concepts taught in expensive programs, organized so you can learn them on your own.",
+  "ideas": [
+   "Every business comes down to five linked parts: creating value, marketing it, selling it, delivering it, and managing the finances so it lasts.",
+   "Understanding human nature — how people decide, what they notice, how they resist change — matters as much as knowing spreadsheets and strategy.",
+   "Systems thinking helps you spot constraints, feedback loops, and second-order effects, so you improve the bottleneck instead of polishing what already works."
+  ]
+ },
+ "start-with-why": {
+  "hook": "Sinek’s argument that people follow leaders and buy from companies because of what they believe, not what they sell.",
+  "ideas": [
+   "The Golden Circle runs from why to how to what; inspiring organizations communicate their purpose first while most start with product features.",
+   "Loyalty comes from shared belief, so manipulations like discounts and promotions buy transactions but rarely build long-term trust or devotion.",
+   "Its neuroscience framing and chosen examples are tidier than the evidence, but the practical prompt — articulate your purpose clearly — still sharpens messaging."
+  ]
+ },
+ "shoe-dog": {
+  "hook": "Phil Knight’s candid memoir of Nike’s chaotic early years, when the company nearly went broke almost every season.",
+  "ideas": [
+   "Nike grew out of a business-school idea and a handshake with a Japanese supplier, and survived through stubbornness more than any master plan.",
+   "Rapid growth on borrowed money created constant cash crises, showing that a profitable, expanding business can still nearly die from financing alone.",
+   "Knight credits a team of misfits and obsessives, and the book is honest about the personal costs, missed family time, and decisions he regrets."
+  ]
+ },
+ "the-wealth-of-nations": {
+  "hook": "The founding text of modern economics, still useful for its sharp observations about markets, trade, and self-interest.",
+  "ideas": [
+   "Division of labor multiplies productivity, and its reach is limited by the size of the market, which is why trade and growth reinforce each other.",
+   "Individuals pursuing their own gain can serve the public good through competitive markets, though Smith distrusted merchants who colluded to rig them.",
+   "Smith attacked mercantilism, arguing national wealth means the goods people can produce and consume, not gold hoarded through trade restrictions."
+  ]
+ },
+ "good-to-great": {
+  "hook": "Jim Collins studies companies that jumped from average to outstanding results and asks what they did differently from close rivals.",
+  "ideas": [
+   "The breakthrough firms had humble, fiercely determined “Level 5” leaders who put the company’s success above their own reputations.",
+   "Get the right people on the bus before choosing direction, then focus on the hedgehog concept: what you can be best at, love, and profit from.",
+   "Several featured companies later stumbled badly, a reminder that retrospective case studies can mistake luck and survivorship for durable principles."
+  ]
+ },
+ "the-millionaire-next-door": {
+  "hook": "Survey research showing that most American millionaires look ordinary because they spend far less than they earn.",
+  "ideas": [
+   "Typical millionaires live in modest homes, drive used cars, and budget carefully; high income and visible luxury often signal low actual wealth.",
+   "Distinguish prodigious accumulators of wealth from under accumulators, who earn well but convert income into consumption and status symbols.",
+   "Generous economic outpatient care from parents to adult children tends to reduce the recipients’ own wealth-building rather than boost it."
+  ]
+ },
+ "the-hard-thing-about-hard-things": {
+  "hook": "A venture capitalist’s blunt account of running a company through near-collapse, with advice no rosy startup book gives.",
+  "ideas": [
+   "There is no recipe for the worst moments; the CEO’s job is to keep facing the struggle and make decisions without good options.",
+   "Peacetime and wartime CEOs need different behaviors, and knowing which situation you are in determines whether consensus or command fits.",
+   "Take care of the people first, then the products, then the profits; layoffs and demotions should be handled directly, quickly, and personally."
+  ]
+ },
+ "rework": {
+  "hook": "The Basecamp founders’ short, punchy argument against business-school orthodoxy, workaholism, and growth for its own sake.",
+  "ideas": [
+   "Long-term plans are guesses; make decisions close to the work, launch something small now, and adjust as real information arrives.",
+   "Constraints like tiny teams and limited budgets are advantages that force focus, while meetings and interruptions quietly destroy productive time.",
+   "Staying small and profitable is a legitimate goal; you rarely need outside investors, and their money comes with expectations that reshape your company."
+  ]
+ },
+ "principles": {
+  "hook": "Ray Dalio lays out the rules he used to run Bridgewater, built on radical truth and systematic decision-making.",
+  "ideas": [
+   "Pursue goals through a loop: set goals, identify problems, diagnose root causes, design changes, and push them through to completion.",
+   "Radical transparency and believability-weighted decision-making aim to surface the best ideas, though many find the resulting culture harsh and surveilled.",
+   "Pain plus reflection equals progress; treat mistakes as data, write down the principle you learned, and apply it consistently next time."
+  ]
+ },
+ "the-innovators-dilemma": {
+  "hook": "Christensen explains why well-run market leaders keep losing to scrappy entrants with worse products.",
+  "ideas": [
+   "Disruptive technologies start out inferior and cheap, serving fringe customers that incumbents rationally ignore because their best clients do not want them.",
+   "Listening to your most profitable customers and maximizing margins, normally good management, is exactly what blinds firms to disruption.",
+   "Established firms can respond by spinning off small, independent units whose cost structures make tiny emerging markets worth pursuing."
+  ]
+ },
+ "the-goal": {
+  "hook": "A business novel about a failing factory that teaches the theory of constraints better than most textbooks do.",
+  "ideas": [
+   "A system’s output is set by its bottleneck, so improving anything other than the constraint mostly creates inventory and false productivity.",
+   "Measure throughput, inventory, and operating expense rather than local efficiency, which tempts managers to keep every machine busy for no gain.",
+   "The fictional frame works because the manager reasons his way to the ideas through Socratic questioning, which makes the logic easy to apply elsewhere."
+  ]
+ },
+ "built-to-last": {
+  "hook": "Collins and Porras compare enduring visionary companies with their competitors to find what made them last for decades.",
+  "ideas": [
+   "Visionary companies preserve a core ideology of values and purpose while constantly stimulating progress in strategies and practices.",
+   "Build a company that keeps producing good ideas, like a clock builder, rather than relying on one brilliant founder telling the time.",
+   "Big hairy audacious goals and cult-like cultures energize people, though some featured firms later faltered, which tempers the confidence of the findings."
+  ]
+ },
+ "blue-ocean-strategy": {
+  "hook": "Two INSEAD professors argue that the best growth comes from creating uncontested markets rather than fighting rivals.",
+  "ideas": [
+   "Red oceans are crowded markets where firms compete on price; blue oceans are new market spaces where competition becomes irrelevant.",
+   "Pursue value innovation by eliminating, reducing, raising, and creating factors so you cut costs and increase buyer value at the same time.",
+   "The strategy canvas maps how an industry competes, making it easier to spot the assumptions everyone shares and could profitably abandon."
+  ]
+ },
+ "crossing-the-chasm": {
+  "hook": "Moore explains why promising tech products stall after early adopters and how to win the cautious mainstream.",
+  "ideas": [
+   "Visionary early adopters and pragmatic early majority buyers want different things, leaving a gap where many technology products die.",
+   "Cross by targeting a narrow beachhead niche and dominating it, so references and word of mouth carry you into adjacent segments.",
+   "Pragmatists buy a whole product — the core offer plus services, integrations, and support — not just an impressive piece of technology."
+  ]
+ },
+ "measure-what-matters": {
+  "hook": "John Doerr makes the case for objectives and key results, the goal system he brought from Intel to Google.",
+  "ideas": [
+   "An objective states what you want to achieve; key results are a few measurable outcomes that show whether you actually got there.",
+   "OKRs work best when public across the organization, so teams align their goals and see how their work connects to company priorities.",
+   "Separate committed goals from aspirational stretch goals, and pair OKRs with regular conversations and feedback rather than treating them as a scorecard."
+  ]
+ },
+ "high-output-management": {
+  "hook": "Intel’s Andy Grove treats management as a production process, and the result is the most practical manager’s manual around.",
+  "ideas": [
+   "A manager’s output is the output of their team plus neighboring teams they influence, so prioritize high-leverage activities over busywork.",
+   "Regular one-on-ones led by the subordinate’s agenda are a cheap, powerful way to transfer information and catch problems early.",
+   "Match your management style to each person’s task-relevant maturity, giving close structure to those new to a task and freedom to experienced ones."
+  ]
+ },
+ "trading-in-the-zone": {
+  "hook": "A trading coach argues that most traders lose not from bad analysis but from beliefs that sabotage disciplined execution.",
+  "ideas": [
+   "Think in probabilities: any single trade’s outcome is essentially random, even when your edge pays off reliably over many trades.",
+   "Fully accept the risk before entering a position, so losses stop feeling like personal failures and stop triggering impulsive decisions.",
+   "Consistency comes from following predefined rules mechanically until the mindset becomes natural, rather than hunting for a perfect predictive method."
+  ]
+ },
+ "rich-dad-poor-dad-2": {
+  "hook": "Kiyosaki’s follow-up sorts income into four quadrants and argues that financial freedom lives on the business-owner and investor side.",
+  "ideas": [
+   "People earn money as employees, self-employed workers, business owners, or investors, and each quadrant shapes taxes, risk, and freedom differently.",
+   "Moving toward owning systems and assets means changing your mindset about security, not just learning new financial techniques or tricks.",
+   "The framework is motivating, but its claims rest on anecdote and the author’s own story, so treat it as a prompt rather than a plan."
+  ]
+ },
+ "talk-like-ted": {
+  "hook": "A communication coach studies popular TED talks to pull out the habits that make a presentation land.",
+  "ideas": [
+   "Great talks are emotional, novel, and memorable: speakers share genuine passion, tell personal stories, and teach the audience something unexpected.",
+   "Short talks force clarity; the eighteen-minute limit is a reminder that cutting material usually strengthens rather than weakens your message.",
+   "Rehearse until delivery feels conversational, and use vivid images and surprising moments so your central idea survives after people leave."
+  ]
+ },
+ "100m-offers": {
+  "hook": "Alex Hormozi’s guide to designing offers so valuable that customers feel foolish saying no, regardless of price.",
+  "ideas": [
+   "Value rises with the dream outcome and the buyer’s belief it will happen, and falls with the time delay and effort required.",
+   "Build a grand slam offer by listing every obstacle customers face and bundling solutions, bonuses, and guarantees that remove them.",
+   "Compete on value rather than price; the tactics of scarcity and urgency can tip into pressure selling if the underlying offer is weak."
+  ]
+ },
+ "the-33-strategies-of-war": {
+  "hook": "Robert Greene mines military history for strategies of conflict, framed as lessons for business, politics, and daily life.",
+  "ideas": [
+   "Each strategy pairs a principle, such as fighting the last war or seizing the initiative, with vivid historical episodes illustrating it.",
+   "Greene stresses self-mastery first: declare war on your own fears and fixed habits before trying to outmaneuver an opponent.",
+   "The amoral framing makes every relationship look like combat, which is useful for understanding hostile tactics but corrosive if adopted wholesale."
+  ]
+ },
+ "why-nations-fail": {
+  "hook": "Two economists argue that prosperity depends on political and economic institutions, not geography, culture, or ignorance.",
+  "ideas": [
+   "Inclusive institutions spread power and property rights broadly, rewarding innovation; extractive ones concentrate power so elites can capture wealth.",
+   "Elites resist creative destruction because new technologies and businesses threaten their position, which keeps extractive countries poor.",
+   "Small institutional differences compound at critical junctures such as plagues or conquests, sending similar places down very different paths."
+  ]
+ },
+ "lords-of-easy-money": {
+  "hook": "A reporter’s account of how a decade of Federal Reserve easy money reshaped the economy and widened inequality.",
+  "ideas": [
+   "Near-zero interest rates and quantitative easing pushed investors into riskier assets, inflating prices of stocks, debt, and real estate.",
+   "The book centers on a Fed official who dissented repeatedly, warning that easy money would reward asset owners more than workers.",
+   "Economists dispute how much blame belongs to the Fed, but the book clearly shows how monetary policy choices have distributional consequences."
+  ]
+ },
+ "the-millionaire-fastlane": {
+  "hook": "DeMarco argues that saving slowly for decades is a poor route to wealth and pushes building scalable businesses instead.",
+  "ideas": [
+   "He sorts financial paths into the sidewalk of spending, the slowlane of saving and waiting, and the fastlane of business ownership.",
+   "Wealth tied to selling your hours is capped; businesses that meet real needs and scale beyond your time can grow much faster.",
+   "His criteria favor control, scale, and time independence, though the book underplays how often such ventures fail and why steady saving still matters."
+  ]
+ },
+ "one-up-on-wall-street": {
+  "hook": "A legendary fund manager explains how ordinary investors can find great stocks by paying attention to everyday life.",
+  "ideas": [
+   "Amateurs often spot promising companies early through work and shopping, before professional analysts are allowed or inclined to buy.",
+   "Classify companies — slow growers, stalwarts, fast growers, cyclicals, turnarounds, asset plays — because each demands different expectations.",
+   "Know what you own and why; if you cannot explain the story in a few sentences, you probably do not understand the investment."
+  ]
+ },
+ "the-simple-path-to-wealth": {
+  "hook": "Originally letters to his daughter, J. L. Collins’s guide argues that investing well is mostly about simplicity and patience.",
+  "ideas": [
+   "Avoid debt, spend less than you earn, and invest the difference; financial independence is about owning time, not accumulating possessions.",
+   "Broad, low-cost stock index funds held through crashes outperform most attempts at stock picking or market timing over long periods.",
+   "Market drops are normal and inevitable, so the real skill is having the temperament to keep buying rather than panic selling."
+  ]
+ },
+ "your-next-five-moves": {
+  "hook": "An entrepreneur and media personality offers a strategy framework for thinking several steps ahead in business and career.",
+  "ideas": [
+   "Know yourself first: clarity about who you want to become shapes which opportunities deserve your time and energy.",
+   "Strategic thinking means anticipating competitors’ responses and planning multiple moves ahead, like a chess player rather than a reactive improviser.",
+   "Building a strong team, systems for scaling, and an understanding of power dynamics matters more than individual hustle once a business grows."
+  ]
+ },
+ "one-thousand-ways-to-make-1000": {
+  "hook": "A 1930s collection of real small-business ideas, famous for sparking a young Warren Buffett’s ambitions.",
+  "ideas": [
+   "Ordinary people built income from modest starts, showing that a small idea pursued with effort can grow into a real business.",
+   "Success often came from noticing a local need and serving it well, rather than from capital, credentials, or invention.",
+   "Many specific schemes are dated, but the underlying lessons about thrift, initiative, and compounding small gains remain useful."
+  ]
+ },
+ "leaders-eat-last": {
+  "hook": "Sinek argues that great teams form when leaders make people feel safe, putting their welfare ahead of short-term numbers.",
+  "ideas": [
+   "A circle of safety inside an organization frees people to cooperate and take risks rather than spend energy protecting themselves.",
+   "Leaders earn trust by sacrificing their own comfort and interests for their teams, as military officers traditionally do at mealtimes.",
+   "Layoffs used to hit quarterly targets erode loyalty; the book’s hormone-based explanations are simplified, but the culture lesson holds."
+  ]
+ },
+ "the-worldly-philosophers": {
+  "hook": "Heilbroner turns the history of economic thought into lively portraits of the people who tried to explain capitalism.",
+  "ideas": [
+   "Economics grew from attempts by Smith, Malthus, Ricardo, Marx, Keynes, and others to understand a society organized by markets.",
+   "Each thinker’s ideas reflected the problems of their era, which helps explain why economic theories rise and fall with circumstances.",
+   "Seeing economics as a series of arguments about how society works makes modern debates over markets and policy easier to follow."
+  ]
+ },
+ "public-speaking-and-influencing-men-in-business": {
+  "hook": "Dale Carnegie’s early course on speaking with confidence, aimed at business people who freeze before an audience.",
+  "ideas": [
+   "Confidence in speaking comes mainly from preparation and practice, not innate talent, so nervousness can be trained down over time.",
+   "Speak about subjects you know and care about, because sincerity and experience persuade more than polished but borrowed material.",
+   "Its examples and manners are of its era, but the core advice on preparation, clarity, and engaging listeners still applies."
+  ]
+ },
+ "beyond-entrepreneurship": {
+  "hook": "Jim Collins and Bill Lazier’s guide for small and mid-sized companies that want to become enduring, great organizations.",
+  "ideas": [
+   "A company needs a clear vision with core values, purpose, and a bold mission before tactics and growth plans make sense.",
+   "Leadership style and the people a founder chooses shape whether a small company can outgrow its dependence on that founder.",
+   "Many ideas later developed in Built to Last and Good to Great appear here in practical, small-business form."
+  ]
+ },
+ "rich-dads-guide-to-investing": {
+  "hook": "Kiyosaki explains what he believes the rich invest in and how ordinary investors can think more like them.",
+  "ideas": [
+   "The book argues the best opportunities come from building businesses and assets, not from buying whatever investment products are sold to the public.",
+   "Financial education, a clear plan, and control over your investments matter more than income for building lasting wealth.",
+   "Its advice leans on aggressive, leveraged strategies and anecdote, so readers should weigh the risks carefully before acting on them."
+  ]
+ },
+ "japanese-candlestick-charting-techniques": {
+  "hook": "The book that introduced Western traders to Japanese candlestick charts and the price patterns they reveal.",
+  "ideas": [
+   "Each candlestick shows open, high, low, and close, making the balance between buyers and sellers visible at a glance.",
+   "Patterns such as dojis, hammers, and engulfing candles can signal possible reversals or indecision when read in context.",
+   "Candlesticks work best combined with Western tools like trendlines and support levels; no pattern guarantees a price move on its own."
+  ]
+ },
+ "getting-to-yes": {
+  "hook": "The Harvard Negotiation Project’s method for reaching agreements without either giving in or digging in.",
+  "ideas": [
+   "Separate the people from the problem, so personal feelings and relationships do not get tangled with the substance of the dispute.",
+   "Focus on interests, not positions; understanding why each side wants something opens up options a fixed demand would hide.",
+   "Know your best alternative to a negotiated agreement, and insist on objective criteria so outcomes rest on fairness rather than pressure."
+  ]
+ },
+ "nonviolent-communication": {
+  "hook": "Rosenberg’s method for speaking and listening in ways that reduce blame and help people actually meet each other’s needs.",
+  "ideas": [
+   "Separate observations from evaluations, describing what happened without judgment so the other person can hear you without defending.",
+   "Express feelings and the underlying needs behind them, then make a clear, doable request instead of a vague demand.",
+   "Listen empathically for the feelings and needs behind others’ words, including harsh ones, which can defuse conflict rather than escalate it."
+  ]
+ },
+ "the-100-startup": {
+  "hook": "Guillebeau collects stories of people who built profitable small businesses with little money and no formal training.",
+  "ideas": [
+   "Combine what you love or are good at with what people will pay for, focusing on solving a specific problem for them.",
+   "Launch quickly with a simple offer and minimal costs, then improve based on actual customer response rather than lengthy planning.",
+   "Many small businesses can provide freedom and a good living without scaling, hiring big teams, or taking outside investment."
+  ]
+ },
+ "thinking-in-systems": {
+  "hook": "Donella Meadows’s clear primer on how stocks, flows, and feedback loops create the behavior of complex systems.",
+  "ideas": [
+   "Systems are made of stocks and flows connected by feedback loops, and their structure largely determines their behavior over time.",
+   "Common traps like policy resistance, the tragedy of the commons, and escalation recur because similar structures produce similar problems.",
+   "The highest leverage points are often goals, rules, and paradigms, not the parameters and numbers people usually fight over."
+  ]
+ },
+ "elon-musk": {
+  "hook": "Isaacson’s biography, built on years of access, traces how Musk’s risk appetite and intensity drive both his successes and messes.",
+  "ideas": [
+   "Musk’s production method questions every requirement, deletes parts and steps, simplifies, accelerates, and automates only at the end.",
+   "His appetite for risk, deadlines, and drama pushed Tesla and SpaceX through near-death moments that more cautious leaders might have avoided.",
+   "The book shows real costs of his volatility, though critics argue it grants him too much benefit of the doubt."
+  ]
+ },
+ "secrets-of-closing-the-sale": {
+  "hook": "Zig Ziglar’s classic on selling, full of closing techniques and his upbeat view that good selling is serving people.",
+  "ideas": [
+   "Selling is a transfer of feeling: belief in your product and genuine concern for the buyer persuade more than clever tricks.",
+   "Ziglar offers many specific closes and ways to handle objections, treating hesitation as a request for more information.",
+   "Character and integrity underpin long-term sales success; manipulation may win one deal but loses repeat customers and referrals."
+  ]
+ },
+ "the-miracle-morning": {
+  "hook": "Hal Elrod’s routine for starting each day with deliberate habits before ordinary obligations take over.",
+  "ideas": [
+   "The SAVERS routine combines silence, affirmations, visualization, exercise, reading, and scribing into a morning practice.",
+   "Waking earlier and owning the first hour creates space for personal growth that busy schedules otherwise crowd out.",
+   "The structure helps many people build habits, but the claims of transformation are mostly anecdotal, so adapt the routine to your life."
+  ]
+ },
+ "debt": {
+  "hook": "Anthropologist David Graeber rewrites the history of money, arguing that credit and debt came long before coins.",
+  "ideas": [
+   "The textbook story of barter giving way to money lacks evidence; credit arrangements and debts structured early economies.",
+   "Debt has shaped morality, religion, and politics, with periodic debt cancellations used to prevent social collapse in ancient societies.",
+   "History swings between eras of credit and eras of bullion, though some of Graeber’s sweeping claims are contested by economists."
+  ]
+ },
+ "poor-charlies-almanack": {
+  "hook": "A collection of Charlie Munger’s speeches and wit, centered on how to think clearly about investing and life.",
+  "ideas": [
+   "Build a latticework of mental models from many disciplines, since problems rarely respect the boundaries of a single field.",
+   "Invert problems: think about what would guarantee failure and avoid it, rather than only asking how to succeed.",
+   "Munger’s talk on the psychology of human misjudgment catalogues biases that lead smart people into terrible decisions."
+  ]
+ },
+ "the-charisma-myth": {
+  "hook": "Olivia Fox Cabane argues that charisma is a set of learnable behaviors rather than a fixed personality trait.",
+  "ideas": [
+   "Charisma comes from presence, power, and warmth, and people read all three from tiny cues in body language and attention.",
+   "Your internal state leaks into your behavior, so managing anxiety and self-criticism matters as much as practicing outward techniques.",
+   "Different charisma styles — focus, visionary, kindness, authority — fit different people and situations, so you can choose what suits you."
+  ]
+ },
+ "learn-to-earn": {
+  "hook": "Peter Lynch and John Rothchild explain capitalism, companies, and the stock market for young people starting out.",
+  "ideas": [
+   "Owning shares means owning part of real businesses, and long-term stock investing has historically built wealth for patient people.",
+   "A short history of capitalism shows how companies raise money, grow, and share profits with investors over time.",
+   "Starting early matters because time and compounding do much of the work, even with small amounts invested regularly."
+  ]
+ },
+ "hillbilly-elegy": {
+  "hook": "J. D. Vance’s memoir of growing up between Appalachian Kentucky and a struggling Ohio steel town.",
+  "ideas": [
+   "Family instability, addiction, and violence shaped Vance’s childhood, while his grandparents provided the stability that changed his path.",
+   "He argues culture and personal choices help explain working-class decline, alongside economic forces like vanishing industrial jobs.",
+   "Critics say the book overgeneralizes from one family and downplays structural causes, which makes it a debated reading on class."
+  ]
+ },
+ "changing-world-order": {
+  "hook": "Ray Dalio studies the rise and decline of empires to argue that today’s world order follows historical cycles.",
+  "ideas": [
+   "Great powers follow long cycles driven by education, innovation, trade, military strength, financial power, and reserve currency status.",
+   "Large debts, internal conflict, and a rising rival tend to appear together when a dominant power begins to decline.",
+   "Dalio sees the United States and China in this pattern; his historical generalizations are broad and debated by historians."
+  ]
+ },
+ "contagious": {
+  "hook": "Jonah Berger explains why some products, ideas, and videos spread by word of mouth while others do not.",
+  "ideas": [
+   "Six principles drive sharing: social currency, triggers, emotion, public visibility, practical value, and stories that carry the message.",
+   "People share things that make them look good, so designing ideas that boost a sharer’s image helps them travel.",
+   "Frequent environmental triggers keep an idea top of mind, which can matter more than how clever or interesting it is."
+  ]
+ },
+ "the-audacity-of-hope": {
+  "hook": "Then-Senator Barack Obama’s reflections on American politics, values, and how to move beyond bitter partisanship.",
+  "ideas": [
+   "Obama argues Americans share more common values than partisan politics suggests, and that compromise is a democratic necessity.",
+   "He describes how fundraising, media, and fear of losing distort politics, pushing even well-meaning politicians toward caution.",
+   "Chapters on faith, race, family, and the Constitution blend policy argument with personal reflection, previewing his later presidential themes."
+  ]
+ },
+ "the-psychology-of-selling": {
+  "hook": "Brian Tracy argues that sales success depends mostly on a salesperson’s self-image, goals, and handling of rejection.",
+  "ideas": [
+   "Self-concept sets an income ceiling, so improving self-esteem and belief in your ability lifts sales performance.",
+   "Fear of rejection holds many salespeople back; separating rejection from personal worth makes prospecting easier.",
+   "Set clear goals, prepare thoroughly, and focus on how your product solves customers’ problems rather than on pushing features."
+  ]
+ },
+ "dare-to-lead": {
+  "hook": "Brené Brown applies her research on vulnerability and shame to the everyday work of leading teams.",
+  "ideas": [
+   "Courageous leadership requires vulnerability — showing up when outcomes are uncertain — rather than armoring up against risk.",
+   "Clear is kind: avoiding hard conversations to stay nice leaves people confused and creates resentment later.",
+   "Living into stated values and building trust through small actions make teams willing to take risks and give honest feedback."
+  ]
+ },
+ "a-random-walk-down-wall-street": {
+  "hook": "Burton Malkiel’s long-running case that most investors are better off buying the whole market cheaply and holding it.",
+  "ideas": [
+   "Stock prices move largely unpredictably in the short run, so chart reading and market timing rarely beat the market after costs.",
+   "Most active fund managers fail to beat low-cost index funds over time, which makes indexing a strong default.",
+   "Match your asset allocation to your age, goals, and risk tolerance, rebalancing periodically instead of chasing the latest bubble."
+  ]
+ },
+ "never-eat-alone": {
+  "hook": "Keith Ferrazzi’s guide to building relationships through generosity rather than transactional networking.",
+  "ideas": [
+   "Relationships are built by helping others first, offering value and connections without keeping score.",
+   "Plan your networking around clear goals, and follow up consistently, because most people let promising contacts fade.",
+   "Some tactics feel aggressive, but the underlying advice to stay in touch and be useful is sound."
+  ]
+ },
+ "predictably-irrational": {
+  "hook": "Dan Ariely’s experiments reveal systematic ways people make irrational decisions about money, prices, and choices.",
+  "ideas": [
+   "Relative comparisons, decoys, and anchors shape what we choose, so context changes decisions in predictable ways.",
+   "Free offers and social norms distort judgment, making people act very differently than economic models predict.",
+   "Some studies in the field have faced replication questions and Ariely has faced scrutiny, so treat individual findings cautiously."
+  ]
+ },
+ "stolen-focus": {
+  "hook": "Johann Hari argues that collapsing attention spans are caused by societal forces, not just personal weakness.",
+  "ideas": [
+   "Hari identifies factors like tech design, sleep loss, stress, and poor diet that together undermine our ability to focus.",
+   "Platforms built to maximize engagement profit from distraction, so individual willpower alone cannot fully solve the problem.",
+   "He calls for collective change as well as personal habits, though some of his evidence and claims have been challenged."
+  ]
+ },
+ "the-21-irrefutable-laws-of-leadership": {
+  "hook": "John Maxwell distills leadership into twenty-one principles about influence, trust, and developing other leaders.",
+  "ideas": [
+   "The law of the lid says your leadership ability caps your effectiveness and the effectiveness of your organization.",
+   "Leadership is influence, not position, and it develops through daily growth rather than arriving in a single moment.",
+   "Calling every principle an irrefutable law overstates the case, but the framework is a useful checklist for reflection."
+  ]
+ },
+ "life-3-0": {
+  "hook": "Max Tegmark explores how artificial intelligence could reshape work, war, society, and the meaning of being human.",
+  "ideas": [
+   "Life evolves in stages: biological, cultural, and potentially technological, where systems can redesign their own software and hardware.",
+   "Tegmark sketches many possible AI futures, arguing we should decide which outcomes we want before the technology decides for us.",
+   "AI safety research, aligning machine goals with human values, deserves serious attention now rather than after powerful systems arrive."
+  ]
+ },
+ "entrepreneurship": {
+  "hook": "A widely used textbook covering how new ventures are conceived, planned, financed, launched, and grown.",
+  "ideas": [
+   "Entrepreneurship is a process that moves from recognizing an opportunity to building a business plan and assembling resources.",
+   "Financing, legal structure, and marketing decisions made early shape a venture’s ability to survive and grow later.",
+   "The book treats entrepreneurship as learnable through frameworks and cases, not just a matter of personality or luck."
+  ]
+ },
+ "no-logo": {
+  "hook": "Naomi Klein’s critique of how global brands colonized culture and public space while outsourcing production.",
+  "ideas": [
+   "Corporations shifted from making products to selling brands, pouring money into image while outsourcing manufacturing to cheap labor.",
+   "Branding pushed into schools, public spaces, and culture, narrowing choice even as consumers felt surrounded by options.",
+   "Klein documents the activist backlash against superbrands, though some of the book’s specifics reflect its late-1990s moment."
+  ]
+ },
+ "the-happiness-advantage": {
+  "hook": "Shawn Achor argues that positive psychology shows happiness drives success, rather than success creating happiness.",
+  "ideas": [
+   "A positive mindset improves creativity, productivity, and resilience, so happiness can be a starting point rather than a reward.",
+   "Small daily habits, like writing gratitudes or exercising, can train your brain to scan for positives instead of problems.",
+   "Social support is a major predictor of success and wellbeing, but some underlying research claims are stronger than evidence supports."
+  ]
+ },
+ "the-highly-sensitive-person": {
+  "hook": "Elaine Aron describes the trait of high sensitivity and how people who have it can thrive.",
+  "ideas": [
+   "A significant minority of people process stimuli deeply and become overstimulated easily, and this is a normal trait, not a disorder.",
+   "Reframing past experiences through the lens of sensitivity can reduce shame and self-criticism about being easily overwhelmed.",
+   "Managing environment, rest, and relationships helps sensitive people use their depth of processing as a strength."
+  ]
+ },
+ "the-little-book-of-common-sense-investing": {
+  "hook": "Vanguard founder John Bogle makes the case for low-cost index funds as the smartest choice for most investors.",
+  "ideas": [
+   "Investors as a group earn the market return before costs, so after fees the average active investor must underperform.",
+   "Owning the entire market through a low-cost index fund captures business growth while minimizing fees and taxes.",
+   "Costs compound just like returns, so even small annual fees can consume a large share of long-term wealth."
+  ]
+ },
+ "your-money-or-your-life": {
+  "hook": "A nine-step program for transforming your relationship with money and achieving financial independence.",
+  "ideas": [
+   "Calculate your real hourly wage after work-related costs, then view every purchase in terms of life energy spent.",
+   "Track every cent and ask whether spending brings fulfillment and aligns with your values, cutting what does not.",
+   "Financial independence arrives when investment income covers expenses, freeing you to choose work for meaning rather than money."
+  ]
+ },
+ "new-psychology-of-money": {
+  "hook": "Psychologist Adrian Furnham surveys research on how people think, feel, and behave around money.",
+  "ideas": [
+   "Attitudes toward money are shaped by upbringing, personality, and culture, and they often operate below conscious awareness.",
+   "Money carries emotional meanings like security, power, love, and freedom, which helps explain irrational financial behavior.",
+   "The book draws on academic research across psychology and economics, offering a broad overview rather than a self-help program."
+  ]
+ },
+ "made-to-stick": {
+  "hook": "Chip and Dan Heath explain why some ideas survive and spread while others are forgotten.",
+  "ideas": [
+   "Sticky ideas tend to be simple, unexpected, concrete, credible, emotional, and told through stories.",
+   "The curse of knowledge makes experts communicate abstractly because they cannot imagine not knowing what they know.",
+   "Concrete details and stories help people remember and act on ideas better than abstract statistics or principles."
+  ]
+ },
+ "fooled-by-randomness": {
+  "hook": "Nassim Taleb argues that people routinely mistake luck for skill, especially in markets and careers.",
+  "ideas": [
+   "Survivorship bias makes winners look skilled when many equally talented people failed from bad luck alone.",
+   "Judge decisions by the full range of possible outcomes, not just what happened, because a bad bet can still pay off.",
+   "Taleb’s combative style can grate, but his warning about randomness and hidden risk remains widely useful."
+  ]
+ },
+ "bullshit-jobs": {
+  "hook": "David Graeber argues that a large share of modern jobs are pointless, and that workers know it.",
+  "ideas": [
+   "Graeber identifies types of pointless work — flunkies, goons, duct tapers, box tickers, and taskmasters — that serve no real purpose.",
+   "Doing meaningless work while pretending it matters causes real psychological harm, especially in cultures linking work to self-worth.",
+   "His estimates of how widespread such jobs are rest partly on surveys and testimony, and economists dispute the scale."
+  ]
+ },
+ "capital-in-the-twenty-first-century": {
+  "hook": "Thomas Piketty uses centuries of data to argue that capitalism tends to concentrate wealth over time.",
+  "ideas": [
+   "When the return on capital exceeds economic growth, inherited wealth grows faster than wages and inequality rises.",
+   "The mid-twentieth-century reduction in inequality was an exception caused by wars, depression, and policy, not a natural trend.",
+   "Piketty proposes progressive taxes on wealth; economists debate his data and mechanisms, but his historical evidence reshaped inequality research."
+  ]
+ },
+ "the-visual-display-of-quantitative-information": {
+  "hook": "Edward Tufte’s foundational guide to designing charts and graphics that reveal data honestly and clearly.",
+  "ideas": [
+   "Maximize the data-ink ratio by removing decoration and chartjunk that do not help readers understand the data.",
+   "Small multiples, repeated charts with consistent scales, make comparisons across many variables easy to see.",
+   "Graphics can deceive through distorted scales or design choices, so honest visualization keeps visual change proportional to data change."
+  ]
+ },
+ "the-total-money-makeover": {
+  "hook": "Dave Ramsey’s step-by-step plan for getting out of debt and building wealth through strict discipline.",
+  "ideas": [
+   "Follow baby steps: build a small emergency fund, pay off debt, then save larger reserves and invest for retirement.",
+   "The debt snowball pays off the smallest balances first for quick wins, which keeps motivation high despite costing more in interest.",
+   "Ramsey’s rules against all debt are rigid, but they help many people break cycles of borrowing and spending."
+  ]
+ },
+ "small-is-beautiful": {
+  "hook": "E. F. Schumacher’s essays challenge growth-obsessed economics and argue for human-scale technology and enterprise.",
+  "ideas": [
+   "Treating natural resources as income rather than capital leads economies to deplete what cannot be replaced.",
+   "Appropriate or intermediate technology suits local needs and skills better than imported large-scale industrial systems.",
+   "Buddhist economics asks what work does for people and communities, not just how much output it produces."
+  ]
+ },
+ "good-strategy-bad-strategy": {
+  "hook": "Richard Rumelt explains what real strategy is and why so many organizations confuse it with goals and slogans.",
+  "ideas": [
+   "Good strategy has a kernel: a diagnosis of the challenge, a guiding policy, and coherent actions that carry it out.",
+   "Bad strategy substitutes fluff, ambitious goals, or lists of wishes for a clear plan to overcome a specific obstacle.",
+   "Strategy concentrates resources where they create leverage, which means accepting trade-offs and saying no to many good things."
+  ]
+ },
+ "feel-the-fear-and-do-it-anyway": {
+  "hook": "Susan Jeffers argues that fear never disappears, so the real skill is acting while you still feel it.",
+  "ideas": [
+   "Everyone feels fear when stepping into the unknown, so waiting for it to vanish before acting means never acting.",
+   "At bottom most fears reduce to doubting you can handle what happens, so building that confidence weakens fear.",
+   "Moving from pain and helplessness to power and choice changes how you respond to setbacks and new risks."
+  ]
+ },
+ "sapiens": {
+  "hook": "Harari compresses the whole human story into a fast, provocative argument about fictions, farming, and power.",
+  "ideas": [
+   "Humans came to dominate because we can cooperate in huge numbers around shared fictions such as gods, nations, money, and companies.",
+   "Harari calls the agricultural revolution a trap that increased population and food supply while making many individual lives harder.",
+   "Its sweep is exhilarating, but specialists criticize many confident generalizations, so read it as a stimulating essay rather than settled history."
+  ]
+ },
+ "guns-germs-and-steel": {
+  "hook": "Jared Diamond asks why some societies conquered others and answers with geography, crops, animals, and disease.",
+  "ideas": [
+   "Regions with domesticable plants and animals developed farming early, which led to dense populations, specialists, and centralized states.",
+   "Eurasia’s east-west axis let crops and technologies spread across similar climates, while other continents faced north-south barriers.",
+   "Diamond rejects racial explanations for inequality, though critics argue his environmental emphasis underplays human choices and contingency."
+  ]
+ },
+ "a-peoples-history-of-the-united-states": {
+  "hook": "Howard Zinn retells American history from the perspective of workers, women, enslaved people, and Native Americans.",
+  "ideas": [
+   "Zinn centers the people usually left out of textbook history, showing how ordinary people resisted and shaped events.",
+   "He argues that elites have used power, war, and division to protect their interests throughout American history.",
+   "The book is openly partisan; historians praise its corrective value but criticize its selective evidence and simplified villains."
+  ]
+ },
+ "the-rise-and-fall-of-the-third-reich": {
+  "hook": "A journalist who reported from Nazi Berlin uses captured documents to trace Hitler’s regime from its rise to collapse.",
+  "ideas": [
+   "Shirer combines personal observation with vast documentary evidence to show how the Nazis gained and wielded power.",
+   "The book traces how political weakness, compromise, and miscalculation by others allowed Hitler’s aggression to escalate.",
+   "Later historians criticize some interpretations about German national character, but its narrative and documentation remain powerful."
+  ]
+ },
+ "the-second-world-war": {
+  "hook": "Winston Churchill’s multivolume history of the war, written by the leader at the center of it.",
+  "ideas": [
+   "Churchill combines memoir and history, using his own documents to explain decisions from the prewar years through victory.",
+   "The work offers an insider’s view of alliance politics, strategy, and the pressures of wartime leadership.",
+   "It is an advocate’s account that shapes the record in his favor, so pair it with independent histories."
+  ]
+ },
+ "prisoners-of-geography": {
+  "hook": "Tim Marshall explains world politics through ten maps, showing how geography constrains what nations can do.",
+  "ideas": [
+   "Mountains, rivers, coastlines, and plains shape national security fears and ambitions, from Russia’s need for warm-water ports to China’s borders.",
+   "Geography explains why some regions remain unstable and why powers repeatedly fight over the same territory.",
+   "The book is accessible and illuminating, though geography is one factor among many and should not be treated as destiny."
+  ]
+ },
+ "the-histories": {
+  "hook": "Herodotus’s account of the Greco-Persian wars, packed with digressions about the peoples and customs of the ancient world.",
+  "ideas": [
+   "Herodotus sets out to record great deeds and explain why Greeks and Persians went to war, inventing history as inquiry.",
+   "His digressions into customs, geography, and stories show deep curiosity about different cultures and their beliefs.",
+   "He mixes careful reporting with legends and hearsay, so readers learn to judge sources alongside him."
+  ]
+ },
+ "the-history-of-the-decline-and-fall-of-the-roman-empire": {
+  "hook": "Gibbon’s monumental, ironic history of Rome’s long collapse, admired as much for its prose as its scholarship.",
+  "ideas": [
+   "Gibbon traces Rome’s decline across centuries, emphasizing internal weakness, overextension, and political corruption.",
+   "He controversially blamed Christianity and barbarian invasions for weakening Roman civic virtue and military strength.",
+   "Modern historians dispute many of his conclusions, but his ironic voice and narrative sweep remain unmatched."
+  ]
+ },
+ "freedom-at-midnight": {
+  "hook": "Two journalists narrate the final year of British rule in India and the violent partition that followed.",
+  "ideas": [
+   "The book traces negotiations among Mountbatten, Nehru, Jinnah, and Gandhi that led to independence and partition in 1947.",
+   "Hurried decisions and drawn borders contributed to mass migration and communal violence that cost many lives.",
+   "Its vivid storytelling is compelling, but critics note it centers Mountbatten and simplifies some Indian and Pakistani perspectives."
+  ]
+ },
+ "the-guns-of-august": {
+  "hook": "Barbara Tuchman’s Pulitzer-winning account of how Europe stumbled into World War I and its first month of fighting.",
+  "ideas": [
+   "Rigid war plans, alliances, and mobilization timetables pushed leaders into war faster than diplomacy could stop it.",
+   "Generals expected a short war and planned for the last conflict, leading to catastrophic miscalculations.",
+   "Tuchman shows how pride, fear, and misunderstanding among leaders shaped events, a lesson often cited by later policymakers."
+  ]
+ },
+ "the-making-of-the-atomic-bomb": {
+  "hook": "Richard Rhodes traces the science, people, and politics behind the creation of the first nuclear weapons.",
+  "ideas": [
+   "Decades of physics discoveries about the atom made the bomb possible before anyone fully grasped its implications.",
+   "Scientists like Szilard, Oppenheimer, and Fermi wrestled with moral questions while racing to build the weapon during wartime.",
+   "The book shows how scientific knowledge, state power, and war combined to create a technology that changed global politics."
+  ]
+ },
+ "band-of-brothers": {
+  "hook": "Stephen Ambrose follows one company of paratroopers from training through D-Day to the end of the war in Europe.",
+  "ideas": [
+   "Easy Company’s story shows how training, hardship, and shared danger bound soldiers together into a cohesive unit.",
+   "Leadership under fire, especially by officers who earned trust through example, mattered enormously to survival and success.",
+   "Based largely on veterans’ interviews, the book captures personal experience, though memory-based accounts can contain inaccuracies."
+  ]
+ },
+ "bury-my-heart-at-wounded-knee": {
+  "hook": "Dee Brown recounts the American West’s conquest from the perspective of the Native peoples who lost their land.",
+  "ideas": [
+   "The book documents broken treaties, forced removals, and massacres in the decades after the Civil War.",
+   "Drawing on Native testimony and records, Brown centers voices long excluded from popular histories of the West.",
+   "Its moral force reshaped public understanding, though later scholarship adds complexity to some of its accounts."
+  ]
+ },
+ "india-after-gandhi": {
+  "hook": "Ramachandra Guha’s history of independent India explains how a divided, impoverished nation became a durable democracy.",
+  "ideas": [
+   "India survived partition, linguistic conflicts, and poverty to remain democratic, defying many predictions of collapse.",
+   "Leaders like Nehru shaped institutions, while crises such as the Emergency tested the strength of democratic norms.",
+   "Guha balances political history with social and regional detail, showing India’s diversity as both challenge and strength."
+  ]
+ },
+ "genghis-khan-and-the-making-of-the-modern-world": {
+  "hook": "Jack Weatherford recasts Genghis Khan as a builder of trade, law, and communication networks across Eurasia.",
+  "ideas": [
+   "The Mongol Empire connected East and West, spreading goods, technologies, and ideas across a vast territory.",
+   "Genghis Khan promoted merit over birth, religious tolerance, and systems like a postal relay that bound his empire together.",
+   "The book is revisionist and often admiring; critics argue it underplays the enormous violence of Mongol conquest."
+  ]
+ },
+ "the-warmth-of-other-suns": {
+  "hook": "Isabel Wilkerson tells the story of the Great Migration through three people who left the Jim Crow South.",
+  "ideas": [
+   "Millions of Black Americans fled Southern oppression for Northern and Western cities between 1915 and 1970, reshaping the country.",
+   "Following three individuals over decades reveals the hopes, dangers, and disappointments migration brought.",
+   "Wilkerson frames the migration as similar to immigration, a search for freedom and opportunity within America’s own borders."
+  ]
+ },
+ "spqr": {
+  "hook": "Mary Beard reexamines Rome’s first thousand years with skepticism about myths and attention to ordinary Romans.",
+  "ideas": [
+   "Beard questions Rome’s founding legends and shows how Romans themselves argued about their history and identity.",
+   "Debates over citizenship, power, and liberty in Rome echo in modern political arguments.",
+   "She includes ordinary Romans’ lives alongside emperors and generals, showing a more complete picture of Roman society."
+  ]
+ },
+ "the-silk-roads": {
+  "hook": "Peter Frankopan retells world history from the trade routes that connected East and West across Central Asia.",
+  "ideas": [
+   "The regions linking Europe and Asia have been the center of world history, not a periphery to the West.",
+   "Trade along the Silk Roads spread goods, religions, diseases, and ideas, shaping empires across continents.",
+   "The book challenges Western-centered narratives, though its vast scope means some topics receive only brief treatment."
+  ]
+ }
+}
