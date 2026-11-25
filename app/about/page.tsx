@@ -32,7 +32,7 @@ export default function AboutPage() {
         <figure className="maker">
           <div className="maker-frame">
             <Image
-              src="/tanvir-ahmed.jpg"
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/tanvir-ahmed.jpg`}
               alt="Tanvir Ahmed on a balcony, forested hills behind him"
               fill
               sizes="260px"
