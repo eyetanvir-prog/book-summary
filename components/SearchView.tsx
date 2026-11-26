@@ -38,7 +38,7 @@ export function SearchView() {
       <header className="page-intro">
         <p className="kicker">Search · {catalogTotal.toLocaleString("en-US")} books</p>
         <h1>{query ? `“${query}”` : section ? section.label : "Find a thread."}</h1>
-        <form className="search-form page-search" action="/search" method="get">
+        <form className="search-form page-search" action={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/search/`} method="get">
           <input
             name="q"
             defaultValue={query}

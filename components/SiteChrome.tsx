@@ -12,7 +12,7 @@ export function Header() {
         <Link href="/sections">Sections</Link>
         <Link href="/must-reads">Must-reads</Link>
         <Link href="/about">About</Link>
-        <form className="search-form" action="/search" method="get">
+        <form className="search-form" action={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/search/`} method="get">
           <input name="q" type="search" placeholder="Search 1,000+ books" aria-label="Search books" />
           <button type="submit">Go</button>
         </form>
